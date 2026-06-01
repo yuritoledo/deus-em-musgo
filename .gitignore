@@ -1,0 +1,13 @@
+# Shadowdark SRD reference (clone your own)
+shadowdark/
+
+# Obsidian
+.obsidian/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.swp
+*.swo
