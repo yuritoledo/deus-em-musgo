@@ -25,8 +25,18 @@ Role **2d6**:
 - **7-9** — Pressentimento vago ou direção aproximada
 - **6-** — Nenhum insight
 
-## Forma Espreitadora
-Você conhece a magia **Forma Espreitadora** (descrita abaixo). Ela não conta no seu limite de magias conhecidas.
+## Formas Selvagens
+
+Conforme você sobe de nível, desbloqueia formas mais poderosas. Cada uma não conta no seu limite de magias conhecidas.
+
+### Forma Espreitadora (nv 1)
+Você conhece a magia **Forma Espreitadora** (descrita abaixo).
+
+### Forma Caçadora (nv 3)
+Você conhece a magia **Forma Caçadora**. Ela não conta no seu limite de magias conhecidas.
+
+### Forma Primal (nv 5)
+Você conhece a magia **Forma Primal**. Ela não conta no seu limite de magias conhecidas.
 
 ## Magias
 Você pode lançar magias druídicas que conhece.
@@ -44,7 +54,7 @@ Cada vez que sobe de nível, você escolhe novas magias para aprender conforme a
 | 2 | +1 uso/dia de Ler Sinais **ou** pode conjurar 1 magia de círculo 1 enquanto transformado |
 | 3-5 | +1 FOR **ou** +1 SAB |
 | 6-8 | +1 em testes de conjuração |
-| 9-11 | +2 FOR **ou** +2 SAB |
+| 9-11 | +2 FOR **ou** +2 SAB **ou** vantagem em rolagens de ataque e CA enquanto usa uma forma específica (escolha a forma ao pegar o talento) |
 | 12 | Escolha duas opções quaisquer (pode repetir) **ou** +2 pontos para distribuir |
 
 ---

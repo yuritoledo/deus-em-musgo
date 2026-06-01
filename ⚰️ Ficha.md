@@ -70,10 +70,13 @@
 - **7-9** — Pressentimento ou direção vaga
 - **6-** — Nenhum insight
 
-**Forma Espreitadora:** 1/dia, transforma-se em besta não voadora de tamanho similar ao seu. Dura 1 turno/nível.
-- **Ataques:** garras/dentes (d4) usando seu modificador de FOR
-- **Magias:** não pode conjurar enquanto transformado (a menos que um talento diga o contrário)
-- **Equipamento:** funde-se ao corpo, não ocupa espaço
+**Formas Selvagens:**
+
+**Forma Espreitadora (nv 1):** 1/dia, vira besta não voadora de tamanho similar. Dura 1 turno/nível. CA 11+DES, ataque d4 (FOR), +1 ataque. Escolhe: Furtivo (vantagem em Furtividade) ou Rastreador (vantagem em Percepção).
+
+**Forma Caçadora (nv 3 — automática):** Igual, mas CA 12+DES, dano d6, +2 ataque. Escolhe: Instintivo (não é surpreendido) ou Movimento (move o dobro).
+
+**Forma Primal (nv 5 — automática):** Igual, mas CA 13+DES, dano d8, +3 ataque, pode voar. Escolhe: vantagem em FOR ou Rugido (SAB CD 14 ou fogem).
 
 ### Talentos — Tabela (2d6 ao subir)
 
@@ -84,7 +87,7 @@ Role 2d6 e escolha uma das opções.
 | 2 | +1 uso/dia de Ler Sinais **ou** pode conjurar 1 magia de círculo 1 enquanto transformado |
 | 3-5 | +1 FOR **ou** +1 SAB |
 | 6-8 | +1 em testes de conjuração |
-| 9-11 | +2 FOR **ou** +2 SAB |
+| 9-11 | +2 FOR **ou** +2 SAB **ou** vantagem em rolagens de ataque e CA enquanto usa uma forma específica (escolha a forma ao pegar o talento) |
 | 12 | Escolha duas opções (pode repetir) **ou** +2 pontos para distribuir |
 
 ### Guerreiro / Sacerdote / Ladrão / Mago
