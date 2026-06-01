@@ -27,7 +27,9 @@ Role **2d6**:
 
 ## Formas Selvagens
 
-Conforme você sobe de nível, desbloqueia formas mais poderosas. Cada uma não conta no seu limite de magias conhecidas.
+Conforme você sobe de nível, desbloqueia formas mais poderosas. Cada forma substitui seus atributos **FOR** e **DES** pelos dela — você é o bicho de verdade. Mentais (SAB, INT, CAR) e PV permanecem seus.
+
+Cada forma não conta no seu limite de magias conhecidas.
 
 ### Forma Espreitadora (nv 1)
 Você conhece a magia **Forma Espreitadora** (descrita abaixo).
@@ -85,7 +87,7 @@ Cada vez que sobe de nível, você escolhe novas magias para aprender conforme a
 
 Transforme-se em uma besta não voadora de tamanho similar ao seu. Você mantém seus PV e atributos mentais.
 
-**CA:** 11 + DES. Ganha ataque de garra ou mordida (FOR, 1d4) com **+1** em rolagens de ataque.
+**FOR +1, DES +1, CA 11.** Ataque de garra ou mordida (FOR, 1d4) com **+1** em rolagens de ataque.
 
 Ao se transformar, escolha um:
 
@@ -167,7 +169,7 @@ Uma névoa densa preenche uma área próxima. Criaturas dentro são **fortemente
 
 **Duração:** 5 rounds **Alcance:** Próprio
 
-Transforme-se usando as mesmas regras de Forma Espreitadora, mas sua CA passa a ser **12 + DES**, seus ataques causam 1d6 de dano e ganham **+2** em rolagens de ataque.
+Transforme-se usando as mesmas regras de Forma Espreitadora, mas **FOR +2, DES +1, CA 13**, seus ataques causam 1d6 de dano e ganham **+2** em rolagens de ataque.
 
 Ao se transformar, escolha um:
 
@@ -219,7 +221,7 @@ Criaturas que passarem pela parede sofrem 1d6 de dano e têm seu movimento reduz
 
 **Duração:** 5 rounds **Alcance:** Próprio
 
-Transforme-se usando as mesmas regras de Forma Espreitadora, mas sua CA passa a ser **13 + DES**, seus ataques causam 1d8 de dano com **+3** em rolagens de ataque e você pode escolher uma besta voadora.
+Transforme-se usando as mesmas regras de Forma Espreitadora, mas **FOR +3, DES +2, CA 15**, seus ataques causam 1d8 de dano com **+3** em rolagens de ataque e você pode escolher uma besta voadora.
 
 Ao se transformar, escolha um:
 

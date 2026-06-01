@@ -70,13 +70,13 @@
 - **7-9** — Pressentimento ou direção vaga
 - **6-** — Nenhum insight
 
-**Formas Selvagens:**
+**Formas Selvagens:** Cada forma substitui FOR e DES pelos valores dela. Mentais e PV permanecem.
 
-**Forma Espreitadora (nv 1):** 1/dia, vira besta não voadora de tamanho similar. Dura 1 turno/nível. CA 11+DES, ataque d4 (FOR), +1 ataque. Escolhe: Furtivo (vantagem em Furtividade) ou Rastreador (vantagem em Percepção).
+**Forma Espreitadora (nv 1):** 1/dia, vira besta não voadora. Dura 1 turno/nível. FOR+1, DES+1, CA 11. Ataque d4 (FOR), +1 atq. Escolhe: **Furtivo** (vant. Furtividade) ou **Rastreador** (vant. Percepção).
 
-**Forma Caçadora (nv 3 — automática):** Igual, mas CA 12+DES, dano d6, +2 ataque. Escolhe: Instintivo (não é surpreendido) ou Movimento (move o dobro).
+**Forma Caçadora (nv 3 — automática):** Igual, mas FOR+2, DES+1, CA 13, dano d6, +2 atq. Escolhe: **Instintivo** (não surpreendido) ou **Movimento** (move dobro).
 
-**Forma Primal (nv 5 — automática):** Igual, mas CA 13+DES, dano d8, +3 ataque, pode voar. Escolhe: vantagem em FOR ou Rugido (SAB CD 14 ou fogem).
+**Forma Primal (nv 5 — automática):** Igual, mas FOR+3, DES+2, CA 15, dano d8, +3 atq, pode voar. Escolhe: **vant. FOR** ou **Rugido** (SAB CD 14 ou foge).
 
 ### Talentos — Tabela (2d6 ao subir)
 
