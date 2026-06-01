@@ -21,6 +21,7 @@ Você pode ser um enviado do **Mosteiro da Chama Perpétua**, um dos últimos ba
 ## Regras
 
 - [📈 Progressão & XP](5%20-%20Mecânicas/5.2%20-%20Progressão%20&%20XP.md)
+- [🤝 Reputação & Facções](5%20-%20Mecânicas/5.3%20-%20Reputação%20&%20Facções.md)
 - [🌬️ Mecânica de Vento](5%20-%20Mecânicas/Mecânica%20de%20Vento.md)
 
 ## Ficha
