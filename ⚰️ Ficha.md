@@ -71,7 +71,6 @@
 - **6-** — Nenhum insight
 
 **Forma Espreitadora:** 1/dia, transforma-se em besta não voadora de tamanho similar ao seu. Dura 1 turno/nível.
-- **PV temporários:** +1d6
 - **Ataques:** garras/dentes (d4) usando seu modificador de FOR
 - **Magias:** não pode conjurar enquanto transformado (a menos que um talento diga o contrário)
 - **Equipamento:** funde-se ao corpo, não ocupa espaço

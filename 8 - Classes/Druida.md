@@ -28,8 +28,6 @@ Role **2d6**:
 ## Forma Espreitadora
 Você conhece a magia **Forma Espreitadora** (descrita abaixo). Ela não conta no seu limite de magias conhecidas.
 
-Quando conjura, ganha **1d6 PV temporários** que somem quando a transformação termina.
-
 ## Magias
 Você pode lançar magias druídicas que conhece.
 
@@ -75,7 +73,7 @@ Cada vez que sobe de nível, você escolhe novas magias para aprender conforme a
 
 **Duração:** 1 turno/nível **Alcance:** Próprio
 
-Transforme-se em uma besta não voadora de tamanho similar ao seu. Ganhe **1d6 PV temporários** (se a habilidade de classe já deu, não acumula — use o maior). Você mantém seus atributos mentais.
+Transforme-se em uma besta não voadora de tamanho similar ao seu. Você mantém seus PV e atributos mentais.
 
 **CA:** 11 + DES. Ganha ataque de garra ou mordida (FOR, 1d4) com **+1** em rolagens de ataque.
 
