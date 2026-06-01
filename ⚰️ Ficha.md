@@ -61,11 +61,10 @@
 
 ### Druida
 
-**Fala Selvagem:** Comunica-se com animais e fungos. SAB CD 12 por pergunta. Falha = o ser não coopera; nova tentativa só no próximo amanhecer ou torpor do fungo.
-- **Animais:** perguntas diretas (perigo, comida, direção).
-- **Fungos:** mais lentos. Respondem com sensações/vibrações. Dão direções vagas a áreas de podridão alta ou baixa.
+**Fala Selvagem:** Comunica-se com animais. SAB CD 12 por pergunta. Falha = não coopera; nova tentativa só no próximo amanhecer.
+- Perguntas diretas (perigo, comida, direção).
 
-**Ler Sinais:** Lê sinais da natureza — estrelas, vento, brilho de esporos, comportamento animal. 1/sessão. Role 2d6:
+**Ler Sinais:** Lê sinais da natureza — estrelas, vento, comportamento animal. 1/sessão. Role 2d6:
 - **10+** — Token de sorte (re-role 1 d20 qualquer uma vez até o fim da sessão)
 - **7-9** — Pressentimento ou direção vaga
 - **6-** — Nenhum insight

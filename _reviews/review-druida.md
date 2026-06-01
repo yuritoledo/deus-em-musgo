@@ -1,5 +1,9 @@
 # Revisão da Classe Druida
 
+> **Nota:** Esta classe é um druida genérico de fantasia, não atado ao cenário específico de fungos/podridão. Críticas sobre falta de elementos fúngicos são intencionais — a classe serve qualquer cenário.
+
+---
+
 ## 1. Consistência entre Arquivos
 
 ### 1.1 Tabela de Magias Conhecidas — Divergência Crítica
@@ -37,9 +41,6 @@ Ler Sinais é **1/sessão**. Talento resultado 2 diz **"+1 uso/dia de Ler Sinais
 
 - SAB +2 (típico nv 1): chance ≈ 55% (10+ no d20). Razoável.
 - Castigo de "só amanhã" — justo, impede spam.
-- **Fungos:** mecânica exclusivamente narrativa ("vibrações", "sentir direções vagas"). Não tem rolagem. Ficha.md coloca DC 12 como regra geral.
-
-**→ Esclarecer se fungos exigem rolagem ou é automático.**
 
 ### 2.2 Ler Sinais — 1/sessão, escala 2d6
 
@@ -111,7 +112,6 @@ Comparado a +2 FOR:
 ### 3.4 O que Falta?
 
 - **Nenhum talento afeta magia diretamente** além do +1 conjuração no 6–8. Druida conjurador puro (sem forma) só tem isso como melhoria. Poderia ter "+1 magia conhecida de C1" ou "reduz CD em 1 pra magias da natureza".
-- **Nenhum talento de fungo/esporo.** Tema central do cenário ("Deus em Musgo", esporos, podridão) e zero talentos tocam nisso.
 
 ### 3.5 Resultado 12 — "+2 pontos para distribuir" é **trap**
 
@@ -172,12 +172,13 @@ Se cap = 5: Druida empata com Sacerdote em círculo máximo mas conhece **mais**
 - **Sem cura:** Druida não tem acesso a cura alguma. Sacerdote tem Curar Ferimentos no C1. Se a intenção é druida não curar nesse cenário, devia ser declarado. Druida solo sem cura é desafio extra.
 - **Armas:** Arco Curto e Foice. Sem Shillelagh ativo, depende de FOR pra bater corpo a corpo — e FOR é atributo secundário.
 
-### 5.1 Sugestão: Bálsamo de Musgo
+### 5.1 Sugestão: Cura Básica
 
-Adicionar 1 magia de cura temática:
-> **Bálsamo de Musgo** — Círculo 1, druida. Toque, instantânea. Cura 1d4 PV. O musgo se desfaz em pó após a cura. Pode ser lançada enquanto transformado.
+Adicionar 1 magia de cura básica:
 
-Fraca, temática, dá um respiro pro druida solo.
+> **Cura Selvagem** — Círculo 1, druida. Toque, instantânea. Cura 1d4 PV.
+
+Fraca mas dá um respiro pro druida solo.
 
 ---
 
@@ -188,10 +189,8 @@ Fraca, temática, dá um respiro pro druida solo.
 1. **Tabela de círculos 1–10 vs cap 5.** Inconsistência mais grave. Decisão de design pendente.
 2. **Ler Sinais "1/sessão" vs talento "+1/dia".** Unificar.
 3. **Duração "1 turno/nível" da Forma Espreitadora.** Ambíguo. Definir em rounds ou tempo real.
-4. **Idioma "Esporos" (linha 10).** Mencionado mas nunca referenciado mecanicamente.
-5. **Rugido da Forma Primal — frequência não especificada.**
-6. **Ficha.md omite duração das formas Caçadora e Primal.**
-7. **Nenhum talento ou mecânica de fungo/esporo** — tema central do cenário.
+4. **Rugido da Forma Primal — frequência não especificada.**
+5. **Ficha.md omite duração das formas Caçadora e Primal.**
 
 ### 6.2 Recomendações Prioritárias
 
@@ -199,10 +198,9 @@ Fraca, temática, dá um respiro pro druida solo.
 - Unificar "sessão" vs "dia" para "1/sessão"
 - Definir "turno" no sistema (10 min? duração de cena?)
 - Especificar frequência do Rugido (1/transformação)
-- Adicionar 1 magia de cura temática (Bálsamo de Musgo)
-- Adicionar 1 talento de fungo/podridão
+- Adicionar 1 magia de cura básica (C1, cura 1d4)
 - Adicionar tag "pode ser lançada transformado" em Rajada de Vento
-- Trocar resultado 2 para usar Fala Selvagem em vez de +1 Ler Sinais
+- Trocar resultado 2 para vantagem em Fala Selvagem em vez de +1 Ler Sinais
 - Remover/melhorar opção "+2 pontos" no resultado 12
 - Concretizar Evocar Espírito com 3-4 efeitos definidos
 

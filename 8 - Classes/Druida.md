@@ -7,18 +7,15 @@ Guiado pela lua, flui entre humano e besta, manipulando a força bruta da nature
 **Armas:** Cajado, Clava, Adaga, Arco Curto, Foice
 **Armadura:** Couro, Escudo
 **Dados de Vida:** 1d6 por nível
-**Idiomas:** Silvestre, Druídico, **Esporos** (comunicação básica com fungos conscientes)
+**Idiomas:** Silvestre, Druídico
 
 ---
 
 ## Fala Selvagem
-Você consegue se comunicar com animais e fungos conscientes.
-
-- **Animais:** Rápidos, diretos. Role SAB CD 12 por pergunta. Falha = não coopera; nova tentativa só no próximo amanhecer.
-- **Fungos:** Lentos, sensoriais. Respondem com vibrações e sensações. Úteis pra sentir direções vagas — áreas de podridão alta ou baixa, passagens ocultas, presença de criaturas.
+Você consegue se comunicar com animais. Rápidos, diretos. Role SAB CD 12 por pergunta. Falha = não coopera; nova tentativa só no próximo amanhecer.
 
 ## Ler Sinais
-Você lê os sinais da natureza — estrelas, vento, nuvens, brilho de esporos, comportamento animal. Funciona em qualquer ambiente externo. 1/sessão.
+Você lê os sinais da natureza — estrelas, vento, nuvens, comportamento animal. Funciona em qualquer ambiente externo. 1/sessão.
 
 Role **2d6**:
 - **10+** — Token de sorte (re-role 1 d20 qualquer uma vez até o fim da sessão)
