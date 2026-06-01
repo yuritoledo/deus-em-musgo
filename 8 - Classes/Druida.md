@@ -41,7 +41,7 @@ Cada vez que sobe de nível, você escolhe novas magias para aprender conforme a
 
 | 2d6 | Talento |
 |:---:|:--------|
-| 2 | **Companheiro natural** (animal/fungo, 1d4 PV, age na sua vez) **ou** Forma ganha ataque extra (2d4) **ou** +1 uso/dia de Ler Sinais |
+| 2 | +1 uso/dia de Ler Sinais **ou** pode conjurar 1 magia de círculo 1 enquanto transformado |
 | 3-5 | +1 FOR **ou** +1 SAB |
 | 6-8 | +1 em testes de conjuração |
 | 9-11 | +2 FOR **ou** +2 SAB |
