@@ -4,21 +4,31 @@ Guiado pela lua, flui entre humano e besta, manipulando a força bruta da nature
 
 ---
 
-**Armas:** Cajado, Clava, Adaga, Arco Curto
+**Armas:** Cajado, Clava, Adaga, Arco Curto, Foice
 **Armadura:** Couro, Escudo
 **Dados de Vida:** 1d6 por nível
-**Idiomas:** Silvestre, Druídico
+**Idiomas:** Silvestre, Druídico, **Esporos** (comunicação básica com fungos conscientes)
 
 ---
 
 ## Fala Selvagem
-Você consegue se comunicar com animais. Role WIS DC 12 para cada pergunta. Se falhar, o animal não coopera ou entende errado — você não pode usar essa habilidade de novo até o próximo amanhecer.
+Você consegue se comunicar com animais e fungos conscientes.
 
-## Ler Estrelas
-1/dia, durante a noite, você pode ler as estrelas para prever seu futuro. Role 1d6. Em 5-6, você ganha um token de sorte.
+- **Animais:** Rápidos, diretos. Role SAB CD 12 por pergunta. Falha = não coopera; nova tentativa só no próximo amanhecer.
+- **Fungos:** Lentos, sensoriais. Respondem com vibrações e sensações. Úteis pra sentir direções vagas — áreas de podridão alta ou baixa, passagens ocultas, presença de criaturas.
+
+## Ler Sinais
+Você lê os sinais da natureza — estrelas, vento, nuvens, brilho de esporos, comportamento animal. Funciona em qualquer ambiente externo. 1/sessão.
+
+Role **2d6**:
+- **10+** — Token de sorte (re-role 1 d20 qualquer uma vez até o fim da sessão)
+- **7-9** — Pressentimento vago ou direção aproximada
+- **6-** — Nenhum insight
 
 ## Forma Espreitadora
-Você conhece a magia **Forma Espreitadora**. Ela não conta no seu limite de magias conhecidas.
+Você conhece a magia **Forma Espreitadora** (descrita abaixo). Ela não conta no seu limite de magias conhecidas.
+
+Quando conjura, ganha **1d6 PV temporários** que somem quando a transformação termina.
 
 ## Magias
 Você pode lançar magias druídicas que conhece.
@@ -29,15 +39,15 @@ Cada vez que sobe de nível, você escolhe novas magias para aprender conforme a
 
 ---
 
-### Talentos de Classe
+### Talentos (role 2d6 ao subir de nível)
 
-| 2d6 | Efeito |
-|:---:|--------|
-| 2 | Escolha um: forma de besta dura 3 dias **ou** pode lançar 5 magias conhecidas enquanto transformado |
-| 3-6 | +1 em ataques corpo a corpo **ou** +1 em testes de magia |
-| 7-9 | +2 em Força **ou** Sabedoria |
-| 10-11 | Vantagem em uma Forma específica **ou** +1 uso de Ler Estrelas |
-| 12 | Escolha uma opção **ou** +2 pontos para distribuir em atributos |
+| 2d6 | Talento |
+|:---:|:--------|
+| 2 | **Companheiro natural** (animal/fungo, 1d4 PV, age na sua vez) **ou** Forma ganha ataque extra (2d4) **ou** +1 uso/dia de Ler Sinais |
+| 3-5 | +1 FOR **ou** +1 SAB |
+| 6-8 | +1 em testes de conjuração |
+| 9-11 | +2 FOR **ou** +2 SAB |
+| 12 | Escolha duas opções quaisquer (pode repetir) **ou** +2 pontos para distribuir |
 
 ---
 
@@ -63,9 +73,9 @@ Cada vez que sobe de nível, você escolhe novas magias para aprender conforme a
 ### Forma Espreitadora
 *Círculo 1, druida*
 
-**Duração:** 5 rounds **Alcance:** Próprio
+**Duração:** 1 turno/nível **Alcance:** Próprio
 
-Transforme-se em uma besta não voadora. Você mantém seus PV e atributos.
+Transforme-se em uma besta não voadora de tamanho similar ao seu. Ganhe **1d6 PV temporários** (se a habilidade de classe já deu, não acumula — use o maior). Você mantém seus atributos mentais.
 
 **CA:** 11 + DES. Ganha ataque de garra ou mordida (FOR, 1d4) com **+1** em rolagens de ataque.
 

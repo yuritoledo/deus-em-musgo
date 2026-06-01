@@ -61,21 +61,32 @@
 
 ### Druida
 
-**Fala Selvagem:** Comunica-se com animais. SAB CD 12 por pergunta. Falha = animal não coopera; nova tentativa só no próximo amanhecer.
+**Fala Selvagem:** Comunica-se com animais e fungos. SAB CD 12 por pergunta. Falha = o ser não coopera; nova tentativa só no próximo amanhecer ou torpor do fungo.
+- **Animais:** perguntas diretas (perigo, comida, direção).
+- **Fungos:** mais lentos. Respondem com sensações/vibrações. Dão direções vagas a áreas de podridão alta ou baixa.
 
-**Ler Estrelas:** 1/dia, à noite. Role 1d6. 5-6 = token de sorte.
+**Ler Sinais:** Lê sinais da natureza — estrelas, vento, brilho de esporos, comportamento animal. 1/sessão. Role 2d6:
+- **10+** — Token de sorte (re-role 1 d20 qualquer uma vez até o fim da sessão)
+- **7-9** — Pressentimento ou direção vaga
+- **6-** — Nenhum insight
 
-**Forma Espreitadora:** Magia conhecida (não conta no limite). Transformação em besta não voadora.
+**Forma Espreitadora:** 1/dia, transforma-se em besta não voadora de tamanho similar ao seu. Dura 1 turno/nível.
+- **PV temporários:** +1d6
+- **Ataques:** garras/dentes (d4) usando seu modificador de FOR
+- **Magias:** não pode conjurar enquanto transformado (a menos que um talento diga o contrário)
+- **Equipamento:** funde-se ao corpo, não ocupa espaço
 
-### Talentos
+### Talentos — Tabela (2d6 ao subir)
 
-| 2d6 | Talento | Escolha |
-|:---:|:--------|:--------|
-| 2 | | Forma dura 3 dias **ou** 5 magias enquanto transformado |
-| 3-6 | | +1 atq corpo a corpo **ou** +1 teste magia |
-| 7-9 | | +2 FOR **ou** +2 SAB |
-| 10-11 | | Vantagem numa Forma específica **ou** +1 Ler Estrelas |
-| 12 | | Qualquer opção **ou** +2 em atributos |
+Role 2d6 e escolha uma das opções.
+
+| 2d6 | Talento |
+|:---:|:--------|
+| 2 | **Companheiro natural** (animal/fungo, 1d4 PV, age na sua vez) **ou** Forma ganha ataque extra (2d4) **ou** +1 uso/dia de Ler Sinais |
+| 3-5 | +1 FOR **ou** +1 SAB |
+| 6-8 | +1 em testes de conjuração |
+| 9-11 | +2 FOR **ou** +2 SAB |
+| 12 | Escolha duas opções (pode repetir) **ou** +2 pontos para distribuir |
 
 ### Guerreiro / Sacerdote / Ladrão / Mago
 
