@@ -5,9 +5,9 @@
 | Campo | |
 |:------|:-|
 | **Nome** | |
-| **Ancestralidade** | Humano | Anão | Elfo | Halfling | Meio-Orc | Goblin |
+| **Ancestralidade** | Humano | Anão | Elfo | Halfling | Meio-Orc | Goblin | Kobold |
 | **Classe** | Guerreiro | Sacerdote | Ladrão | Mago | Druida |
-| **Nível** | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| **Nível** (cap 5) | 1 | 2 | 3 | 4 | 5 |
 | **Antecedente** | |
 
 ## Atributos
