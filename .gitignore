@@ -11,3 +11,8 @@ Thumbs.db
 # Temp
 *.swp
 *.swo
+
+# Node / VitePress
+node_modules/
+.vitepress/dist/
+.vitepress/cache/

@@ -38,14 +38,15 @@ Se não tiver gancho claro, role **[Evento Inesperado](6%20-%20Oráculo%20Solo/6
 
 ## 2. Destino — Onde fica?
 
-### Zona (1d6)
+### Zona (1d8)
 
-| d6 | Zona | Perigo | Distância típica |
-|:--:|:-----|:------:|:-----------------|
-| 1–2 | **Tênue** — perto do mosteiro | Inseguro | Perto–Médio |
-| 3–4 | **Tocada** — 1-3 dias de viagem | Arriscado | Médio–Longe |
-| 5 | **Podre** — 3+ dias | Mortal | Longe–Distante |
-| 6 | **Masmorra** — role [tema](3%20-%20Masmorras/3.0%20-%20Gerador%20de%20Masmorras.md) | varia | — |
+| d8  | Zona                                                                                |  Perigo   | Distância típica |
+| :-: | :---------------------------------------------------------------------------------- | :-------: | :--------------- |
+| 1–2 | **Tênue** — perto do mosteiro                                                       | Inseguro  | Perto–Médio      |
+| 3–4 | **Tocada**                                                                          | Arriscado | Médio–Longe      |
+|  5  | **Podre**                                                                           |  Mortal   | Longe–Distante   |
+|  6  | **Coração**                                                                         |  Crítico  | Distante+        |
+| 7–8 | **Masmorra** — role [tema](3%20-%20Masmorras/3.0%20-%20Gerador%20de%20Masmorras.md) |   Varia   | —                |
 
 ### Local específico (1d12)
 
@@ -53,36 +54,24 @@ Role 1d12 no tema do local ([Gerador de Masmorras](3%20-%20Masmorras/3.0%20-%20G
 
 ### Distância (1d4)
 
-| d4 | Distância | Viagem | Obstáculos |
-|:--:|:----------|:-------|:----------:|
-| 1 | **Perto** — horas | Sem teste de encontro | 0 |
-| 2 | **Médio** — meio dia | Role vento + 1 obstáculo | 1 |
-| 3 | **Longe** — 1 dia | Role vento + 2 obstáculos | 2 |
-| 4 | **Distante** — 2+ dias | Role vento + 3 obstáculos | 3 |
+| d4 | Distância | Obstáculos |
+|:--:|:----------|:----------:|
+| 1 | **Perto** — horas | 0 |
+| 2 | **Médio** — meio dia | 1 |
+| 3 | **Longe** — 1 dia | 2 |
+| 4 | **Distante** — 2+ dias | 3 |
 
 ---
 
 ## 3. Viagem — O caminho
 
-### Vento (1d6)
-
-Role vento e [direção](5%20-%20Mecânicas/Mecânica%20de%20Vento.md):
-
-| d6 | Vento | Efeito |
-|:--:|:------|:-------|
-| 1–2 | **Calmaria** | Nada |
-| 3–4 | **Forte** | Movimento custa +1/2. Percepção auditiva com desvantagem |
-| 5–6 | **Tempestade** | FOR CD 12 pra mover. Tochas apagam. Se zona Podre/Coração: Ciclo do Podre |
-
-### Obstáculos (1d6 por obstáculo)
-
-Role para cada obstáculo que a distância pedir:
+Role **1d6 pra cada obstáculo** que a distância pedir:
 
 | d6 | Obstáculo |
-|:--:|:-----------|
+|:--:|:----------|
 | 1 | **Terreno difícil** — FOR CD 10 ou perde 1 recurso |
 | 2 | **Encontro aleatório** — role [tabela](5%20-%20Mecânicas/5.1%20-%20Encontros%20Aleatórios.md) |
-| 3 | **Condição piora** — vento ou zona sobe 1 nível |
+| 3 | **Condição piora** — zona sobe 1 nível |
 | 4 | **Trilha perdida** — SAB CD 12 ou chega em local diferente |
 | 5 | **Indício** — pista sobre o que te espera (role [Ação+Tema](6%20-%20Oráculo%20Solo/6.1%20-%20O%20Oráculo.md#2-oráculo-de-ação--tema)) |
 | 6 | **Escolha** — atalho perigoso ou caminho seguro mas longo |
@@ -141,9 +130,8 @@ Use a [Resolução de Desafios](6%20-%20Oráculo%20Solo/6.5%20-%20Resolução%20
 
 ## 6. Retorno — Voltar pra casa
 
-Na volta, a distância é a **mesma** (você já conhece o caminho, mas o vento e obstáculos ainda estão lá):
+Na volta, a distância é a **mesma** e você já conhece o caminho:
 
-- Role **vento** normalmente
 - Role **metade dos obstáculos** (arredondado pra baixo)
 - Se o gancho foi completado, role **Recompensa** ([Tesouros](6%20-%20Oráculo%20Solo/6.4%20-%20Tesouros%20&%20Relíquias.md))
 
@@ -211,9 +199,11 @@ Mod = reputação da facção / 10 (arredondado). Ex: +7 → +1.
 | Tênue (seguro) | 3+ no dado |
 | Tocada (médio) | 2+ |
 | Podre (mortal) | 1+ |
+| Coração (crítico) | 1+ |
+| Masmorra | Por sala (item 3 da Exploração) |
 
-Role 1d6 a cada mudança de sala ou horário. Se igual ou maior que o valor, encontro.
+Role 1d6 a cada mudança de sala ou horário (exceto em masmorras). Se igual ou maior que o valor, encontro.
 
 ---
 
-*Veja também: [Ficha](⚰️%20Ficha.md) · [Oráculo Completo](6%20-%20Oráculo%20Solo/6.1%20-%20O%20Oráculo.md) · [Progressão](5%20-%20Mecânicas/5.2%20-%20Progressão%20&%20XP.md) · [Reputação](5%20-%20Mecânicas/5.3%20-%20Reputação%20&%20Facções.md)*
+*Veja também: [Oráculo Completo](6%20-%20Oráculo%20Solo/6.1%20-%20O%20Oráculo.md) · [Progressão](5%20-%20Mecânicas/5.2%20-%20Progressão%20&%20XP.md) · [Reputação](5%20-%20Mecânicas/5.3%20-%20Reputação%20&%20Facções.md)*
