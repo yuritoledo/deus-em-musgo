@@ -17,10 +17,10 @@ um mapa de região, facções, masmorras, regras solo e mecânicas adaptadas.
 
 ## Por onde começar
 
-- [**game-loop Solo**](game-loop.md) — o ciclo de jogo passo a passo pra jogar sozinho
-- [**game-loop-em-grupo**](game-loop-em-grupo.md) — mesma estrutura adaptada pra mesa
-- [**Índice Completo**](%E2%9A%B0%EF%B8%8F%20Index.md) — todos os arquivos do vault
-- [**Premissa**](0%20-%20Vis%C3%A3o%20Geral/0.0%20-%20Premissa.md) — o mundo e o gancho inicial
+- [**Game Loop Solo**](game-loop.md) — o ciclo de jogo passo a passo pra jogar sozinho
+- [**Game Loop em Grupo**](game-loop-em-grupo.md) — mesma estrutura adaptada pra mesa
+- [**Índice Completo**](indice-geral.md) — todos os arquivos do vault
+- [**Premissa**](visao-geral/premissa.md) — o mundo e o gancho inicial
 
 ## Conteúdo
 

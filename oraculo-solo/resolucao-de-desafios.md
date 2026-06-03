@@ -166,4 +166,4 @@ Marcar itens usados no inventário. Se quebrar ou consumir, risque.
 
 ---
 
-*Use com: [Oráculo Sim/Não](6.1%20-%20O%20Oráculo.md), [Encontros Aleatórios](6.2%20-%20Tabela%20de%20Encontros.md)*
+*Use com: [Oráculo Sim/Não](o-oraculo), [Encontros Aleatórios](tabela-de-encontros)*

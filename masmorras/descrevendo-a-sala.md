@@ -111,7 +111,7 @@ O que você faz? → água + gás + fungos no teto + frio = gás denso no nível
 
 ## Bônus: Detalhe de Sala com Risco Imediato
 
-Use quando o tipo de sala (da [tabela de detalhes](3.1%20-%20Mapa%20do%20Local%20(Método%20dos%20Dados).md)) pedir algo específico — armadilha, perigo ou monstro. Role 1d4 para intensificar:
+Use quando o tipo de sala (da [tabela de detalhes](mapa-do-local-metodo-dos-dados)) pedir algo específico — armadilha, perigo ou monstro. Role 1d4 para intensificar:
 
 | d4 | Intensidade |
 |:--:|:------------|
@@ -128,4 +128,4 @@ Sem rolagem de percepção. Você já sabe que algo errado aconteceu.
 
 ---
 
-*Use com: [Mapa do Local (Método dos Dados)](3.1%20-%20Mapa%20do%20Local%20(Método%20dos%20Dados).md) ou com [Gerador de Masmorras](3.0-gerador-de-masmorras.md). A resolução fica em [Resolução de Desafios Solo](../6%20-%20Oráculo%20Solo/6.5%20-%20Resolução%20de%20Desafios.md).*
+*Use com: [Mapa do Local (Método dos Dados)](mapa-do-local-metodo-dos-dados) ou com [Gerador de Masmorras](gerador-de-masmorras.md). A resolução fica em [Resolução de Desafios Solo](../oraculo-solo/resolucao-de-desafios).*

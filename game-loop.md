@@ -27,12 +27,12 @@ Role ou escolha um motivo pra sair do mosteiro:
 **1d6:**
 | d6 | Gancho |
 |:--:|:--------|
-| 1–2 | **Rumor** — algo que ouviu ([Rumores](6%20-%20Oráculo%20Solo/6.3%20-%20Rumores%20&%20Ganchos.md)) |
+| 1–2 | **Rumor** — algo que ouviu ([Rumores](oraculo-solo/rumores-e-ganchos.md)) |
 | 3–4 | **Missão** — uma facção ou NPC pediu ajuda (mesmo arquivo, Ganchos de Missão) |
 | 5 | **Facção** — alguém da sua própria facção tem uma tarefa (Ganchos de Facção) |
 | 6 | **Combine** — role duas vezes, junta os resultados |
 
-Se não tiver gancho claro, role **[Evento Inesperado](6%20-%20Oráculo%20Solo/6.1%20-%20O%20Oráculo.md#4-evento-inesperado)** e improvise a partir daí.
+Se não tiver gancho claro, role **[Evento Inesperado](oraculo-solo/o-oraculo#4-evento-inesperado)** e improvise a partir daí.
 
 ---
 
@@ -46,11 +46,11 @@ Se não tiver gancho claro, role **[Evento Inesperado](6%20-%20Oráculo%20Solo/6
 | 3–4 | **Tocada**                                                                          | Arriscado | Médio–Longe      |
 |  5  | **Podre**                                                                           |  Mortal   | Longe–Distante   |
 |  6  | **Coração**                                                                         |  Crítico  | Distante+        |
-| 7–8 | **Masmorra** — role [tema](3-masmorras/3.0-gerador-de-masmorras.md) |   Varia   | —                |
+| 7–8 | **Masmorra** — role [tema](masmorras/gerador-de-masmorras.md) |   Varia   | —                |
 
 ### Local específico (1d12)
 
-Role 1d12 no tema do local ([Gerador de Masmorras](3-masmorras/3.0-gerador-de-masmorras.md)) ou escolha do [mapa conhecido](2%20-%20Locais%20&%20Regiões/2.0%20-%20Mapa%20da%20Região.md).
+Role 1d12 no tema do local ([Gerador de Masmorras](masmorras/gerador-de-masmorras.md)) ou escolha do [mapa conhecido](locais-e-regioes/mapa-da-regiao).
 
 ### Distância (1d4)
 
@@ -70,30 +70,30 @@ Role **1d6 pra cada obstáculo** que a distância pedir:
 | d6 | Obstáculo |
 |:--:|:----------|
 | 1 | **Terreno difícil** — FOR CD 10 ou perde 1 recurso |
-| 2 | **Encontro aleatório** — role [tabela](5%20-%20Mecânicas/5.1%20-%20Encontros%20Aleatórios.md) |
+| 2 | **Encontro aleatório** — role [tabela](mecanicas/encontros-aleatorios) |
 | 3 | **Condição piora** — zona sobe 1 nível |
 | 4 | **Trilha perdida** — SAB CD 12 ou chega em local diferente |
-| 5 | **Indício** — pista sobre o que te espera (role [Ação+Tema](6%20-%20Oráculo%20Solo/6.1%20-%20O%20Oráculo.md#2-oráculo-de-ação--tema)) |
+| 5 | **Indício** — pista sobre o que te espera (role [Ação+Tema](oraculo-solo/o-oraculo#2-oráculo-de-ação--tema)) |
 | 6 | **Escolha** — atalho perigoso ou caminho seguro mas longo |
 
 ---
 
 ## 4. Exploração — Dentro do local
 
-1. **Gere o local:** use o [Gerador de Masmorras](3-masmorras/3.0-gerador-de-masmorras.md) ou [Mapa por Dados](3-masmorras/3.1%20-%20Mapa%20do%20Local%20(Método%20dos%20Dados).md)
-2. **Descreva cada sala** com [Descrevendo a Sala](3-masmorras/3.2-descrevendo-a-sala.md)
-3. **Role encontro** a cada sala ou corredor relevante ([tabela](5%20-%20Mecânicas/5.1%20-%20Encontros%20Aleatórios.md))
-4. **Role [Evento Inesperado](6%20-%20Oráculo%20Solo/6.1%20-%20O%20Oráculo.md#4-evento-inesperado)** no início de cada cena nova
+1. **Gere o local:** use o [Gerador de Masmorras](masmorras/gerador-de-masmorras.md) ou [Mapa por Dados](masmorras/mapa-do-local-metodo-dos-dados)
+2. **Descreva cada sala** com [Descrevendo a Sala](masmorras/descrevendo-a-sala.md)
+3. **Role encontro** a cada sala ou corredor relevante ([tabela](mecanicas/encontros-aleatorios))
+4. **Role [Evento Inesperado](oraculo-solo/o-oraculo#4-evento-inesperado)** no início de cada cena nova
 
 ### Quando encontrar algo ou alguém
 
 | Situação | O que fazer |
 |:---------|:------------|
-| Pergunta sim/não | [Oráculo Sim/Não](6%20-%20Oráculo%20Solo/6.1%20-%20O%20Oráculo.md#1-oráculo-simnão) (ajuste pela certeza) |
-| Pergunta aberta (quem/onde/como/por quê) | [Oráculo de Foco](6%20-%20Oráculo%20Solo/6.1%20-%20O%20Oráculo.md#3-oráculo-de-foco-perguntas-abertas) |
-| "O que acontece agora?" | [Ação + Tema](6%20-%20Oráculo%20Solo/6.1%20-%20O%20Oráculo.md#2-oráculo-de-ação--tema) |
-| Reação de NPC | [Tabela de Reação](6%20-%20Oráculo%20Solo/6.1%20-%20O%20Oráculo.md#5-reações--encontros) + modificador de reputação |
-| Desafio físico/social | [Resolução de Desafios](6%20-%20Oráculo%20Solo/6.5%20-%20Resolução%20de%20Desafios.md) |
+| Pergunta sim/não | [Oráculo Sim/Não](oraculo-solo/o-oraculo#1-oráculo-simnão) (ajuste pela certeza) |
+| Pergunta aberta (quem/onde/como/por quê) | [Oráculo de Foco](oraculo-solo/o-oraculo#3-oráculo-de-foco-perguntas-abertas) |
+| "O que acontece agora?" | [Ação + Tema](oraculo-solo/o-oraculo#2-oráculo-de-ação--tema) |
+| Reação de NPC | [Tabela de Reação](oraculo-solo/o-oraculo#5-reações--encontros) + modificador de reputação |
+| Desafio físico/social | [Resolução de Desafios](oraculo-solo/resolucao-de-desafios) |
 | Quer agir com cautela/bonus | Gaste um **Token de Sorte** (re-role 1 d20) |
 
 ---
@@ -112,11 +112,11 @@ Role **1d6 pra cada obstáculo** que a distância pedir:
 | Cura | Descanso longo (seguro) recupera 1d3+CON. Descanso em abrigo recupera tudo. |
 | Crítico | 20 natural = dano máximo |
 
-**NPCs** reagem conforme [Reação](6%20-%20Oráculo%20Solo/6.1%20-%20O%20Oráculo.md#5-reações--encontros) antes do combate. Nem todo encontro é briga.
+**NPCs** reagem conforme [Reação](oraculo-solo/o-oraculo#5-reações--encontros) antes do combate. Nem todo encontro é briga.
 
 ### Resolução sem combate
 
-Use a [Resolução de Desafios](6%20-%20Oráculo%20Solo/6.5%20-%20Resolução%20de%20Desafios.md) para armadilhas, negociações, exploração:
+Use a [Resolução de Desafios](oraculo-solo/resolucao-de-desafios) para armadilhas, negociações, exploração:
 
 1. **Situação** → o que está na sua frente
 2. **Ação** → o que você faz
@@ -133,7 +133,7 @@ Use a [Resolução de Desafios](6%20-%20Oráculo%20Solo/6.5%20-%20Resolução%20
 Na volta, a distância é a **mesma** e você já conhece o caminho:
 
 - Role **metade dos obstáculos** (arredondado pra baixo)
-- Se o gancho foi completado, role **Recompensa** ([Tesouros](6%20-%20Oráculo%20Solo/6.4%20-%20Tesouros%20&%20Relíquias.md))
+- Se o gancho foi completado, role **Recompensa** ([Tesouros](oraculo-solo/tesouros-e-reliquias))
 
 Se falhou ou abandonou: role **consequência** — a facção envolvida perde 1 passo de progresso ou o deus avança em alguma área.
 
@@ -145,11 +145,11 @@ Se falhou ou abandonou: role **consequência** — a facção envolvida perde 1 
 
 1. **Cura total** — recupera todos os PV
 2. **Magias** — prepara nova seleção pro próximo dia
-3. **Tesouro → XP** — 1 PO = 1 XP ([tabela](5%20-%20Mecânicas/5.2%20-%20Progressão%20&%20XP.md))
+3. **Tesouro → XP** — 1 PO = 1 XP ([tabela](mecanicas/progressao-e-xp))
 4. **Level up?** — se tiver XP suficiente, sobe de nível (cap 5)
-5. **Reputação** — ajuste conforme o que aconteceu na sessão ([5.3](5%20-%20Mecânicas/5.3%20-%20Reputação%20&%20Facções.md))
+5. **Reputação** — ajuste conforme o que aconteceu na sessão ([5.3](mecanicas/reputacao-e-faccoes))
 
-### A cada 3 sessões, role [Thread Narrativa](6%20-%20Oráculo%20Solo/6.1%20-%20O%20Oráculo.md#6-threads-de-narrativa):
+### A cada 3 sessões, role [Thread Narrativa](oraculo-solo/o-oraculo#6-threads-de-narrativa):
 
 O mundo se move enquanto você descansa. Facções agem, o deus se manifesta, segredos emergem.
 
@@ -206,4 +206,4 @@ Role 1d6 a cada mudança de sala ou horário (exceto em masmorras). Se igual ou 
 
 ---
 
-*Veja também: [Oráculo Completo](6%20-%20Oráculo%20Solo/6.1%20-%20O%20Oráculo.md) · [Progressão](5%20-%20Mecânicas/5.2%20-%20Progressão%20&%20XP.md) · [Reputação](5%20-%20Mecânicas/5.3%20-%20Reputação%20&%20Facções.md)*
+*Veja também: [Oráculo Completo](oraculo-solo/o-oraculo) · [Progressão](mecanicas/progressao-e-xp) · [Reputação](mecanicas/reputacao-e-faccoes)*

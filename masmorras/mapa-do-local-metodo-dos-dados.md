@@ -1,7 +1,7 @@
 # Mapa do Local — Método dos Dados
 
 > Método oficial do Shadowdark RPG para gerar mapas jogando dados numa folha.
-> Alternativa ao [[3.0-gerador-de-masmorras]].
+> Alternativa ao [[gerador-de-masmorras]].
 
 ---
 

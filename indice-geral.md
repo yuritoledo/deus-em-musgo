@@ -8,22 +8,21 @@ Você pode ser um enviado do **Mosteiro da Chama Perpétua**, um dos últimos ba
 
 ## Explorar
 
-- [📜 Premissa & Contexto](0%20-%20Visão%20Geral/0.0%20-%20Premissa.md)
-- [🗺️ Mapa da Região](2%20-%20Locais%20&%20Regiões/2.0%20-%20Mapa%20da%20Região.md)
-- [🏛️ Facções](1%20-%20Facções/1.0%20-%20Index%20das%20Facções.md)
+- [📜 Premissa & Contexto](visao-geral/premissa.md)
+- [🗺️ Mapa da Região](locais-e-regioes/mapa-da-regiao.md)
+- [🏛️ Facções](faccoes/index-das-faccoes.md)
 
 ## Jogar
 
-- [🎲 Oráculo Solo](6%20-%20Oráculo%20Solo/6.1%20-%20O%20Oráculo.md)
-- [💀 Gerador de Masmorras](3-masmorras/3.0-gerador-de-masmorras.md)
-- [🐾 Encontros por Região](4%20-%20Bestiário/4.0%20-%20Encontros%20por%20Região.md)
+- [🎲 Oráculo Solo](oraculo-solo/o-oraculo.md)
+- [💀 Gerador de Masmorras](masmorras/gerador-de-masmorras.md)
+- [🐾 Encontros por Região](bestiario/encontros-por-regiao.md)
 
 ## Regras
 
-- [📈 Progressão & XP](5%20-%20Mecânicas/5.2%20-%20Progressão%20&%20XP.md)
-- [🤝 Reputação & Facções](5%20-%20Mecânicas/5.3%20-%20Reputação%20&%20Facções.md)
+- [📈 Progressão & XP](mecanicas/progressao-e-xp.md)
+- [🤝 Reputação & Facções](mecanicas/reputacao-e-faccoes.md)
+
 ---
-
-
 
 > *"A chama queima, mas a podridão é paciente."*

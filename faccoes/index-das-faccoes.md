@@ -6,34 +6,34 @@ Ninguém aqui é necessariamente mau ou bom. Cada facção só tenta sobreviver 
 
 Purificação pelo fogo. Hierarquia rígida, doutrina de erradicação total do deus.
 
-[📄 Mosteiro da Chama Perpétua](1.1%20-%20Mosteiro%20da%20Chama%20Perpétua.md)
+[📄 Mosteiro da Chama Perpétua](mosteiro-da-chama-perpetua)
 
 ## Devotos do Verde
 
 Ordem de estudo que cultiva o musgo divino dentro do Mosteiro. Aliança pragmática com a Chama: eles estudam, a Chama queima.
 
-[📄 Devotos do Verde](1.2%20-%20Devotos%20do%20Verde.md)
+[📄 Devotos do Verde](devotos-do-verde.md)
 
 ## Os Seguidores da Nieda
 
 Matriarcado pagão que habita as franjas da floresta. Nieda fala com o que restou do deus — ou com algo anterior a ele.
 
-[📄 Os Seguidores da Nieda](1.3%20-%20Os%20Seguidores%20da%20Nieda.md)
+[📄 Os Seguidores da Nieda](os-seguidores-da-nieda.md)
 
 ## Emissários do Sol
 
 Exilados do fogo. Romperam com a Chama e agora seguem sua própria luz.
 
-[📄 Emissários do Sol](1.4%20-%20Emissários%20do%20Sol.md)
+[📄 Emissários do Sol](emissarios-do-sol)
 
 ## Mercadores do Norte
 
 Caravanas que cruzam a podridão atrás de lucro. Não se importam com suas crenças — só com seu ouro.
 
-[📄 Mercadores do Norte](1.5%20-%20Mercadores%20do%20Norte.md)
+[📄 Mercadores do Norte](mercadores-do-norte.md)
 
 ## Capuz Vermelho
 
 Caçadores que usam capuz escarlate. Ninguém sabe ao certo o que caçam — nem pra quem entregam as peças.
 
-[📄 Capuz Vermelho](1.6%20-%20Capuz%20Vermelho.md)
+[📄 Capuz Vermelho](capuz-vermelho.md)

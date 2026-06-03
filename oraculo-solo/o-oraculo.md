@@ -82,10 +82,10 @@ Quando sua pergunta não é sim/não — "quem?", "onde?", "como?", "por quê?":
 
 | d6 | Resposta |
 |:--:|:---------|
-| 1 | Uma facção conhecida (role qual em [Facções](../1%20-%20Facções/1.0%20-%20Index%20das%20Facções.md)) |
+| 1 | Uma facção conhecida (role qual em [Facções](../faccoes/index-das-faccoes)) |
 | 2 | Um NPC já encontrado antes |
 | 3 | Um estranho — role na tabela rápida de NPC |
-| 4 | Uma criatura da região (role em [Encontros](../4%20-%20Bestiário/4.0%20-%20Encontros%20por%20Região.md)) |
+| 4 | Uma criatura da região (role em [Encontros](../bestiario/encontros-por-regiao)) |
 | 5 | Algo ligado ao deus (visão, esporo, tecido divino) |
 | 6 | Múltiplos — role duas vezes, ignore repetições |
 
@@ -107,7 +107,7 @@ Quando sua pergunta não é sim/não — "quem?", "onde?", "como?", "por quê?":
 | 1 | Em território conhecido perto do mosteiro |
 | 2 | Em zona já visitada antes |
 | 3 | Em fronteira entre zonas (Tênue/Tocada/Podre) |
-| 4 | Num local da região não visitado (role em [Mapa](../2%20-%20Locais%20&%20Regiões/2.0%20-%20Mapa%20da%20Região.md)) |
+| 4 | Num local da região não visitado (role em [Mapa](../locais-e-regioes/mapa-da-regiao)) |
 | 5 | Numa masmorra/toca não mapeada |
 | 6 | Num lugar ligado ao deus (cratera, veio de osso, poço de esporo) |
 
