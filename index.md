@@ -6,7 +6,7 @@
 
 Um reino engolido pela vegetação. Civilização em frangalhos. O que restou da humanidade se agarra a postos avançados enquanto o musgo devora ruínas, estradas e memórias.
 
-Você é um aventureiro — e talvez o único capaz de descobrir o que resta neste mundo.
+Você é um aventureiro tentando sobreviver mais um dia — e talvez lucrar com isso.
 
 ---
 
