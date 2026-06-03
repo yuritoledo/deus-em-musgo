@@ -1,4 +1,4 @@
-# Revisão da Classe Druida
+# Revisão da Classe druida
 
 > **Nota:** Esta classe é um druida genérico de fantasia, não atado ao cenário específico de fungos/podridão. Críticas sobre falta de elementos fúngicos são intencionais — a classe serve qualquer cenário.
 
@@ -8,21 +8,21 @@
 
 ### 1.1 Tabela de Magias Conhecidas — Divergência Crítica
 
-O **Druida.md** tem tabela de nv 1 a 10 com círculos 1 a 5. O **5.2** mostra só até nv 5 e círculo 3. A **Ficha.md** tem ranhuras até círculo 5.
+O **druida.md** tem tabela de nv 1 a 10 com círculos 1 a 5. O **5.2** mostra só até nv 5 e círculo 3. A **Ficha.md** tem ranhuras até círculo 5.
 
-**Problema:** Jogador lê Druida.md e acha que vai desbloquear círculo 4 no nv 7. Mestre lê 5.2 e sabe que o cap é 5. A tabela 1–10 é ruído — artefato de versão anterior com cap 10, ou antecipa conteúdo que não existe.
+**Problema:** Jogador lê druida.md e acha que vai desbloquear círculo 4 no nv 7. Mestre lê 5.2 e sabe que o cap é 5. A tabela 1–10 é ruído — artefato de versão anterior com cap 10, ou antecipa conteúdo que não existe.
 
-**→ Cortar a tabela do Druida.md nos níveis 6–10, ou adicionar nota "níveis 6+ apenas em campanhas estendidas".**
+**→ Cortar a tabela do druida.md nos níveis 6–10, ou adicionar nota "níveis 6+ apenas em campanhas estendidas".**
 
-### 1.2 Ficha.md vs Druida.md — Pequenas Diferenças
+### 1.2 Ficha.md vs druida.md — Pequenas Diferenças
 
-| Elemento | Druida.md | Ficha.md |
+| Elemento | druida.md | Ficha.md |
 |:---------|:----------|:---------|
 | Fala Selvagem (animais) | "Falha = não coopera; retry só próximo amanhecer" | "próximo amanhecer **ou torpor do fungo**" |
 | Forma Caçadora | Dura 5 rounds | Não menciona duração |
 | Forma Primal | Dura 5 rounds | Não menciona duração |
 
-- "Torpor do fungo" na Ficha.md não aparece no Druida.md.
+- "Torpor do fungo" na Ficha.md não aparece no druida.md.
 - Ficha.md omite duração das formas Caçadora e Primal (5 rounds).
 
 ### 1.3 "1/sessão" vs "1/dia"
@@ -48,7 +48,7 @@ Ler Sinais é **1/sessão**. Talento resultado 2 diz **"+1 uso/dia de Ler Sinais
 - **7-9** (41.7%) — direção vaga. Útil pra exploração solo.
 - **6-** (41.7%) — nada.
 
-Nenhuma outra classe tem habilidade similar. Sacerdote tem Augúrio (C2, gasta recurso). Druida ganha de graça 1/sessão. Diferencial temático forte.
+Nenhuma outra classe tem habilidade similar. Sacerdote tem Augúrio (C2, gasta recurso). druida ganha de graça 1/sessão. Diferencial temático forte.
 
 ### 2.3 Formas Selvagens — Progressão
 
@@ -58,9 +58,9 @@ Nenhuma outra classe tem habilidade similar. Sacerdote tem Augúrio (C2, gasta r
 | Caçadora | 3 | +2 | +1 | 13 | d6 | +2 | 5 rounds | Instintivo ou Movimento |
 | Primal | 5 | +3 | +2 | 15 | d8 | +3 | 5 rounds | Vant FOR ou Rugido |
 
-- **CA 11→13→15:** Nv 1 CA 11 é baixa (Goblin acerta com 11+). Nv 5 CA 15 é decente. Guerreiro nv 5 com placa+escudo tem CA 18–19. Druida sacrifica CA por utilidade.
+- **CA 11→13→15:** Nv 1 CA 11 é baixa (Goblin acerta com 11+). Nv 5 CA 15 é decente. Guerreiro nv 5 com placa+escudo tem CA 18–19. druida sacrifica CA por utilidade.
 - **Dano d4→d6→d8:** Nv 5, 1d8+3 (média 7.5) ≈ Guerreiro com espada longa d8+4 (8.5). Justo.
-- **Bônus ataque:** Na Primal, FOR+3 e +3 atq = +6 total. Guerreiro nv 5 com FOR+4 + arma favorita = +5. Druida bate melhor **mas só por 5 rounds**. Equilibrado pelo custo de recurso.
+- **Bônus ataque:** Na Primal, FOR+3 e +3 atq = +6 total. Guerreiro nv 5 com FOR+4 + arma favorita = +5. druida bate melhor **mas só por 5 rounds**. Equilibrado pelo custo de recurso.
 - **Duração assimétrica:** Espreitadora dura 1 turno/nível (provavelmente muito tempo). Caçadora/Primal duram 5 rounds (combate). Provavelmente intencional (fraca=exploração, fortes=combate), mas não explicado.
 
 **→ "1 turno/nível" é linguagem old-school ambígua. Trocar para "10 minutos/nível" ou número fixo de rounds.**
@@ -111,7 +111,7 @@ Comparado a +2 FOR:
 
 ### 3.4 O que Falta?
 
-- **Nenhum talento afeta magia diretamente** além do +1 conjuração no 6–8. Druida conjurador puro (sem forma) só tem isso como melhoria. Poderia ter "+1 magia conhecida de C1" ou "reduz CD em 1 pra magias da natureza".
+- **Nenhum talento afeta magia diretamente** além do +1 conjuração no 6–8. druida conjurador puro (sem forma) só tem isso como melhoria. Poderia ter "+1 magia conhecida de C1" ou "reduz CD em 1 pra magias da natureza".
 
 ### 3.5 Resultado 12 — "+2 pontos para distribuir" é **trap**
 
@@ -125,7 +125,7 @@ Comparado a +2 FOR:
 
 ### 4.1 Círculo 1 — Suficiente?
 
-Druida nv 1 conhece **2 magias** (de 5 disponíveis + Forma Espreitadora grátis):
+druida nv 1 conhece **2 magias** (de 5 disponíveis + Forma Espreitadora grátis):
 
 | Magia | Função | Qualidade |
 |:------|:-------|:----------|
@@ -161,15 +161,15 @@ Só 3 têm tag "Pode ser lançada enquanto transformado":
 
 ### 4.4 Progressão vs Outros Conjuradores
 
-Se cap = 5: Druida empata com Sacerdote em círculo máximo mas conhece **mais** magias de C2 (3 vs 2) e C3 (3 vs 1). É o melhor conjurador divino no cap.
+Se cap = 5: druida empata com Sacerdote em círculo máximo mas conhece **mais** magias de C2 (3 vs 2) e C3 (3 vs 1). É o melhor conjurador divino no cap.
 
 ---
 
 ## 5. Desvantagens Comparativas
 
 - **Dado de Vida d6:** Igual Sacerdote, pior que Guerreiro (d8), melhor que Mago/Ladrão (d4). Justo.
-- **Armadura:** Couro + escudo = CA 13-14 nv 1. Sacerdote usa cota de malha (CA 16+). Druida é mais frágil, compensado pelas formas.
-- **Sem cura:** Druida não tem acesso a cura alguma. Sacerdote tem Curar Ferimentos no C1. Se a intenção é druida não curar nesse cenário, devia ser declarado. Druida solo sem cura é desafio extra.
+- **Armadura:** Couro + escudo = CA 13-14 nv 1. Sacerdote usa cota de malha (CA 16+). druida é mais frágil, compensado pelas formas.
+- **Sem cura:** druida não tem acesso a cura alguma. Sacerdote tem Curar Ferimentos no C1. Se a intenção é druida não curar nesse cenário, devia ser declarado. druida solo sem cura é desafio extra.
 - **Armas:** Arco Curto e Foice. Sem Shillelagh ativo, depende de FOR pra bater corpo a corpo — e FOR é atributo secundário.
 
 ### 5.1 Sugestão: Cura Básica
@@ -194,7 +194,7 @@ Fraca mas dá um respiro pro druida solo.
 
 ### 6.2 Recomendações Prioritárias
 
-- Cortar tabela de níveis 6–10 do Druida.md (ou justificar cap estendido)
+- Cortar tabela de níveis 6–10 do druida.md (ou justificar cap estendido)
 - Unificar "sessão" vs "dia" para "1/sessão"
 - Definir "turno" no sistema (10 min? duração de cena?)
 - Especificar frequência do Rugido (1/transformação)

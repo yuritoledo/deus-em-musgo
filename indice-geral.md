@@ -15,7 +15,7 @@ Você pode ser um enviado do **Mosteiro da Chama Perpétua**, um dos últimos ba
 ## Jogar
 
 - [🎲 Oráculo Solo](6%20-%20Oráculo%20Solo/6.1%20-%20O%20Oráculo.md)
-- [💀 Gerador de Masmorras](3%20-%20Masmorras/3.0%20-%20Gerador%20de%20Masmorras.md)
+- [💀 Gerador de Masmorras](3-masmorras/3.0-gerador-de-masmorras.md)
 - [🐾 Encontros por Região](4%20-%20Bestiário/4.0%20-%20Encontros%20por%20Região.md)
 
 ## Regras

@@ -1,4 +1,4 @@
-# Druida
+# druida
 
 Guiado pela lua, flui entre humano e besta, manipulando a força bruta da natureza. Não serve rei algum — apenas o ciclo infinito da vida.
 
@@ -42,7 +42,7 @@ Você pode lançar magias druídicas que conhece.
 
 Você conhece **2 magias de círculo 1** da lista de druida.
 
-Cada vez que sobe de nível, você escolhe novas magias para aprender conforme a tabela **Magias de Druida Conhecidas**.
+Cada vez que sobe de nível, você escolhe novas magias para aprender conforme a tabela **Magias de druida Conhecidas**.
 
 ---
 
@@ -58,7 +58,7 @@ Cada vez que sobe de nível, você escolhe novas magias para aprender conforme a
 
 ---
 
-### Magias de Druida Conhecidas
+### Magias de druida Conhecidas
 
 | Nível | Círculo 1 | Círculo 2 | Círculo 3 | Círculo 4 | Círculo 5 |
 |:-----:|:---------:|:---------:|:---------:|:---------:|:---------:|

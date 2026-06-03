@@ -1,4 +1,4 @@
-# Game Loop — Deus em Musgo (Grupo)
+# game-loop — Deus em Musgo (Grupo)
 
 > Adaptação do loop solo para mesa com narrador + grupo fixo (3-6 jogadores).
 > Shadowdark puro. Nada aqui substitui regras do sistema — só organiza o fluxo.
@@ -44,7 +44,7 @@ Isso move o mundo **entre sessões**. O grupo chega e descobre o que mudou.
 
 ### 3. O que NÃO preparar
 
-- **Não role a dungeon inteira.** Use o [Gerador de Masmorras](3%20-%20Masmorras/3.0%20-%20Gerador%20de%20Masmorras.md) sala a sala na mesa.
+- **Não role a dungeon inteira.** Use o [Gerador de Masmorras](3-masmorras/3.0-gerador-de-masmorras.md) sala a sala na mesa.
 - **Não defina o resultado de negociações.** Deixe os dados decidirem.
 - **Não planeje "enredo".** Só situação, facção e gancho. O grupo define o resto.
 
@@ -77,7 +77,7 @@ Role normalmente. As tabelas funcionam pra grupo igual.
 | 1–2 | **Tênue** — perto do mosteiro | Inseguro | Perto–Médio |
 | 3–4 | **Tocada** — 1-3 dias de viagem | Arriscado | Médio–Longe |
 | 5 | **Podre** — 3+ dias | Mortal | Longe–Distante |
-| 6 | **Masmorra** — role [tema](3%20-%20Masmorras/3.0%20-%20Gerador%20de%20Masmorras.md) | varia | — |
+| 6 | **Masmorra** — role [tema](3-masmorras/3.0-gerador-de-masmorras.md) | varia | — |
 
 ### Local específico (1d12)
 
@@ -330,4 +330,4 @@ Inimigos com ≤ 50% PV ou sem líder → d20 ≤ 12 = fogem ou se rendem.
 
 ---
 
-> *Veja também: [Game Loop Solo](Game%20Loop.md) (versão original) · [Oráculo](6%20-%20Oráculo%20Solo/6.1%20-%20O%20Oráculo.md) · [Masmorras](3%20-%20Masmorras/3.0%20-%20Gerador%20de%20Masmorras.md) · [Progressão](5%20-%20Mecânicas/5.2%20-%20Progressão%20&%20XP.md)*
+> *Veja também: [game-loop Solo](game-loop.md) (versão original) · [Oráculo](6%20-%20Oráculo%20Solo/6.1%20-%20O%20Oráculo.md) · [Masmorras](3-masmorras/3.0-gerador-de-masmorras.md) · [Progressão](5%20-%20Mecânicas/5.2%20-%20Progressão%20&%20XP.md)*

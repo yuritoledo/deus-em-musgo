@@ -1,4 +1,4 @@
-# Game Loop — Deus em Musgo
+# game-loop — Deus em Musgo
 
 > Guia rápido pra jogar solo. Cada sessão segue esse ciclo. Role, interprete, avance.
 
@@ -46,11 +46,11 @@ Se não tiver gancho claro, role **[Evento Inesperado](6%20-%20Oráculo%20Solo/6
 | 3–4 | **Tocada**                                                                          | Arriscado | Médio–Longe      |
 |  5  | **Podre**                                                                           |  Mortal   | Longe–Distante   |
 |  6  | **Coração**                                                                         |  Crítico  | Distante+        |
-| 7–8 | **Masmorra** — role [tema](3%20-%20Masmorras/3.0%20-%20Gerador%20de%20Masmorras.md) |   Varia   | —                |
+| 7–8 | **Masmorra** — role [tema](3-masmorras/3.0-gerador-de-masmorras.md) |   Varia   | —                |
 
 ### Local específico (1d12)
 
-Role 1d12 no tema do local ([Gerador de Masmorras](3%20-%20Masmorras/3.0%20-%20Gerador%20de%20Masmorras.md)) ou escolha do [mapa conhecido](2%20-%20Locais%20&%20Regiões/2.0%20-%20Mapa%20da%20Região.md).
+Role 1d12 no tema do local ([Gerador de Masmorras](3-masmorras/3.0-gerador-de-masmorras.md)) ou escolha do [mapa conhecido](2%20-%20Locais%20&%20Regiões/2.0%20-%20Mapa%20da%20Região.md).
 
 ### Distância (1d4)
 
@@ -80,8 +80,8 @@ Role **1d6 pra cada obstáculo** que a distância pedir:
 
 ## 4. Exploração — Dentro do local
 
-1. **Gere o local:** use o [Gerador de Masmorras](3%20-%20Masmorras/3.0%20-%20Gerador%20de%20Masmorras.md) ou [Mapa por Dados](3%20-%20Masmorras/3.1%20-%20Mapa%20do%20Local%20(Método%20dos%20Dados).md)
-2. **Descreva cada sala** com [Descrevendo a Sala](3%20-%20Masmorras/3.2%20-%20Descrevendo%20a%20Sala.md)
+1. **Gere o local:** use o [Gerador de Masmorras](3-masmorras/3.0-gerador-de-masmorras.md) ou [Mapa por Dados](3-masmorras/3.1%20-%20Mapa%20do%20Local%20(Método%20dos%20Dados).md)
+2. **Descreva cada sala** com [Descrevendo a Sala](3-masmorras/3.2-descrevendo-a-sala.md)
 3. **Role encontro** a cada sala ou corredor relevante ([tabela](5%20-%20Mecânicas/5.1%20-%20Encontros%20Aleatórios.md))
 4. **Role [Evento Inesperado](6%20-%20Oráculo%20Solo/6.1%20-%20O%20Oráculo.md#4-evento-inesperado)** no início de cada cena nova
 
