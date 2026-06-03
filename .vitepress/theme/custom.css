@@ -1,0 +1,432 @@
+/* ========================================
+   Deus em Musgo — Custom VitePress Theme
+   Earthy, mossy, muted forest-floor palette
+   ======================================== */
+
+/* --------------------------------------------------------------------------
+   Base / Light (fallback — site is dark-themed by default)
+   -------------------------------------------------------------------------- */
+:root {
+  /* Backgrounds: warm stone / parchment for light fallback */
+  --vp-c-bg: #e8e4dc;
+  --vp-c-bg-soft: #ddd8ce;
+  --vp-c-bg-mute: #d0cbc0;
+  --vp-c-bg-alt: #d6d2c8;
+  --vp-c-bg-elv: #f0ece4;
+
+  /* Text: deep forest brown */
+  --vp-c-text-1: #2a2e25;
+  --vp-c-text-2: #4a4f42;
+  --vp-c-text-3: #6b7362;
+
+  /* Brand / Accent: muted moss */
+  --vp-c-brand-1: #5e7a50;
+  --vp-c-brand-2: #4e6642;
+  --vp-c-brand-3: #3e5234;
+
+  /* Dividers & borders: warm gray-brown */
+  --vp-c-divider: #c5bfb3;
+  --vp-c-border: #b5ae9f;
+
+  /* Custom blocks (light fallback) */
+  --vp-c-tip-1: #5e7a50;
+  --vp-c-tip-2: #4e6642;
+  --vp-c-tip-3: #3e5234;
+  --vp-c-tip-soft: #d8ddd3;
+
+  --vp-c-warning-1: #8a7340;
+  --vp-c-warning-2: #756330;
+  --vp-c-warning-3: #5e4f28;
+  --vp-c-warning-soft: #e0d9c8;
+
+  --vp-c-danger-1: #8a5040;
+  --vp-c-danger-2: #754030;
+  --vp-c-danger-3: #5e3028;
+  --vp-c-danger-soft: #e0d0c8;
+
+  --vp-c-info-1: #506a6e;
+  --vp-c-info-2: #40585c;
+  --vp-c-info-3: #30464a;
+  --vp-c-info-soft: #cdd5d6;
+
+  /* Code */
+  --vp-code-color: #2a2e25;
+  --vp-code-bg: #d6d2c8;
+  --vp-code-tab-divider: #c5bfb3;
+
+  /* Search / modal */
+  --vp-local-search-bg: #e8e4dc;
+  --vp-local-search-result-bg: #f0ece4;
+  --vp-local-search-result-border: #c5bfb3;
+}
+
+/* --------------------------------------------------------------------------
+   Dark Theme — Deep forest floor, damp moss, weathered stone
+   -------------------------------------------------------------------------- */
+html.dark {
+  /* Backgrounds: deep forest earth, layered like soil strata */
+  --vp-c-bg: #191c18;
+  --vp-c-bg-soft: #1e221d;
+  --vp-c-bg-mute: #232822;
+  --vp-c-bg-alt: #1a1d19;
+  --vp-c-bg-elv: #252a23;
+
+  /* Text: warm off-white, aged parchment tone */
+  --vp-c-text-1: #d1d4c9;
+  --vp-c-text-2: #a8ad9c;
+  --vp-c-text-3: #7e8574;
+
+  /* Brand / Accent: desaturated moss green */
+  --vp-c-brand-1: #8aaa7a;
+  --vp-c-brand-2: #7a9a6a;
+  --vp-c-brand-3: #6a8a5a;
+
+  /* Dividers & borders: dark green-brown, like wet bark */
+  --vp-c-divider: #2a3026;
+  --vp-c-border: #333a2e;
+
+  /* Custom blocks — earthy, muted, never bright */
+  --vp-c-tip-1: #8aaa7a;
+  --vp-c-tip-2: #7a9a6a;
+  --vp-c-tip-3: #6a8a5a;
+  --vp-c-tip-soft: #232822;
+
+  --vp-c-warning-1: #b5a06a;
+  --vp-c-warning-2: #a08e5a;
+  --vp-c-warning-3: #8a7a4a;
+  --vp-c-warning-soft: #2a2620;
+
+  --vp-c-danger-1: #b07a6a;
+  --vp-c-danger-2: #a06a5a;
+  --vp-c-danger-3: #8a5a4a;
+  --vp-c-danger-soft: #2a2220;
+
+  --vp-c-info-1: #7a9a9e;
+  --vp-c-info-2: #6a8a8e;
+  --vp-c-info-3: #5a7a7e;
+  --vp-c-info-soft: #202a2a;
+
+  /* Code: darker soil tone, warm text */
+  --vp-code-color: #c5c8b8;
+  --vp-code-bg: #141614;
+  --vp-code-tab-divider: #2a3026;
+
+  /* Search / modal: deep earth, not pure black */
+  --vp-local-search-bg: #191c18;
+  --vp-local-search-result-bg: #1e221d;
+  --vp-local-search-result-border: #2a3026;
+}
+
+/* --------------------------------------------------------------------------
+   Typography & Base Elements
+   -------------------------------------------------------------------------- */
+
+/* Links: moss colored, subtle underline on hover */
+a {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--vp-c-brand-2);
+  text-decoration: underline;
+  text-decoration-color: var(--vp-c-brand-3);
+  text-underline-offset: 0.2em;
+}
+
+/* Blockquotes: muted earthy left border, slightly italic */
+blockquote {
+  border-left: 3px solid var(--vp-c-border);
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-2);
+  font-style: italic;
+  padding: 0.75rem 1.25rem;
+  margin: 1.5rem 0;
+  border-radius: 0 4px 4px 0;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+/* --------------------------------------------------------------------------
+   Sidebar
+   -------------------------------------------------------------------------- */
+
+/* Active item: moss accent, no bright highlights */
+.VPSidebarItem .is-active {
+  color: var(--vp-c-brand-1) !important;
+}
+
+.VPSidebarItem .is-active .indicator {
+  background-color: var(--vp-c-brand-2) !important;
+}
+
+/* Collapsed / hover states */
+.VPSidebarItem .item:hover {
+  color: var(--vp-c-brand-1);
+}
+
+/* --------------------------------------------------------------------------
+   Navigation
+   -------------------------------------------------------------------------- */
+
+/* Active nav link */
+.VPNavBarMenuLink.active {
+  color: var(--vp-c-brand-1);
+}
+
+.VPNavBarMenuLink:hover {
+  color: var(--vp-c-brand-1);
+}
+
+/* --------------------------------------------------------------------------
+   Homepage Hero
+   -------------------------------------------------------------------------- */
+
+.VPHero .name {
+  color: var(--vp-c-text-1);
+}
+
+.VPHero .text {
+  color: var(--vp-c-text-1);
+}
+
+.VPHero .tagline {
+  color: var(--vp-c-text-2);
+}
+
+.VPHero .actions .VPButton {
+  border-radius: 4px;
+}
+
+.VPHero .actions .VPButton.brand {
+  background-color: var(--vp-c-brand-2);
+  border-color: var(--vp-c-brand-2);
+  color: var(--vp-c-bg);
+}
+
+.VPHero .actions .VPButton.brand:hover {
+  background-color: var(--vp-c-brand-1);
+  border-color: var(--vp-c-brand-1);
+}
+
+.VPHero .actions .VPButton.alt {
+  border-color: var(--vp-c-border);
+  color: var(--vp-c-text-1);
+}
+
+.VPHero .actions .VPButton.alt:hover {
+  border-color: var(--vp-c-brand-2);
+  color: var(--vp-c-brand-1);
+}
+
+/* --------------------------------------------------------------------------
+   Tables — RPG stat blocks, encounter tables, etc.
+   -------------------------------------------------------------------------- */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+  border: 1px solid var(--vp-c-border);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+th,
+td {
+  border: 1px solid var(--vp-c-border);
+  padding: 0.6rem 0.9rem;
+  text-align: left;
+}
+
+th {
+  background: var(--vp-c-bg-mute);
+  color: var(--vp-c-text-1);
+  font-weight: 600;
+  border-bottom: 2px solid var(--vp-c-border);
+}
+
+tr:nth-child(even) {
+  background: var(--vp-c-bg-soft);
+}
+
+tr:hover {
+  background: var(--vp-c-bg-elv);
+}
+
+/* --------------------------------------------------------------------------
+   Custom Blocks (tip / warning / danger / info)
+   -------------------------------------------------------------------------- */
+
+.vp-doc .custom-block {
+  border-radius: 4px;
+  border: 1px solid var(--vp-c-border);
+}
+
+.vp-doc .custom-block.tip {
+  border-color: var(--vp-c-tip-3);
+  background: var(--vp-c-tip-soft);
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc .custom-block.tip .custom-block-title {
+  color: var(--vp-c-tip-1);
+}
+
+.vp-doc .custom-block.warning {
+  border-color: var(--vp-c-warning-3);
+  background: var(--vp-c-warning-soft);
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc .custom-block.warning .custom-block-title {
+  color: var(--vp-c-warning-1);
+}
+
+.vp-doc .custom-block.danger {
+  border-color: var(--vp-c-danger-3);
+  background: var(--vp-c-danger-soft);
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc .custom-block.danger .custom-block-title {
+  color: var(--vp-c-danger-1);
+}
+
+.vp-doc .custom-block.info {
+  border-color: var(--vp-c-info-3);
+  background: var(--vp-c-info-soft);
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc .custom-block.info .custom-block-title {
+  color: var(--vp-c-info-1);
+}
+
+/* --------------------------------------------------------------------------
+   Search Dialog & Dropdowns
+   -------------------------------------------------------------------------- */
+
+.VPLocalSearchBox {
+  background: var(--vp-local-search-bg);
+}
+
+.VPLocalSearchBox .search-input {
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
+  border: 1px solid var(--vp-c-border);
+}
+
+.VPLocalSearchBox .search-input::placeholder {
+  color: var(--vp-c-text-3);
+}
+
+.VPLocalSearchBox .result {
+  background: var(--vp-local-search-result-bg);
+  border: 1px solid var(--vp-local-search-result-border);
+}
+
+.VPLocalSearchBox .result:hover,
+.VPLocalSearchBox .result.selected {
+  background: var(--vp-c-bg-elv);
+  border-color: var(--vp-c-brand-3);
+}
+
+.VPLocalSearchBox .result-title {
+  color: var(--vp-c-text-1);
+}
+
+.VPLocalSearchBox .result-excerpt {
+  color: var(--vp-c-text-2);
+}
+
+/* Dropdown menus (nav, mobile, etc.) */
+.VPMenu {
+  background: var(--vp-c-bg-elv) !important;
+  border: 1px solid var(--vp-c-border) !important;
+}
+
+.VPMenu .item:hover {
+  background: var(--vp-c-bg-mute) !important;
+  color: var(--vp-c-brand-1) !important;
+}
+
+/* --------------------------------------------------------------------------
+   Code Blocks & Tabs
+   -------------------------------------------------------------------------- */
+
+.vp-code {
+  background: var(--vp-code-bg);
+  color: var(--vp-code-color);
+}
+
+.vp-code-tab-nav {
+  background: var(--vp-c-bg-soft);
+  border-bottom: 1px solid var(--vp-code-tab-divider);
+}
+
+.vp-code-tab-nav button {
+  color: var(--vp-c-text-2);
+}
+
+.vp-code-tab-nav button.active {
+  color: var(--vp-c-brand-1);
+  border-bottom: 2px solid var(--vp-c-brand-2);
+}
+
+/* --------------------------------------------------------------------------
+   Scrollbar — subtle, earthy
+   -------------------------------------------------------------------------- */
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--vp-c-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--vp-c-border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--vp-c-text-3);
+}
+
+/* --------------------------------------------------------------------------
+   Selection — moss highlight
+   -------------------------------------------------------------------------- */
+
+::selection {
+  background: rgba(122, 154, 106, 0.35);
+  color: var(--vp-c-text-1);
+}
+
+/* --------------------------------------------------------------------------
+   Footer
+   -------------------------------------------------------------------------- */
+
+.VPFooter {
+  border-top: 1px solid var(--vp-c-divider);
+  color: var(--vp-c-text-3);
+}
+
+/* --------------------------------------------------------------------------
+   Mobile / Responsive Tweaks
+   -------------------------------------------------------------------------- */
+
+@media (max-width: 768px) {
+  .VPHero .name {
+    font-size: 2.2rem;
+  }
+
+  .VPHero .text {
+    font-size: 1.6rem;
+  }
+}
