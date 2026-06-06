@@ -98,6 +98,7 @@ export default defineConfig({
         text: 'Guia de Jogo',
         collapsed: false,
         items: [
+          { text: '⭐ Cheat Sheet', link: '/cheat-sheet' },
           { text: 'Game Loop (Solo)', link: '/game-loop' },
           { text: 'Game Loop (Grupo)', link: '/game-loop-em-grupo' },
           { text: 'Regras Base (SRD)', link: '/regras-base' },

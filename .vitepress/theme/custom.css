@@ -430,3 +430,126 @@ tr:hover {
     font-size: 1.6rem;
   }
 }
+
+/* --------------------------------------------------------------------------
+   Print Styles — Cheat Sheet & any page
+   Clean, ink-saving, removes chrome
+   -------------------------------------------------------------------------- */
+@media print {
+  /* Kill UI chrome */
+  .VPNav,
+  .VPSidebar,
+  .VPFooter,
+  .VPLocalSearchBox,
+  .VPDocFooter,
+  .aside-container,
+  .VPDocAside,
+  .back-to-top {
+    display: none !important;
+  }
+
+  /* Full-width content */
+  .VPDoc {
+    padding: 0 !important;
+  }
+
+  .VPDoc .container {
+    max-width: 100% !important;
+  }
+
+  .VPContent {
+    padding-top: 0 !important;
+  }
+
+  .content-container {
+    max-width: 100% !important;
+  }
+
+  /* Body: compact, no bg */
+  body {
+    background: white !important;
+    color: black !important;
+    font-size: 8pt;
+    line-height: 1.25;
+  }
+
+  /* Headings compact */
+  h1 { font-size: 14pt; margin: 0 0 4pt 0; page-break-before: avoid; }
+  h2 { font-size: 11pt; margin: 8pt 0 3pt 0; page-break-after: avoid; }
+  h3 { font-size: 9pt; margin: 4pt 0 2pt 0; page-break-after: avoid; }
+
+  /* Tables compact */
+  table {
+    font-size: 7pt;
+    margin: 3pt 0;
+    border: 0.5pt solid #666 !important;
+    break-inside: avoid;
+  }
+  th, td {
+    padding: 2pt 4pt;
+    border: 0.5pt solid #666 !important;
+    background: white !important;
+    color: black !important;
+  }
+  th {
+    background: #eee !important;
+    font-weight: 600;
+  }
+  tr:nth-child(even) {
+    background: #f8f8f8 !important;
+  }
+  tr:hover {
+    background: inherit !important;
+  }
+
+  /* Links: print URL only if useful */
+  a {
+    color: black !important;
+    text-decoration: none !important;
+  }
+
+  /* Blockquotes */
+  blockquote {
+    border-left: 2pt solid #999 !important;
+    background: none !important;
+    padding: 4pt 8pt;
+    margin: 6pt 0;
+  }
+
+  /* Code: compact, no bg */
+  code {
+    font-size: 7pt;
+    background: #f0f0f0 !important;
+    color: black !important;
+  }
+
+  /* Horizontal rules */
+  hr {
+    margin: 6pt 0;
+    border: 0.5pt solid #ccc;
+  }
+
+  /* Avoid page breaks in bad places */
+  h1, h2, h3, h4 {
+    page-break-after: avoid;
+  }
+
+  .vp-doc {
+    column-count: 2;
+    column-gap: 16pt;
+  }
+
+  /* Full-width elements should span both columns */
+  .vp-doc h1,
+  .vp-doc h2,
+  .vp-doc hr:first-of-type {
+    column-span: all;
+  }
+
+  /* Remove custom block decorations */
+  .custom-block {
+    border: 0.5pt solid #999 !important;
+    background: none !important;
+    padding: 4pt 8pt;
+  }
+}
