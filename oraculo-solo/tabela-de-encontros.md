@@ -13,7 +13,7 @@ Role **1d6** (ou **2d6** para viajar longas distâncias).
 
 ## Rolagens por Região
 
-*Link pra* [[4.0 - Encontros por Região]] *quando estiver pronto.*
+*Veja também:* [Encontros por Região](../bestiario/encontros-por-regiao.md)
 
 ## Tabela de Características (role 1d3 + 1d6)
 
