@@ -186,3 +186,38 @@ Outras combinações de exemplo:
 | Roubar + Símbolo de poder + Cripta dos Monges + Gás inflamável + Capuz Vermelho<br>Log: De bolço / Atrib: DES / Clima: Chuva fina | O Capuz Vermelho quer um símbolo de poder na Cripta dos Monges — cabe no bolso, mas o gás inflamável proíbe fogo. Chuva fina: tochas tão instáveis que você vai depender de visão no escuro ou fósforo. Testes de DES devem ser frequentes (escalar, desviar de armadilhas). |
 | Colher + Amostra de esporo + Caverna do Sussurro + Frio extremo + Devotos do Verde<br>Log: Frágil / Atrib: CON / Clima: Vento favorável | Uma ampola de vidro frágil carregando esporo puro. Se quebrar durante um combate, a missão acaba. Frio extremo drena seus PV de recurso — mas o vento favorável traz os cheiros da caverna até você (+2 SAB). CON será seu atributo principal. |
 | Proteger + Pessoa + Antiga Estalagem + Patrulhado por facção rival + Emissários do Sol<br>Log: Vivo / Atrib: CAR / Clima: Chuva forte | Você precisa proteger alguém que *não quer ser protegido*. O alvo é vivo, resiste, pode fugir. Chuva forte abafa os sons — os patrulheiros não ouvem vocês, mas vocês também não ouvem os patrulheiros. Negociação (CAR) vai ser essencial se forem descobertos. |
+
+## Rumores e Ganchos
+
+Role **1d6** para um rumor ouvido no mosteiro antes de sair. Se repetir, role novamente ou torne o rumor mais específico.
+
+| d6 | Rumor |
+|:--:|:------|
+| 1  | "Avistaram luzes na Colina Pulsante — não são tochas da Chama. Pode ser fogo-fátuo, mas pode ser outra coisa." |
+| 2  | "Um Devoto do Verde foi expulso semana passada. Levou um frasco de esporo vivo. Dizem que montou altar em algum lugar da floresta." |
+| 3  | "A nascente do Bosque dos Sussurros ainda corre limpa. Água pura, sem esporo. Os Devotos chamam de lágrima do deus." |
+| 4  | "A carcaça de um animal coberto de musgo foi achada perto da muralha. Não era um animal conhecido." |
+| 5  | "O Prior da Chama sonhou com uma voz na próxima lua cheia. Disse que o deus *está chamando*. Não deu detalhes." |
+| 6  | "Um enviado anterior foi dado como morto. Voltou três dias depois coberto de brotos verdes. Não falava. Só sorria." |
+
+### Ganchos de Missão (role 1d6 para uma tarefa específica)
+
+| d6 | Missão |
+|:--:|:-------|
+| 1  | Buscar amostra de tecido do deus na cratera |
+| 2  | Investigar desaparecimento de um Devoto na Planície dos Ossos |
+| 3  | Recuperar relíquia da Chama perdida em ruína tomada por esporos |
+| 4  | Escoltar estudioso até ponto de observação e trazer de volta vivo |
+| 5  | Limpar ninho de criatura que está avançando em direção ao mosteiro |
+| 6  | Levar mensagem dos Devotos até um contato dentro da floresta |
+
+### Ganchos de Facção (para usar quando os lados pedirem algo)
+
+Role **1d4** + escolha a facção:
+
+| d4 | Pedido |
+|:--:|:-------|
+| 1  | Eliminar uma célula da facção oposta |
+| 2  | Roubar/recuperar um objeto importante |
+| 3  | Entregar um item ou mensagem em local perigoso |
+| 4  | Descobrir o que a outra facção sabe sobre X |

@@ -64,15 +64,16 @@
 **Ação:** 1 Avançar · 2 Recuar · 3 Revelar · 4 Corromper · 5 Florescer · 6 Consumir
 **Tema:** 1 Vento/Podridão · 2 Musgo/Esporo/Raiz · 3 Memória/Visão · 4 Fogo/Chama · 5 Osso/Carapaça · 6 O Deus/Vazio
 
-### Reação (1d6 + mod rep/10)
-| d6 | Reação |
-|:-:|:--------|
-| 1 | Hostil |
-| 2 | Desconfiado |
-| 3 | Neutro |
-| 4 | Aberto |
-| 5 | Amigável |
-| 6 | Aliado |
+### Reação (2d6 + mod CAR)
+| 2d6+CAR | Reação |
+|:-------:|:--------|
+| 0–6 | Hostil |
+| 7–8 | Desconfiado |
+| 9 | Neutro |
+| 10–11 | Curioso |
+| 12+ | Amigável |
+
+💡 Reputação com a facção pode modificar o resultado a critério do MJ/oráculo.
 
 ### Evento Inesperado (1d12 + 1d6 intensidade)
 1 Facção age · 2 Sinal do deus · 3 Vento muda · 4 Alguém chega · 5 Algo se revela
@@ -88,16 +89,26 @@
 1 Facção ganha vantagem · 2 Facção perde terreno · 3 O deus se manifesta
 4 Personagem é puxado pra dentro · 5 Segredo emerge · 6 Tudo quieto demais
 
+### Token de Sorte
+* 1/sessão. Gaste para re-rolar 1 d20.
+* Ganha +1 se rolar **6** no Oráculo de Custo (máx 2).
+
+### Corrupção
+Escala 1-10. Efeitos por patamar. Reduz no Mosteiro.
+[Mecânica completa](mecanicas/corrupcao.md)
+
 ---
 
 ## Zonas & Encontros
 
 | Zona | Perigo | Teste de Encontro |
 |:-----|:------:|:-----------------:|
-| Tênue | Inseguro | 3+ no d6 |
-| Tocada | Arriscado | 2+ no d6 |
-| Podre | Mortal | 1+ no d6 |
-| Coração | Crítico | 1+ no d6 |
+| Tênue | Inseguro | 1 no d6 a cada 3 rodadas |
+| Tocada | Arriscado | 1 no d6 a cada 2 rodadas |
+| Podre | Mortal | 1 no d6 a cada rodada |
+| Coração | Crítico | 1 no d6 a cada rodada |
+
+Role **Distância (1d6)**, **Atividade (2d6)** e **Reação (2d6 + mod CAR)** — tabelas completas em [Encontros Aleatórios](mecanicas/encontros-aleatorios.md).
 
 ### Tênue (1d6)
 | d6 | Encontro |

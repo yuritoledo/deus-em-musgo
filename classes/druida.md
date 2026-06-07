@@ -50,7 +50,7 @@ Cada vez que sobe de nível, você escolhe novas magias para aprender conforme a
 
 | 2d6 | Talento |
 |:---:|:--------|
-| 2 | +1 uso/dia de Ler Sinais **ou** pode conjurar 1 magia de círculo 1 enquanto transformado |
+| 2 | +1 uso/sessão de Ler Sinais **ou** pode conjurar 1 magia de círculo 1 enquanto transformado |
 | 3-5 | +1 FOR **ou** +1 SAB |
 | 6-8 | +1 em testes de conjuração |
 | 9-11 | +2 FOR **ou** +2 SAB **ou** vantagem em rolagens de ataque e CA enquanto usa uma forma específica (escolha a forma ao pegar o talento) |
@@ -60,18 +60,17 @@ Cada vez que sobe de nível, você escolhe novas magias para aprender conforme a
 
 ### Magias de druida Conhecidas
 
-| Nível | Círculo 1 | Círculo 2 | Círculo 3 | Círculo 4 | Círculo 5 |
-|:-----:|:---------:|:---------:|:---------:|:---------:|:---------:|
-| 1 | 2 | - | - | - | - |
-| 2 | 3 | - | - | - | - |
-| 3 | 3 | 1 | - | - | - |
-| 4 | 3 | 2 | - | - | - |
-| 5 | 3 | 2 | 1 | - | - |
-| 6 | 3 | 2 | 2 | - | - |
-| 7 | 3 | 3 | 2 | 1 | - |
-| 8 | 3 | 3 | 2 | 2 | - |
-| 9 | 3 | 3 | 3 | 2 | 1 |
-| 10| 3 | 3 | 3 | 2 | 2 |
+### Magias de druida Conhecidas
+
+| Nível | Círculo 1 | Círculo 2 | Círculo 3 |
+|:-----:|:---------:|:---------:|:---------:|
+| 1 | 2 | - | - |
+| 2 | 3 | - | - |
+| 3 | 3 | 1 | - |
+| 4 | 3 | 2 | - |
+| 5 | 3 | 2 | 1 |
+
+> Níveis 6+ apenas em campanhas estendidas. Consulte seu MJ.
 
 ---
 

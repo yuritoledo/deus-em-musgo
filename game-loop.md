@@ -27,7 +27,7 @@ Role ou escolha um motivo pra sair do mosteiro:
 **1d6:**
 | d6 | Gancho |
 |:--:|:--------|
-| 1–2 | **Rumor** — algo que ouviu ([Rumores](oraculo-solo/rumores-e-ganchos.md)) |
+| 1–2 | **Rumor** — algo que ouviu ([Rumores](oraculo-solo/gerador-de-missao.md)) |
 | 3–4 | **Missão** — uma facção ou NPC pediu ajuda (mesmo arquivo, Ganchos de Missão) |
 | 5 | **Facção** — alguém da sua própria facção tem uma tarefa (Ganchos de Facção) |
 | 6 | **Combine** — role duas vezes, junta os resultados |
@@ -70,7 +70,7 @@ Role **1d6 pra cada obstáculo** que a distância pedir:
 | d6 | Obstáculo |
 |:--:|:----------|
 | 1 | **Terreno difícil** — FOR CD 10 ou perde 1 recurso |
-| 2 | **Encontro aleatório** — role [tabela](mecanicas/encontros-aleatorios) |
+| 2 | **Encontro aleatório** — role [tabela](mecanicas/encontros-aleatorios.md) |
 | 3 | **Condição piora** — zona sobe 1 nível |
 | 4 | **Trilha perdida** — SAB CD 12 ou chega em local diferente |
 | 5 | **Indício** — pista sobre o que te espera (role [Ação+Tema](oraculo-solo/o-oraculo#2-oráculo-de-ação--tema)) |
@@ -82,7 +82,7 @@ Role **1d6 pra cada obstáculo** que a distância pedir:
 
 1. **Gere o local:** use o [Gerador de Masmorras](masmorras/gerador-de-masmorras.md) ou [Mapa por Dados](masmorras/mapa-do-local-metodo-dos-dados)
 2. **Descreva cada sala** com [Descrevendo a Sala](masmorras/descrevendo-a-sala.md)
-3. **Role encontro** a cada sala ou corredor relevante ([tabela](mecanicas/encontros-aleatorios))
+3. **Role encontro** a cada sala ou corredor relevante ([tabela](mecanicas/encontros-aleatorios.md))
 4. **Role [Evento Inesperado](oraculo-solo/o-oraculo#4-evento-inesperado)** no início de cada cena nova
 
 ### Quando encontrar algo ou alguém
@@ -147,62 +147,58 @@ Se falhou ou abandonou: role **consequência** — a facção envolvida perde 1 
 2. **Magias** — prepara nova seleção pro próximo dia
 3. **Tesouro → XP** — 1 PO = 1 XP ([tabela](mecanicas/progressao-e-xp))
 4. **Level up?** — se tiver XP suficiente, sobe de nível (cap 5)
-5. **Reputação** — ajuste conforme o que aconteceu na sessão ([5.3](mecanicas/reputacao-e-faccoes))
+5. **Reputação** — ajuste conforme o que aconteceu na sessão ([5.3](mecanicas/reputacao-e-faccoes.md))
 
 ### A cada 3 sessões, role [Thread Narrativa](oraculo-solo/o-oraculo#6-threads-de-narrativa):
 
 O mundo se move enquanto você descansa. Facções agem, o deus se manifesta, segredos emergem.
 
-### Tabela de Reputação (resumo)
-
-| Situação | Ajuste |
-|:---------|:------:|
-| Ajudou a facção ou protegeu interesses dela | +1 a +3 |
-| Matou membro ou sabotou plano | -2 a -5 |
-| A partir de ±5 | Missão especial disponível |
-| Em -10 | Hostil — atacam à vista |
+Encontros durante a missão seguem as [regras do SRD](mecanicas/encontros-aleatorios.md) — consulte a **Referência Rápida** abaixo para as tabelas de perigo e frequência.
 
 ---
+## Referência Rápida — Oráculos
 
-## Referência Rápida
+Consulte o [Oráculo Solo](oraculo-solo/o-oraculo.md) completo para:
+- **Sim/Não** (1d6, ajuste por certeza)
+- **Ação + Tema** (d6+d6 específico do cenário)
+- **Foco** (quem/onde/como/por quê)
+- **Evento Inesperado** (d12 + intensidade d6)
+- **Threads de Narrativa** (a cada 3 sessões)
 
-### Oráculo Sim/Não (1d6)
+### Encontros (SRD)
+A cada X rodadas de exploração, role 1d6. **1** = encontro. Role Distância (1d6), Atividade (2d6) e Reação (2d6 + mod CAR) — tabelas em [Encontros Aleatórios](mecanicas/encontros-aleatorios.md).
 
-| d6 | Resposta |
-|:--:|:---------|
-| 1 | Não, e... |
-| 2 | Não |
-| 3 | Não, mas... |
-| 4 | Sim, mas... |
-| 5 | Sim |
-| 6 | Sim, e... |
-
-**Mods de Certeza:** Certeza=melhor 2d6 · Provável=descarta menor · Improvável=descarta maior · Impossível=pior 2d6.
-
-### Reação (1d6 + mod)
-
-| d6 | Reação |
-|:--:|:-------|
-| 1 | Hostil |
-| 2 | Desconfiado |
-| 3 | Neutro |
-| 4 | Aberto |
-| 5 | Amigável |
-| 6 | Aliado |
-
-Mod = reputação da facção / 10 (arredondado). Ex: +7 → +1.
+| Perigo | Frequência |
+|:-------|:-----------|
+| Inseguro | A cada 3 rodadas |
+| Arriscado | A cada 2 rodadas |
+| Mortal | A cada rodada |
 
 ### Perigo por Zona
+| Zona | Perigo |
+|:-----|:------:|
+| Tênue | Inseguro |
+| Tocada | Arriscado |
+| Podre | Mortal |
+| Coração | Crítico |
 
-| Zona | Teste de Encontro |
-|:-----|:-----------------:|
-| Tênue (seguro) | 3+ no dado |
-| Tocada (médio) | 2+ |
-| Podre (mortal) | 1+ |
-| Coração (crítico) | 1+ |
-| Masmorra | Por sala (item 3 da Exploração) |
+### Resolução de Desafios
+1. **Situação** → texto descreve indícios
+2. **Ação** → você decide
+3. **Resultado:** item certo = ✅ / abordagem esperta = ✅ / não-listada = 🎲 Custo / arriscou = 🎲 atributo / ignorou = 💥
 
-Role 1d6 a cada mudança de sala ou horário (exceto em masmorras). Se igual ou maior que o valor, encontro.
+### Token de Sorte
+* Começa cada sessão com **1 Token de Sorte**.
+* Gaste para **re-rolar 1 d20** antes de saber o resultado.
+* Rolou **6** no [Oráculo de Custo](oraculo-solo/resolucao-de-desafios.md#or%C3%A1culo-de-custo)? Ganha +1 Token (máx 2).
+* Tokens não usados expiram no fim da sessão.
+
+### Corrupção
+A podridão divina se acumula em quem se expõe ao deus. Veja a [mecânica completa](mecanicas/corrupcao.md).
+
+**Resumo:** Escala 1-10. Acumula ao falhar testes CON/SAB contra esporos e criaturas. Efeitos progressivos: sussurros (1-3) → enraizamento (4-6) → dissolução (7-9) → corrompido (10). Reduz com descanso no Mosteiro ou relíquias da Chama.
+
+Consulte a [Resolução de Desafios](oraculo-solo/resolucao-de-desafios.md) para tabelas completas.
 
 ---
 

@@ -122,11 +122,11 @@ Falha: -3 de reputação (confiança quebrada).
 
 ## Registro de Reputação
 
-| Facção | Reputação | Notas |
-|:-------|:---------:|:------|
-| Mosteiro da Chama Perpétua | 0 | |
-| Devotos do Verde | 0 | |
-| Seguidores da Nieda | 0 | |
-| Emissários do Sol | 0 | |
-| Mercadores do Norte | 0 | |
-| Capuz Vermelho | 0 | |
+| Facção | Reputação Inicial | Notas |
+|:-------|:-----------------:|:------|
+| Mosteiro da Chama Perpétua | +2 | Você chegou pelo Mosteiro |
+| Devotos do Verde | +1 | Aliança pragmática |
+| Seguidores da Nieda | 0 | Neutros |
+| Emissários do Sol | -1 | Exilados da Chama |
+| Mercadores do Norte | 0 | Neutros |
+| Capuz Vermelho | -2 | Desconfiança padrão |

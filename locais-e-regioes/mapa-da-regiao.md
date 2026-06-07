@@ -14,17 +14,16 @@
           (Ruínas Submersas)    [Estufa do Verde]
 ```
 
-## Zonas
 
 O território se divide pelo nível de exposição à podridão:
 
 | Zona | Perigo | Descrição |
 |:-----|:------:|:----------|
 | **Segura** | Nenhum | Dentro das muralhas do mosteiro |
-| **Tênue** | Baixo | Até 1 dia do mosteiro. Musgo leve, esporos raros |
-| **Tocada** | Médio | 1-3 dias. Vegetação agressiva, ar pesado, criaturas mutadas |
-| **Podre** | Alto | 3+ dias. Visibilidade reduzida, esporos constantes, solo instável |
-| **Coração** | Mortal | A cratera. O corpo do deus |
+| **Tênue** | Inseguro | Até 1 dia do mosteiro. Musgo leve, esporos raros |
+| **Tocada** | Arriscado | 1-3 dias. Vegetação agressiva, ar pesado, criaturas mutadas |
+| **Podre** | Alto → Mortal | 3+ dias. Visibilidade reduzida, esporos constantes, solo instável |
+| **Coração** | Crítico | A cratera. O corpo do deus |
 
 ## Locais para Descobrir
 

@@ -82,10 +82,10 @@ Quando sua pergunta não é sim/não — "quem?", "onde?", "como?", "por quê?":
 
 | d6 | Resposta |
 |:--:|:---------|
-| 1 | Uma facção conhecida (role qual em [Facções](../faccoes/index-das-faccoes)) |
+| 1 | Uma facção conhecida (role qual em [Facções](../faccoes/faccoes.md)) |
 | 2 | Um NPC já encontrado antes |
 | 3 | Um estranho — role na tabela rápida de NPC |
-| 4 | Uma criatura da região (role em [Encontros](../bestiario/encontros-por-regiao)) |
+| 4 | Uma criatura da região (role em [Encontros](../bestiario/encontros-por-regiao.md)) |
 | 5 | Algo ligado ao deus (visão, esporo, tecido divino) |
 | 6 | Múltiplos — role duas vezes, ignore repetições |
 
@@ -107,7 +107,7 @@ Quando sua pergunta não é sim/não — "quem?", "onde?", "como?", "por quê?":
 | 1 | Em território conhecido perto do mosteiro |
 | 2 | Em zona já visitada antes |
 | 3 | Em fronteira entre zonas (Tênue/Tocada/Podre) |
-| 4 | Num local da região não visitado (role em [Mapa](../locais-e-regioes/mapa-da-regiao)) |
+| 4 | Num local da região não visitado (role em [Mapa](../locais-e-regioes/mapa-da-regiao.md)) |
 | 5 | Numa masmorra/toca não mapeada |
 | 6 | Num lugar ligado ao deus (cratera, veio de osso, poço de esporo) |
 
@@ -170,21 +170,19 @@ Quando algo acontece *fora do foco do personagem*. Role no início de cada cena 
 
 Quando encontrar um NPC ou grupo e não souber como reagem:
 
-### Reação por Intenção (d6)
+### Reação (2d6 + mod CAR)
 
-Role modificado pela reputação da facção (se aplicável):
+| 2d6+CAR | Reação |
+|:-------:|:--------|
+| 0–6 | **Hostil** — ataca ou age contra |
+| 7–8 | **Desconfiado** — exige explicação, arma na mão |
+| 9 | **Neutro** — espera sua ação primeiro |
+| 10–11 | **Curioso** — observa, faz perguntas, propõe troca |
+| 12+ | **Amigável** — oferece ajuda, informação ou abrigo |
 
-| d6 | Reação |
-|:--:|:--------|
-| 1 | **Hostil** — ataca ou age contra |
-| 2 | **Desconfiado** — exige explicação, arma na mão |
-| 3 | **Neutro** — espera sua ação primeiro |
-| 4 | **Aberto** — responde perguntas, propõe troca |
-| 5 | **Amigável** — oferece ajuda, informação ou abrigo |
-| 6 | **Aliado** — quer sua companhia, tem missão pra você |
+**Reputação:** Se o NPC pertence a uma facção, o MJ/oráculo pode adicionar o modificador de reputação (reputação /10, arredondado) ao teste.
 
-**Modificadores:** Reputação da facção /10, arredondado. Ex: reputação +5 → +1 no dado. Reputação -6 → -1.
-
+Criaturas sempre hostis (mortos-vivos, feras famintas) ignoram a rolagem.
 ---
 
 ## 6. Threads de Narrativa
@@ -204,8 +202,44 @@ Para conectar encontros isolados em arcos maiores:
 
 Role Ação + Tema pra detalhar.
 
+
 ---
 
+## 8. Tabela de Encontros Genérica
+
+Role **1d6** (ou **2d6** para viajar longas distâncias).
+
+| d6 | Encontro |
+|:--:|:---------|
+| 1  | **Perigo imediato** — criatura hostil, tempestade de esporos, terreno colapsando |
+| 2  | **Sinal da podridão** — fenômeno estranho (musgo que pulsa, árvore que sangra, vento que sussurra) |
+| 3  | **Criatura** — role na tabela da região |
+| 4  | **Vestígio** — ruína, restos de viajante, acampamento abandonado |
+| 5  | **Recurso** — água limpa, abrigo, erva útil, veio de cristal |
+| 6  | **Oportunidade** — Atalho, visão do deus, Devoto do Verde amigável, tesouro exposto |
+
+### Rolagens por Região
+
+*Veja também:* [Encontros por Região](../bestiario/encontros-por-regiao.md)
+
+### Tabela de Características (role 1d3 + 1d6)
+
+Para dar sabor a encontros quando precisar:
+
+**1d3 — Aparência do local:**
+1. Coberto de musgo verde-brilhante
+2. Entrelaçado por raiz negra pulsante
+3. Carcomido por esporos azulados
+
+**1d6 — Detalhe estranho:**
+1. Estátua de osso e musgo
+2. Símbolo da Chama riscado no chão
+3. Restos de fogueira ainda quente
+4. Cratera minúscula com líquido escuro
+5. Pedra que treme levemente
+6. Silêncio absoluto — nem inseto, nem vento
+
+---
 ## 7. Fluxo de Uso
 
 ```

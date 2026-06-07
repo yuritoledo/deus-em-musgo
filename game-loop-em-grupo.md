@@ -28,7 +28,7 @@ Antes de cada sessão, reserve 10-15 min pra preparar:
 
 ### 1. Ganchos (role 2-3)
 
-Role na [tabela de Ganchos](oraculo-solo/rumores-e-ganchos.md) e anote resumidamente:
+Role na [tabela de Ganchos](oraculo-solo/gerador-de-missao.md) e anote resumidamente:
 
 - **Rumor** — algo que ouviram no mosteiro
 - **Missão** — pedido de facção ou NPC
@@ -74,7 +74,8 @@ Role normalmente. As tabelas funcionam pra grupo igual.
 
 | d6 | Zona | Perigo | Distância típica |
 |:--:|:-----|:------:|:-----------------|
-| 1–2 | **Tênue** — perto do mosteiro | Inseguro | Perto–Médio |
+| 1 | **Coração** — a cratera (raro) | Crítico | Distante+ |
+| 2 | **Tênue** — perto do mosteiro | Inseguro | Perto–Médio |
 | 3–4 | **Tocada** — 1-3 dias de viagem | Arriscado | Médio–Longe |
 | 5 | **Podre** — 3+ dias | Mortal | Longe–Distante |
 | 6 | **Masmorra** — role [tema](masmorras/gerador-de-masmorras.md) | varia | — |
@@ -294,35 +295,16 @@ Antes da primeira sessão em grupo, alinhe:
 
 ### Perigo por Zona
 
-| Zona | Teste de Encontro |
-|:-----|:-----------------:|
-| Tênue | 3+ no d6 |
-| Tocada | 2+ |
-| Podre | 1+ |
+A cada X turnos de exploração, role 1d6. **1** = encontro ocorre.
 
-Role 1d6 a cada **3 turnos**. Se igual ou maior, encontro.
+| Zona | Perigo | Teste |
+|:-----|:------:|:-----:|
+| Tênue | Inseguro | A cada 3 turnos |
+| Tocada | Arriscado | A cada 2 turnos |
+| Podre | Mortal | A cada turno |
+| Coração | Crítico | A cada turno |
 
-### Oráculo Sim/Não (pra GM)
-
-| d6 | Resposta |
-|:--:|:---------|
-| 1 | Não, e... |
-| 2 | Não |
-| 3 | Não, mas... |
-| 4 | Sim, mas... |
-| 5 | Sim |
-| 6 | Sim, e... |
-
-### Oráculo de Ação + Tema (pra GM improvisar)
-
-| d6 | Ação | d6 | Tema |
-|:--:|:-----|:--:|:-----|
-| 1 | Avançar / Atacar | 1 | Vento / Podridão |
-| 2 | Recuar / Proteger | 2 | Musgo / Esporo |
-| 3 | Revelar / Perguntar | 3 | Memória / Visão |
-| 4 | Corromper / Dissolver | 4 | Fogo / Chama |
-| 5 | Florescer / Expandir | 5 | Osso / Apodrecido |
-| 6 | Consumir / Silenciar | 6 | O Deus / O Pulso |
+Role **Distância (1d6)**, **Atividade (2d6)** e **Reação (2d6 + mod CAR)** nas tabelas do Shadowdark.
 
 ### Morale (opcional)
 
@@ -330,4 +312,4 @@ Inimigos com ≤ 50% PV ou sem líder → d20 ≤ 12 = fogem ou se rendem.
 
 ---
 
-> *Veja também: [game-loop Solo](game-loop.md) (versão original) · [Oráculo](oraculo-solo/o-oraculo) · [Masmorras](masmorras/gerador-de-masmorras.md) · [Progressão](mecanicas/progressao-e-xp)*
+> *Veja também: [game-loop Solo](game-loop.md) (versão original) · [Oráculo Completo](oraculo-solo/o-oraculo) · [Masmorras](masmorras/gerador-de-masmorras.md) · [Progressão](mecanicas/progressao-e-xp)*
