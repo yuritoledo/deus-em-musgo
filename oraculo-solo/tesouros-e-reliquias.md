@@ -24,6 +24,8 @@ Role **1d6** para tesouro genérico, ou use a tabela específica quando uma sala
 | 5  | **Lança de Osso** — arma improvisada (dano 1d6). Se causar dano máximo, espalha esporos no alvo (CD 12 CON ou 1 de Corrupção). |
 | 6  | **Manto de Pele Divina** — CA +1 contra ataques físicos. Fedor atrai atenção: -2 em Surprise. |
 
+> 💡 Efeitos de Corrupção seguem a [mecânica completa](../mecanicas/corrupcao.md).
+
 ## Relíquias da Chama (d6 — objetos bentos)
 
 | d6 | Relíquia |

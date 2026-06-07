@@ -60,8 +60,6 @@ Cada vez que sobe de nível, você escolhe novas magias para aprender conforme a
 
 ### Magias de druida Conhecidas
 
-### Magias de druida Conhecidas
-
 | Nível | Círculo 1 | Círculo 2 | Círculo 3 |
 |:-----:|:---------:|:---------:|:---------:|
 | 1 | 2 | - | - |
@@ -99,7 +97,7 @@ Equipamento vestido se funde à sua forma, mantendo efeitos mágicos. Em 0 PV, v
 
 **Duração:** 3 rounds **Alcance:** Toque
 
-Imbuye um cajado ou clava com força primal. Você usa SAB em vez de FOR para ataques.
+Imbui um cajado ou clava com força primal. Você usa SAB em vez de FOR para ataques.
 
 ### Memória da Pedra
 *Círculo 1, druida*
@@ -122,7 +120,7 @@ A rajada pode apagar tochas ou levantar poeira.
 
 **Duração:** Concentração **Alcance:** Distante
 
-Vinhas eruptam em uma área próxima. Criaturas que você escolher ficam **imobilizadas** e podem tentar um teste de FOR DC 12 no seu turno para se libertar.
+Vinhas irrompem em uma área próxima. Criaturas que você escolher ficam **imobilizadas** e podem tentar um teste de FOR DC 12 no seu turno para se libertar.
 
 ---
 
@@ -140,7 +138,7 @@ Pode ser lançada enquanto transformado.
 
 **Duração:** Concentração **Alcance:** Próximo
 
-Espinhos secos e irregulares eruptam do chão em uma área próxima. Criaturas que entram ou se movem pela área sofrem 1d4 de dano e têm seu movimento reduzido à metade.
+Espinhos secos e irregulares irrompem do chão em uma área próxima. Criaturas que entram ou se movem pela área sofrem 1d4 de dano e têm seu movimento reduzido à metade.
 
 Os espinhos murcham quando sua concentração termina.
 

@@ -4,19 +4,19 @@
 
 ---
 
-O **Deus Podre** caiu do ceu ha geracoes. Ninguem sabe de onde veio ou se caiu ou foi derrubado. A batida abriu uma cratera que hoje e o coracao da floresta, e o corpo nunca parou de apodrecer.
+O **Deus Podre** caiu do céu há gerações. Ninguém sabe de onde veio ou se caiu ou foi derrubado. A batida abriu uma cratera que hoje é o coração da floresta, e o corpo nunca parou de apodrecer.
 
-O deus nao esta morto. Esta em um estado que ninguem sabe nomear.
+O deus não está morto. Está em um estado que ninguém sabe nomear.
 
-Com o tempo, a podridao se espalhou. Primeiro o solo. Depois as plantas. Depois os animais. Hoje o ar carrega esporos que fazem a carne brotar musgo. A floresta inteira virou extensao do corpo divino — e ha quem diga que ela **pensa**.
+Com o tempo, a podridão se espalhou. Primeiro o solo. Depois as plantas. Depois os animais. Hoje o ar carrega esporos que fazem a carne brotar musgo. A floresta inteira virou extensão do corpo divino — e há quem diga que ela **pensa**.
 
-Musgo e pele divina; esporos sao pensamentos se dissolvendo. A floresta nao e apenas um lugar — e uma mente lenta e coletiva.
+Musgo é pele divina; esporos são pensamentos se dissolvendo. A floresta não é apenas um lugar — é uma mente lenta e coletiva.
 
-Voce pode ser um enviado do **Mosteiro da Chama Perpetua**, um dos ultimos bastioes que ainda resistem. Ou um dos **Seguidores da Nieda**, a servico da Mae Suyaria em tarefas que so confia a quem ja provou valor. Cruzou o portao. Agora enfrenta o que restou da divindade.
+Você pode ser um enviado do **Mosteiro da Chama Perpétua**, um dos últimos bastiões que ainda resistem. Ou um dos **Seguidores da Nieda**, a serviço da Mãe Suyaria em tarefas que só confia a quem já provou valor. Cruzou o portão. Agora enfrenta o que restou da divindade.
 
-Voce e um aventureiro tentando sobreviver mais um dia — e talvez lucrar com isso.
+Você é um aventureiro tentando sobreviver mais um dia — e talvez lucrar com isso.
 
-Cada sessao e uma **incursao**: sai do mosteiro, explora uma area, enfrenta o que encontrar e volta. Ganha XP por descobrir um novo local, derrotar uma ameaca, recuperar uma reliquia ou segredo do deus, tomar uma decisao que muda o equilibrio entre os poderes da regiao — e por sobreviver.
+Cada sessão é uma **incursão**: sai do mosteiro, explora uma área, enfrenta o que encontrar e volta. Ganha XP por descobrir um novo local, derrotar uma ameaça, recuperar uma relíquia ou segredo do deus, tomar uma decisão que muda o equilíbrio entre os poderes da região — e por sobreviver.
 
 ---
 
@@ -24,35 +24,37 @@ Cada sessao e uma **incursao**: sai do mosteiro, explora uma area, enfrenta o qu
 
 ### Explorar
 
-- [Mapa da Regiao](locais-e-regioes/mapa-da-regiao.md)
-- [Faccoes](faccoes/faccoes.md)
+- [Mapa da Região](locais-e-regioes/mapa-da-regiao.md)
+- [Facções](faccoes/faccoes.md)
 - [Classe Druida](classes/druida.md)
+- [Locais Detalhados](locais-e-regioes/locais-detalhados.md)
 
 ### Jogar
 
-- [Oraculo Solo](oraculo-solo/o-oraculo.md)
-- [Gerador de Missao](oraculo-solo/gerador-de-missao.md)
+- [Oráculo Solo](oraculo-solo/o-oraculo.md)
+- [Gerador de Missão](oraculo-solo/gerador-de-missao.md)
 - [Gerador de Masmorras](masmorras/gerador-de-masmorras.md)
-- [Encontros por Regiao](bestiario/encontros-por-regiao.md)
-- [Resolucao de Desafios](oraculo-solo/resolucao-de-desafios.md)
-- [Resolucao de Desafios](oraculo-solo/resolucao-de-desafios.md)
-- [Tesouros e Reliquias](oraculo-solo/tesouros-e-reliquias.md)
+- [Encontros por Região](bestiario/encontros-por-regiao.md)
+- [Indice de Criaturas](bestiario/indice-de-criaturas.md)
+- [Resolução de Desafios](oraculo-solo/resolucao-de-desafios.md)
+- [Tesouros e Relíquias](oraculo-solo/tesouros-e-reliquias.md)
 
 ### Regras
 
 - [Regras Base](regras-base.md)
-- [Corrupcao](mecanicas/corrupcao.md)
-- [Progressao e XP](mecanicas/progressao-e-xp.md)
-- [Reputacao e Faccoes](mecanicas/reputacao-e-faccoes.md)
-- [Encontros Aleatorios](mecanicas/encontros-aleatorios.md)
+- [Corrupção](mecanicas/corrupcao.md)
+- [Progressão e XP](mecanicas/progressao-e-xp.md)
+- [Reputação e Facções](mecanicas/reputacao-e-faccoes.md)
+- [Encontros Aleatórios](mecanicas/encontros-aleatorios.md)
 - [Descrevendo a Sala](masmorras/descrevendo-a-sala.md)
-- [Mapa do Local (Metodo dos Dados)](masmorras/mapa-do-local-metodo-dos-dados.md)
+- [Mapa do Local (Método dos Dados)](masmorras/mapa-do-local-metodo-dos-dados.md)
 
 ### Guia
 
 - [Cheat Sheet](cheat-sheet.md)
 - [Game Loop Solo](game-loop.md)
 - [Game Loop em Grupo](game-loop-em-grupo.md)
+- [Templates de Criacao](_templates.md)
 
 ---
 

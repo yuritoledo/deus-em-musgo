@@ -1,6 +1,8 @@
 # 🐾 Encontros por Região
 Role **2d6** na zona atual para saber o que aparece. Depois role **Distância** e **Atividade** nas tabelas ao final da página.
 
+> Consulte o [Indice de Criaturas](indice-de-criaturas.md) para busca por nivel e tipo.
+
 A zona não é uma barreira — o 2d6 define a probabilidade. No coração da curva (7) está o mais representativo da zona; nas pontas (2, 12) estão os raros, que podem vir de qualquer lugar.
 
 | 2d6 | Probabilidade |
@@ -37,6 +39,8 @@ A zona não é uma barreira — o 2d6 define a probabilidade. No coração da cu
 | 11 | **Carniçal verde (errante)** — um morto-vivo fúngico que vagueou da Zona Tocada. Solo inseguro, criaturas se deslocam. | LV 2 | 11 | 2d6 | Garra +3 (1d6) | Podridão: CD 12 CON ou infecção (1d4 dano por dia). |
 | 12 | **Carniceiro (ogro perdido)** — um ogro fúngico que se afastou demais da Podre. Confuso, agressivo. Carrega restos de uma caravana. | LV 4 | 14 | 4d6 | Porrete +6 (2d6) | Cogumelos venenosos: CD 12 CON ao atacar corpo a corpo ou 1d4 ácido. |
 
+> 💡 Efeitos de Corrupção seguem a [mecânica completa](../mecanicas/corrupcao.md).
+
 ---
 
 ## Zona Tocada
@@ -57,6 +61,8 @@ A zona não é uma barreira — o 2d6 define a probabilidade. No coração da cu
 | 11 | **Lobo musgoso alfa** — lobo grande, cicatrizes, musgo escuro. Comanda 1d3 lobos. Raro na Tocada — provavelmente veio da Tênue. | LV 2 | 13 | 2d6 | Mordida +5 (1d8) | Liderança: 1d3 lobos LV 1. Enquanto vivo, lobos têm +1 ataque. |
 | 12 | **Fungo pai** — fungo grande e imóvel que gera 1d4 cogumelos ambulantes por rodada. Protegido por 1d4 zumbis fúngicos. | LV 3 | 10 | 4d6 | — | Geração: 1d4 cogumelos LV 1/rodada. Fraqueza: recebe dobro de dano de fogo e não gera enquanto queima. |
 
+
+> 💡 Efeitos de Corrupção seguem a [mecânica completa](../mecanicas/corrupcao.md).
 ---
 
 ## Zona Podre
@@ -79,6 +85,8 @@ A zona não é uma barreira — o 2d6 define a probabilidade. No coração da cu
 
 ---
 
+> 💡 Efeitos de Corrupção seguem a [mecânica completa](../mecanicas/corrupcao.md).
+
 ## Zona Coração
 
 *O centro. O que é "comum" aqui é abjeto. Criaturas de nível baixo que aparecem estão tão deslocadas quanto você — e igualmente perdidas.*
@@ -97,6 +105,8 @@ A zona não é uma barreira — o 2d6 define a probabilidade. No coração da cu
 | 11 | **Devoto fundido** — humano que se fundiu voluntariamente ao deus. Metade do corpo é raiz e osso. Ainda pensa — e escolheu isso. | LV 5 | 15 | 5d6 | Toque corruptor +7 (2d6, CD 14 CON) | Fundido: metade dano físico. Raízes agarram (FOR CD 14). Fala pelo deus. |
 | 12 | **Matriarca do berçário** — seis patas, corpo bulboso brilhante. Protetora máxima da ninhada. Bolsas de esporos pendem do abdômen. | LV 6 | 17 | 6d6 | Mordida +8 (2d8) + jato de esporo (2d6 área, CD 15 CON) | Gera 1d4 filhotes LV 2/rodada. Bolsas rompidas = nuvem de esporos (área 6m). |
 
+
+> 💡 Efeitos de Corrupção seguem a [mecânica completa](../mecanicas/corrupcao.md).
 ---
 
 ## Distância & Atividade
