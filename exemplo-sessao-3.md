@@ -11,6 +11,11 @@
 SESSÃO 22 — 3º Dia de Sol (colheita)
 ═══════════════════════════════════════════
 
+─── Druida nível 1 ───
+SAB +2 · DEX 0 · STR +1 · PV 6
+Forma animal: lobo (d4)
+Magias: Conjurar Raízes, Gust
+
 MISSÃO
 Descobrir quem está queimando os campos
 leste do Mosteiro — antes que os Devotos
@@ -18,10 +23,9 @@ do Verde declarem guerra
 Destino: Tênue (a 2 horas)
 
 RECURSOS
-♦ HP 8/8   Corr 0
+♦ HP 6/6   Corr 0
 ♦ Ervas 4   Água 2
-♦ Magias: Cure Wounds, Speak with Plants,
-  Faerie Fire (foco druídico)
+♦ Foco: Cajado de Raiz
 
 PREPARAÇÃO
 // missão diplomática — não posso chegar

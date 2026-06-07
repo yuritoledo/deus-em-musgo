@@ -12,14 +12,19 @@
 SESSÃO 12 — 7º Lua Minguante
 ═══════════════════════════════════════════
 
+─── Druida nível 1 ───
+SAB +2 · DEX 0 · STR +1 · PV 6
+Forma animal: lobo (d4)
+Magias: Conjurar Raízes, Gust
+
 MISSÃO
 Resgatar Nieda no Poço dos Ossos
 Destino: Tocada · Médio · 1 obstáculo
 
 RECURSOS
-♦ HP 8/8   Torch 5/6   Corr 0
+♦ HP 6/6   Torch 5/6   Corr 0
 ♦ Rações 3  Água 2  Ervas 1
-♦ Magias: C. Ferimentos, Det. Magic
+♦ Foco: Cajado de Raiz
 
 PREPARAÇÃO
 // levei pouca água, torça que tenha lá
@@ -53,9 +58,11 @@ d: DES CD 12 (furtividade) → 14 ✅
   árvore que respira. O chão treme a cada
   "inspiração".
 
-> Examino as raízes. Tem uma passagem por baixo.
+> Ponho a mão na árvore. As raízes se retraem,
+  revelando uma passagem.
 
-d: SAB CD 10 (percepção) → 7 ❌
+// o +2 SAB me ajuda a sentir por onde elas
+//   vão ceder
 // acho que não vi algo importante aqui
 
 ? A passagem é segura?
@@ -106,7 +113,7 @@ d: ??? não rolou nada — só anotei
 
 > Desço pela corda. Silêncio.
 
-d: FOR CD 10 (segurar corda com mochila) → 12 ✅
+d: STR CD 10 (segurar corda com mochila) → 12 ✅
 
 " (Nieda) ...você veio. Achava que ninguém...
 
@@ -121,12 +128,11 @@ d: FOR CD 10 (segurar corda com mochila) → 12 ✅
 ! Vocês sobem. A árvore que respira começa a
   tremer mais forte. O chão racha.
 
-> Corro com ela pra borda da cratera.
+> Grito "Gust!" — a rajada explode as raízes
+  ao redor e nos arremessa pra borda. Nieda
+  agarrada em mim.
 
-d: DES CD 12 (correr com peso) → 9 ❌
-// usei Token de Sorte!
-
-d: (re-roll) → 16 ✅
+♦ -1 magia (Gust gasta)
 
 ! Os dois caem do outro lado da cratera
   enquanto a clareira desaba.
@@ -138,7 +144,7 @@ PÓS-SESSÃO
 ♦ Corr +1 (inalei esporo no Poço)
 ♦ -1 Erva
 ♦ -1 Tocha
-// Token de Sorte: gasto
+♦ -1 magia (Gust)
 
 XP +120 (missão concluída)
 // Nieda deve favorecimento pro Mosteiro agora
