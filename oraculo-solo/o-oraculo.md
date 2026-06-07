@@ -205,8 +205,7 @@ Role Ação + Tema pra detalhar.
 
 ---
 
-## 8. Tabela de Encontros Genérica
-
+## 7. Tabela de Encontros Genérica
 Role **1d6** (ou **2d6** para viajar longas distâncias).
 
 | d6 | Encontro |
@@ -240,7 +239,7 @@ Para dar sabor a encontros quando precisar:
 6. Silêncio absoluto — nem inseto, nem vento
 
 ---
-## 7. Fluxo de Uso
+## 8. Fluxo de Uso
 
 ```
 1. Situação se apresenta
@@ -268,5 +267,5 @@ FOCO:       Quem=d6 | Como=d6 | Por que=d6 | Onde=d6
 
 EVENTO:     1d12 evento + 1d6 intensidade
 
-REAÇÃO:     1d6 + mod reputação/10
+REAÇÃO:     2d6 + mod CAR (reputação opcional /10)
 ```

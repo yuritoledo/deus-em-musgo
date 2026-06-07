@@ -229,6 +229,7 @@ No mosteiro ou abrigo seguro, **cada personagem**:
 2. **Magias** — prepara nova seleção
 3. **Tesouro → XP** — 1 PO = 1 XP ([tabela](mecanicas/progressao-e-xp))
 4. **Level up?** — se tiver XP suficiente
+5. **Corrupção** — cada personagem com pontos de Corrupção rola os efeitos do tier atual ([mecanica completa](mecanicas/corrupcao.md))
 
 ### Reputação
 

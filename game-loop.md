@@ -148,6 +148,7 @@ Se falhou ou abandonou: role **consequência** — a facção envolvida perde 1 
 3. **Tesouro → XP** — 1 PO = 1 XP ([tabela](mecanicas/progressao-e-xp))
 4. **Level up?** — se tiver XP suficiente, sobe de nível (cap 5)
 5. **Reputação** — ajuste conforme o que aconteceu na sessão ([5.3](mecanicas/reputacao-e-faccoes.md))
+6. **Corrupção** — se tem pontos de Corrupção, role os efeitos do tier atual ([mecanica completa](mecanicas/corrupcao.md))
 
 ### A cada 3 sessões, role [Thread Narrativa](oraculo-solo/o-oraculo#6-threads-de-narrativa):
 

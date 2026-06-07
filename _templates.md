@@ -115,3 +115,35 @@
 - ( )
 
 **Tesouro:** (se houver)
+
+## Template - Facção
+
+### (Nome da Facção)
+
+**Símbolo:** (descrição visual)
+**Território:** (onde atua)
+**Objetivo:** (o que quer — 1 linha)
+**Recursos:** (guerreiro, magia, dinheiro, influência)
+
+### Hierarquia
+
+- **Líder:** (nome e título)
+- **Membros conhecidos:** (2-3 NPCs com função)
+
+### Relações
+
+_(reputação inicial de outras facções com esta)_
+
+| Facção | Reputação |
+|:-------|:---------:|
+| ... | 0 |
+
+### Missões típicas
+
+1. (missão comum)
+2. (missão incomum)
+3. (missão para personagens de nível alto)
+
+### Segredo
+
+(algo que a facção esconde — verdade, fraqueza, objetivo real)

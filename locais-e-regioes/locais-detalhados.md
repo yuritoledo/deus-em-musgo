@@ -58,7 +58,7 @@
 
 **Perigos:**
 - Seguidores da Nieda patrulham a area (1d4 druidas LV 2). Consideram o monolito sagrado.
-- Vento incessante tochas apagam com 1 em 1d6.
+:- **Vento incessante:** tochas apagam com 1 em 1d6.
 
 **Conexoes:** Mata dos Sonhos (3h), Cratera do Deus (1 dia)
 
@@ -199,7 +199,7 @@
 
 **Pontos de Interesse:**
 - **Trinco de arvore petrificada:** Uma arvore fossilizada no centro da planicie. Dentro do tronco oco, um ninho com 1d4 ovos de corvo gigante (50 PO cada para Devotos do Verde).
-- **Tumulus:** Monticulo de terra no meio dos ossos. Escavar leva a uma camara funeraria com 1 esqueleto e 1d4 10 PO em braceletes e aneis.
+- **Tumulus:** Monticulo de terra no meio dos ossos. Escavar leva a uma camara funeraria com 1 esqueleto e 1d4 × 10 PO em braceletes e aneis.
 - **Ponto mais alto:** Uma laje de pedra lisa. Subir nela permite ver o Mosteiro ao norte e a Colina Pulsante ao sul.
 
 **Perigos:**
@@ -236,19 +236,69 @@
 
 **Regiao:** Zona Coracao
 **Perigo:** Critico
+**Descricao:** O centro de tudo. Uma cratera de 500m de diametro formada pelo impacto do deus. A borda e um anel de terra queimada e pedra vidrada. O interior desce em patamares ate o centro, onde o corpo do deus jaz exposto. O ar aqui e irrespiravel por mais de 1 turno sem protecao (CON CD 14 ou 1 de Corrupcao). O chao e uma crosta fina sobre carne divina em alguns pontos, pisar afunda alguns centimetros em tecido umido que pulsa.
 
-**Descricao:** O centro de tudo. Uma cratera de 500m de diametro formada pelo impacto do deus. A borda e um anel de terra queimada e pedra vidrada. O interior desce em patamares ate o centro, onde o corpo do deus jaz exposto. O ar aqui e irrespiravel por mais de 1 turno sem protecao (CON CD 14 ou 1 de Corrupcao). O chao e uma crosta fina sobre carne divina em alguns pontos, pisar afunda alguns centimetros em tecido umido que pulsa. O corpo do deus nao tem forma definida: e uma massa amorfa de tons cinza, verde e preto, do tamanho de um templo, coberta de olhos fechados que se abrem quando alguem chega perto.
+A cratera funciona como uma **masmorra de 3 patamares**. Cada patamar tem 1d4+2 areas. Role ao entrar em cada um ou escolha as que fizerem sentido.
 
-**Pontos de Interesse:**
-- **Patamar 1 (borda):** Destrocos de expedicoes anteriores barracas rasgadas, equipamento quebrado. Ainda util: 1d4 pocoes, 2d6 PO, 1 mapa.
-- **Patamar 2 (meio):** Veios de osso divino expostos. Coletar 1 fragmento leva 1 turno e requer ferramenta. Vale 2d6 10 PO. Cada fragmento coletado: 1 de Corrupcao.
-- **Patamar 3 (centro):** O corpo. Tocar o deus revela visao completa de 1 verdade sobre o cenario. Toda vez que tocar, ganha 1d4 de Corrupcao.
-- **Olhos do deus:** 1d6 olhos abertos na superficie do corpo. Encara um olho por 1 turno: responde 1 pergunta (verdade absoluta), mas trava o personagem por 1d4 rodadas depois.
+---
 
-**Perigos:**
-- Corrupcao automatica a cada turno na cratera (CON CD 14 ou +1)
-- Olhos do deus: se 3+ estiverem abertos na mesma cena, algo acorda
-- O ar e venenoso sem protecao: 1 de Corrupcao automatico a cada 10 minutos
-- O proprio chao move muda de forma lentamente. Caminho de volta pode nao ser o mesmo
+### Patamar 1: A Borda (entrada, zona critica)
+
+**Descricao:** O anel superior da cratera. O chao e pedra vidrada pelo calor do impacto, entremeada por rachaduras por onde sobe vapor. Destrocos de expedicoes anteriores espalhados. O vento uiva constante.
+
+**Role 1d4+2 areas ao explorar:**
+
+| d6 | Area |
+|:--:|:-----|
+| 1 | **Acampamento abandonado:** Barracas rasgadas, equipamento quebrado. 1d4 pocoes, 2d6 PO, 1 mapa das areas proximas. Entre os destrocos, um diario: ultima entrada diz "o pulso mudou. Nao e mais ritmico. Esta chamando." |
+| 2 | **Rachadura fumegante:** Fenda de 3m de largura. Vapor quente sobe. FOR CD 12 para pular. Quem cai: 1d4 dano de queimadura + faz barulho (atrai algo). |
+| 3 | **Torre de observacao:** Estrutura de metal retorcida, montada por expedicao anterior. Subir (6m) da visao geral da borda. No topo, luneta quebrada e sinalizadores (2d4 flares). |
+| 4 | **Jardim de cristais:** Afloramento de cristais verdes que pulsam em sincronia com o pulso da cratera. Cada cristal arrancado: 1d6 PO mas faz o pulso local acelerar por 1 turno. |
+| 5 | **Nicho de esporos:** Uma depressao coberta de cogumelos azuis luminescentes. O ar e denso. Atravessar: CON CD 12 ou tosse (vantagem em Furtividade por 1 turno). Coletar cogumelos: 1d4 doses de veneno (CON CD 12 ou 1d4 dano). |
+| 6 | **Entrada do Patamar 2:** Declive de pedra solta que desce para o nivel medio. Descer e facil; subir requer FOR CD 14. |
+
+**Encontros (1d6):** 1. Fungo podre (LV 1) 2. Devoto do Verde isolado (negocia) 3. Fera enlouquecida (LV 2) 4. Armadilha natural (desmoronamento) 5. Nada 6. Visao do deus (1 de Corrupcao, revela direcao)
+
+---
+
+### Patamar 2: Os Veios (meio, zona critica)
+
+**Descricao:** A encosta interna da cratera. O chao de pedra da lugar a uma superficie irregular de osso e tecido divino expostos. Veios de osso branco como marmore cruzam o caminho como raizes. O ar e mais quente e denso. Ouve-se um pulso baixo e constante que vibra nos dentes.
+
+**Role 1d4+2 areas ao explorar:**
+
+| d6 | Area |
+|:--:|:-----|
+| 1 | **Veio de osso divino:** Veio exposto de osso branco. Coletar 1 fragmento: 1 turno, requer ferramenta (picareta, martelo). Vale 2d6 × 10 PO. Cada fragmento: 1 de Corrupcao. |
+| 2 | **Lago de icor:** Poca de liquido cinza-escuro, grosso como oleo quente. Atravessar requer ponte improvisada ou borda estreita (DES CD 12). Tocar: 1 de Corrupcao, visao de um momento da Queda. |
+| 3 | **Crosta fina:** Trecho onde o chao e uma crosta fina sobre carne divina. Pisar: DES CD 12 ou afunda (1d4 dano, 1 de Corrupcao, fica preso ate alguem puxar FOR CD 12). |
+| 4 | **Nervura exposta:** Cordao de tecido divino esticado entre duas paredes de pedra, pulsando. Cortar: o deus "geme" (toda criatura na area faz CON CD 12 ou fica atordoada 1 rodada). O cordao vale 1d6 × 10 PO para estudiosos da Nieda. |
+| 5 | **Sala dos ecos:** Camara onde cada som volta 3 vezes, cada vez mais distorcida. Gritar aqui: acorda 1d4 zumbis fungicos (LV 2) que emergem do chao. Sussurrar: revela uma verdade sobre o local (role Acao+Tema). |
+| 6 | **Passagem para Patamar 3:** Tuneis de carne divina que se contraem e expandem lentamente. Passar: CON CD 12 ou 1 de Corrupcao. A saida e uma abertura irregular que da para o centro da cratera. |
+
+**Encontros (1d6):** 1. Zumbi fungico (LV 2) 2. Enxame de esporos (LV 2) 3. Visao coletiva do deus (1 de Corrupcao) 4. Seguidor da Nieda fazendo oferenda 5. Nada 6. O deus reage (pulso forte, todo mundo CON CD 12 ou caem)
+
+---
+
+### Patamar 3: O Corpo (centro, zona critica)
+
+**Descricao:** O centro da cratera. O corpo do deus jaz exposto: uma massa amorfa de tons cinza, verde e preto, do tamanho de um templo, coberta de olhos fechados que se abrem quando alguem chega perto. O chao e o proprio corpo do deus uma superficie de tecido pulsante que afunda alguns centimetros sob o peso. O ar e irrespiravel: 1 de Corrupcao a cada 10 minutos automatico.
+
+**Role 1d4+2 areas ao explorar:**
+
+| d6 | Area |
+|:--:|:-----|
+| 1 | **Olho aberto:** Um olho do deus (1d6 total na superficie). Encara-lo por 1 turno: responde 1 pergunta (verdade absoluta), mas trava o personagem por 1d4 rodadas depois e ganha 1 de Corrupcao. Se 3+ olhos abertos na mesma cena, algo acorda. |
+| 2 | **Fenda pulmonar:** Abertura na carne que se expande e contrai. Quando expande, jorra ar quente e umido. Dentro: 1d4 Reliquias da Podridao incrustadas na carne. Remover 1: FOR CD 14, 1 de Corrupcao automatico. |
+| 3 | **Membrana:** Parede fina de tecido translucido. Do outro lado, veem-se formas vagas moveis. Romper (FOR CD 10): revela uma camara com 1d4 criaturas LV 3 em estado de hibernacao. Acordam em 1d4 turnos. |
+| 4 | **Poco do pulso:** Depressao onde o tecido pulsa mais forte. Ficar aqui por 1 turno: ganha visao de 1 verdade sobre o deus, mas perde 1d4 PV (dano psiquico) e ganha 1 de Corrupcao. |
+| 5 | **Valvula de osso:** Estrutura ossea que se abre e fecha ritmicamente. Alem dela: uma camara com 1 Reliquia da Chama e 1d4 esqueletos de emissarios que tentaram chegar ao centro. |
+| 6 | **Nucleo:** O ponto onde o deus tocou o chao. Uma fenda de luz cinza que nao ilumina nada. Ficar aqui: o personagem pode fazer 1 pedido ao deus (role no Oraculo de Custo para saber o preco). |
+
+**Encontros (1d6):** 1. Criatura de carne (LV 4) 2. Olho desperto (ataca com raio psiquico) 3. O pulso acelera (toda criatura na area: CON CD 14 ou 1d4 dano) 4. Visao forcada (2 de Corrupcao, revela segredo grande) 5. Nada 6. O deus fala (1 pergunta respondida diretamente, mas 1d4 de Corrupcao)
+
+**Regra especial — Ar na cratera:** Sem protecao (mascara, filtro, magia), o personagem ganha 1 de Corrupcao a cada 10 minutos no Patamar 3. No Patamar 2, a cada 30 minutos. No Patamar 1, a cada 1 hora.
+
+**Tesouro maximo estimado:** 2d6 × 10 PO em fragmentos de osso + 1d4 Reliquias da Podridao + 1 Reliquia da Chama (se chegar ao nucleo).
 
 **Conexoes:** Colina Pulsante (6h), Caverna do Sussurro (4h), Monolito (1 dia)
