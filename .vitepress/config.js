@@ -6,6 +6,13 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
 
+  ignoreDeadLinks: [
+    /_templates/,
+    /progressao-e-xp/,
+    /encontros-aleatorios/,
+    /tesouros-e-reliquias/,
+  ],
+
   srcExclude: [
     '_templates.md',
     'AGENTS.md',
@@ -80,6 +87,16 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Druida', link: '/classes/druida' },
+        ],
+      },
+      {
+        text: 'Missões',
+        collapsed: true,
+        items: [
+          { text: 'Todas as Missões', link: '/missoes/' },
+          { text: 'Luz na Torre do Cemitério', link: '/missoes/luz-na-torre-do-cemiterio' },
+          { text: 'Caça na Selva Pomar', link: '/missoes/caca-na-selva-pomar' },
+          { text: 'Escolta da Bruxa', link: '/missoes/escolta-da-bruxa' },
         ],
       },
       {
