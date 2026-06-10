@@ -166,4 +166,4 @@ Marcar itens usados no inventário. Se quebrar ou consumir, risque.
 
 ---
 
-*Use com: [Oráculo Sim/Não](o-oraculo), [Oráculo de Ação+Tema](o-oraculo)*
+*Use com: [Oráculo Sim/Não](o-oraculo)*

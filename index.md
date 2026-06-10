@@ -43,9 +43,7 @@ Cada sessão é uma **incursão**: sai do mosteiro, explora uma área, enfrenta 
 
 - [Regras Base](regras-base.md)
 - [Corrupção](mecanicas/corrupcao.md)
-- [Progressão e XP](mecanicas/progressao-e-xp.md)
 - [Reputação e Facções](mecanicas/reputacao-e-faccoes.md)
-- [Encontros Aleatórios](mecanicas/encontros-aleatorios.md)
 - [Descrevendo a Sala](masmorras/descrevendo-a-sala.md)
 - [Mapa do Local (Método dos Dados)](masmorras/mapa-do-local-metodo-dos-dados.md)
 

@@ -41,7 +41,7 @@
 | 2 | Encontro aleatório |
 | 3 | Condição piora (zona sobe 1 nível) |
 | 4 | Trilha perdida — SAB CD 12 ou chega em local diferente |
-| 5 | Indício — role Ação+Tema |
+| 5 | **Indício** — pista sobre o que te espera |
 | 6 | Escolha — atalho perigoso ou caminho seguro+longo |
 
 ---

@@ -27,6 +27,7 @@
 | Cervo corrompido | Tenue | 11 | 1d6 | +3 | 1d6 |
 | Lobo musgoso (sobrevivente) | Podre | 12 | 1d4 | +2 | 1d4 |
 | Cogumelo ambulante (perdido) | Coracao | 10 | 1d4 | +1 | 1d2 |
+| Esquilo-cadáver (bando 1d4) | Tenue | 11 | 1d4 | +2 | 1 (mordiscada) |
 
 ### LV 2
 
@@ -53,6 +54,7 @@
 | Criatura enraizada | Podre | 13 | 3d6 | +5 | 1d8 |
 | Carnical verde (bando) | Podre | 12 | 3d6 | +4 | 1d6 |
 | Devoto antigo | Podre | 13 | 3d6 | +5 | 1d6 |
+| Urso-cavaleiro | Tocada | 14 | 3d6 | +5 | 1d8 (fusão) |
 | Parasita do Deus | Podre | 14 | 3d6 | +5 | 1d8 |
 | Criatura enraizada (restos aventureiro) | Coracao | 13 | 3d6 | +5 | 1d8 |
 
@@ -110,6 +112,8 @@
 | Cervo corrompido | 1 | Tenue |
 | Cao da Podridao | 2 | Tocada |
 | Corvo gigante corrompido | 2 | Tocada |
+| Esquilo-cadáver (bando 1d4) | 1 | Tenue |
+
 | Lobo musgoso alfa | 2 | Tocada |
 | Lobo musgoso (sobrevivente) | 1 | Podre |
 | Larva do Deus | 5 | Coracao |
@@ -119,6 +123,7 @@
 | Criatura | LV | Zona |
 |:---------|:--:|:----:|
 | Cogumelo ambulante | 1 | Tenue |
+| Urso-cavaleiro | 3 | Tocada |
 | Fungo pai | 3 | Tocada |
 | Horda de esporos | 4 | Coracao |
 | Cogumelo ambulante (perdido) | 1 | Coracao |

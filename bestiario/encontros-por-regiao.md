@@ -131,3 +131,45 @@ Role **Distância (1d6)** e **Atividade (1d6)** depois de determinar a criatura.
 ---
 
 > *Distância e atividade definem a situação inicial do encontro.*
+
+---
+
+## Criaturas de Locais Específicos
+
+> Criaturas que só aparecem em locais determinados, não nas tabelas de zona genérica.
+
+### Urso-cavaleiro
+
+*LV 3 — Aberração fúngica*
+
+**CA:** 14 **PV:** 3d6 **ATK:** +5 (1d8 pancada ou 1d6 fusão)
+
+**Mov:** 9m
+
+**Descrição:** Um urso comum que serviu de hospedeiro para um fungo parasita. O fungo cresceu para fora do corpo, moldando parte da carne em formas humanoides. Um dos braços do urso foi substituído por um **braço humano fundido com fragmentos de armadura** — o braço de um cavaleiro que o fungo consumiu. A criatura se move como urso, mas o braço de armadura age por reflexo, bloqueando e atacando como um combatente treinado.
+
+**Ações/Perigos:**
+- **Pancada (corpo a corpo):** +5, 1d8 dano.
+- **Braço fundido (corpo a corpo):** +5, 1d6 dano. Se acertar, o alvo fica preso (FOR CD 12 pra soltar) e recebe 1d4 automático por rodada.
+- **Fúria:** Quando reduzido à metade dos PV, ataca 2x por rodada (1 pancada + 1 braço), mas CA cai para 12.
+
+**Tesouro:** A armadura fundida ao braço pode ser extraída (INT CD 14, 1 turno). Um fragmento de cota de malha (vale 2d6 PO pros Mercadores do Norte como curiosidade). Nada mais — o urso não come objetos.
+
+---
+
+### Esquilos-cadáver (bando 1d4)
+
+*LV 1 — Animal corrompido (necrófago)*
+
+**CA:** 11 **PV:** 1d4 **ATK:** +2 (1 mordiscada)
+
+**Mov:** 12m (escalada)
+
+**Descrição:** Esquilos comuns que morreram e foram reanimados por esporos. A pele é cinza e ressecada, os olhos são brancos, e a barriga muitas vezes está aberta com musgo crescendo pra fora. Movem-se em silêncio pelas copas das árvores. Não servem como alimento — a carne é podre e tóxica (CON CD 10 ou 1d4 dano se comer).
+
+**Ações/Perigos:**
+- **Mordiscada:** +2, 1 de dano. Inofensiva em combate — o perigo é outro.
+- **Furtivo:** +6 em Furtividade. Só são notados (SAB CD 15) quando já estão perto.
+- **Cleptomania necrótica:** Esquilos-cadáver roubam itens pequenos e brilhantes (moedas, chaves, anéis, frascos, ampolas) sempre que o grupo está distraído — combate, descanso, montagem de armadilha. Role 2:6 sempre que uma **ação concentrada** acontecer na Selva-pomar. Se der match, 1 esquilo tenta roubar 1 item do inventário de quem está mais afastado. Teste de SAB CD 15 para notar antes do item sumir. Se o grupo não perceber, o item some na copa.
+
+**Tesouro:** Cada esquilo carrega 1d4 itens roubados no estômago (moedas, bugigangas). Abrir um esquilo morto: 1 turno, 1d4 PO + 1 item aleatório pequeno (anel, chave, broche).

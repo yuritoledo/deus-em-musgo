@@ -66,8 +66,6 @@ export default defineConfig({
         text: 'Mecânicas',
         collapsed: true,
         items: [
-          { text: 'Encontros Aleatórios', link: '/mecanicas/encontros-aleatorios' },
-          { text: 'Progressão & XP', link: '/mecanicas/progressao-e-xp' },
           { text: 'Reputação & Facções', link: '/mecanicas/reputacao-e-faccoes' },
           { text: '🧫 Corrupção', link: '/mecanicas/corrupcao' },
         ],

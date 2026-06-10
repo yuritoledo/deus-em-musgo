@@ -25,14 +25,14 @@ Cada sessão = uma volta completa. Algumas voltas são curtas (missão perto, vo
 Role ou escolha um motivo pra sair do mosteiro:
 
 **1d6:**
-| d6 | Gancho |
-|:--:|:--------|
+| d6  | Gancho |
+|:---:|:--------|
 | 1–2 | **Rumor** — algo que ouviu ([Rumores](oraculo-solo/gerador-de-missao.md)) |
 | 3–4 | **Missão** — uma facção ou NPC pediu ajuda (mesmo arquivo, Ganchos de Missão) |
-| 5 | **Facção** — alguém da sua própria facção tem uma tarefa (Ganchos de Facção) |
-| 6 | **Combine** — role duas vezes, junta os resultados |
+| 5   | **Facção** — alguém da sua própria facção tem uma tarefa (Ganchos de Facção) |
+| 6   | **Combine** — role duas vezes, junta os resultados |
 
-Se não tiver gancho claro, role **[Evento Inesperado](oraculo-solo/o-oraculo#4-evento-inesperado)** e improvise a partir daí.
+Se não tiver gancho claro, role **[Evento Inesperado](oraculo-solo/o-oraculo#2-evento-inesperado)** e improvise a partir daí.
 
 ---
 
@@ -73,7 +73,7 @@ Role **1d6 pra cada obstáculo** que a distância pedir:
 | 2 | **Encontro aleatório** — role [tabela](mecanicas/encontros-aleatorios.md) |
 | 3 | **Condição piora** — zona sobe 1 nível |
 | 4 | **Trilha perdida** — SAB CD 12 ou chega em local diferente |
-| 5 | **Indício** — pista sobre o que te espera (role [Ação+Tema](oraculo-solo/o-oraculo#2-oráculo-de-ação--tema)) |
+| 5 | **Indício** — pista sobre o que te espera |
 | 6 | **Escolha** — atalho perigoso ou caminho seguro mas longo |
 
 ---
@@ -83,16 +83,16 @@ Role **1d6 pra cada obstáculo** que a distância pedir:
 1. **Gere o local:** use o [Gerador de Masmorras](masmorras/gerador-de-masmorras.md) ou [Mapa por Dados](masmorras/mapa-do-local-metodo-dos-dados)
 2. **Descreva cada sala** com [Descrevendo a Sala](masmorras/descrevendo-a-sala.md)
 3. **Role encontro** a cada sala ou corredor relevante ([tabela](mecanicas/encontros-aleatorios.md))
-4. **Role [Evento Inesperado](oraculo-solo/o-oraculo#4-evento-inesperado)** no início de cada cena nova
+4. **Role [Evento Inesperado](oraculo-solo/o-oraculo#2-evento-inesperado)** no início de cada cena nova
 
 ### Quando encontrar algo ou alguém
 
 | Situação | O que fazer |
 |:---------|:------------|
 | Pergunta sim/não | [Oráculo Sim/Não](oraculo-solo/o-oraculo#1-oráculo-simnão) (ajuste pela certeza) |
-| Pergunta aberta (quem/onde/como/por quê) | [Oráculo de Foco](oraculo-solo/o-oraculo#3-oráculo-de-foco-perguntas-abertas) |
-| "O que acontece agora?" | [Ação + Tema](oraculo-solo/o-oraculo#2-oráculo-de-ação--tema) |
-| Reação de NPC | [Tabela de Reação](oraculo-solo/o-oraculo#5-reações--encontros) + modificador de reputação |
+| Pergunta aberta (quem/onde/como/por quê) | Improvise a partir do contexto |
+| "O que acontece agora?" | Improvise a partir do contexto |
+| Reação de NPC | [Tabela de Reação](oraculo-solo/o-oraculo#3-reações--encontros) + modificador de reputação |
 | Desafio físico/social | [Resolução de Desafios](oraculo-solo/resolucao-de-desafios) |
 | Quer agir com cautela/bonus | Gaste um **Token de Sorte** (re-role 1 d20) |
 
@@ -112,7 +112,7 @@ Role **1d6 pra cada obstáculo** que a distância pedir:
 | Cura | Descanso longo (seguro) recupera 1d3+CON. Descanso em abrigo recupera tudo. |
 | Crítico | 20 natural = dano máximo |
 
-**NPCs** reagem conforme [Reação](oraculo-solo/o-oraculo#5-reações--encontros) antes do combate. Nem todo encontro é briga.
+**NPCs** reagem conforme [Reação](oraculo-solo/o-oraculo#3-reações--encontros) antes do combate. Nem todo encontro é briga.
 
 ### Resolução sem combate
 
@@ -150,7 +150,7 @@ Se falhou ou abandonou: role **consequência** — a facção envolvida perde 1 
 5. **Reputação** — ajuste conforme o que aconteceu na sessão ([5.3](mecanicas/reputacao-e-faccoes.md))
 6. **Corrupção** — se tem pontos de Corrupção, role os efeitos do tier atual ([mecanica completa](mecanicas/corrupcao.md))
 
-### A cada 3 sessões, role [Thread Narrativa](oraculo-solo/o-oraculo#6-threads-de-narrativa):
+### A cada 3 sessões, role [Thread Narrativa](oraculo-solo/o-oraculo#4-threads-de-narrativa):
 
 O mundo se move enquanto você descansa. Facções agem, o deus se manifesta, segredos emergem.
 

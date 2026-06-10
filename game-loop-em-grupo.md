@@ -38,7 +38,7 @@ Deixe anotado em 1-2 linhas cada. Leve pra mesa.
 
 ### 2. Thread de Narrativa
 
-Se faz **3 sessões** desde a última thread (ou se uma facção agiu), role a [Thread de Narrativa](oraculo-solo/o-oraculo#6-threads-de-narrativa).
+Se faz **3 sessões** desde a última thread (ou se uma facção agiu), role a [Thread de Narrativa](oraculo-solo/o-oraculo#4-threads-de-narrativa).
 
 Isso move o mundo **entre sessões**. O grupo chega e descobre o que mudou.
 
@@ -60,7 +60,7 @@ Isso move o mundo **entre sessões**. O grupo chega e descobre o que mudou.
 
 - Mostre 2-3 opções (rumor, missão, facção)
 - Grupo discute e escolhe **UM**
-- Se não tiverem gancho, role [Evento Inesperado](oraculo-solo/o-oraculo#4-evento-inesperado) e improvise a partir daí
+- Se não tiverem gancho, role [Evento Inesperado](oraculo-solo/o-oraculo#2-evento-inesperado) e improvise a partir daí
 
 > **Opção West Marches:** os jogadores decidem o destino **entre sessões** (WhatsApp, grupo de msg). Chegam na mesa já sabendo onde vão. Isso libera tempo de jogo.
 
@@ -86,12 +86,12 @@ Role 1d12 no tema do local ou escolha do [mapa conhecido](locais-e-regioes/mapa-
 
 ### Distância (1d4)
 
-| d4 | Distância | Obstáculos |
-|:--:|:----------|:----------:|
-| 1 | **Perto** — horas | 0 |
-| 2 | **Médio** — meio dia | 1 |
-| 3 | **Longe** — 1 dia | 2 |
-| 4 | **Distante** — 2+ dias | 3 |
+| d10 | Distância              | Obstáculos |
+| :-: | :--------------------- | :--------: |
+| 1-4 | **Perto** — horas      |     0      |
+| 5-7 | **Médio** — meio dia   |     1      |
+| 8-9 | **Longe** — 1 dia      |     2      |
+| 10  | **Distante** — 2+ dias |     3      |
 
 Ao anunciar o destino, **descreva o perigo estimado**. O grupo decide se vai ou se prepara melhor.
 
@@ -107,7 +107,7 @@ Role **1d6 pra cada obstáculo** que a distância pedir:
 | 2 | **Encontro aleatório** | Role [tabela](mecanicas/encontros-aleatorios) |
 | 3 | **Condição piora** | Zona sobe 1 nível — afeta todos |
 | 4 | **Trilha perdida** | **1 personagem** faz SAB CD 12 (guia/scout). Os outros ajudam (vantagem) |
-| 5 | **Indício** | Pista sobre o destino. Role [Ação+Tema](oraculo-solo/o-oraculo) |
+| 5 | **Indício** | Pista sobre o que te espera |
 | 6 | **Escolha** | Grupo decide: atalho perigoso ou caminho seguro mas longo |
 
 > **Em grupo:** pergunte "quem vai na frente?" antes de rolar obstáculo. Isso define quem faz o teste.
@@ -149,7 +149,7 @@ Cada ação significativa = **1 turno** (aproximadamente 10 minutos):
 
 - **Tocha queima 1 turno** a cada 6 turnos (1 hora de luz)
 - Role [Encontro Aleatório](mecanicas/encontros-aleatorios) a cada **3 turnos** (não a cada sala)
-- Role [Evento Inesperado](oraculo-solo/o-oraculo#4-evento-inesperado) no **início de cada cena nova**
+- Role [Evento Inesperado](oraculo-solo/o-oraculo#2-evento-inesperado) no **início de cada cena nova**
 
 ### O Mapa
 

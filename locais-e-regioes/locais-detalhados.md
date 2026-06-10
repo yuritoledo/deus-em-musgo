@@ -302,3 +302,91 @@ A cratera funciona como uma **masmorra de 3 patamares**. Cada patamar tem 1d4+2 
 **Tesouro maximo estimado:** 2d6 × 10 PO em fragmentos de osso + 1d4 Reliquias da Podridao + 1 Reliquia da Chama (se chegar ao nucleo).
 
 **Conexoes:** Colina Pulsante (6h), Caverna do Sussurro (4h), Monolito (1 dia)
+
+---
+
+## 13. Capela da Purificação
+
+**Região:** Zona Tênue / beira da Tocada
+**Perigo:** Inseguro (o perigo não são monstros — é o que vai acontecer ali)
+
+**Descrição:** Uma capela de pedra cinza encravada numa clareira baixa, a meia hora a pé do Mosteiro. Não tem porta — só um vão escuro em arco. O telhado deu lugar a um buraco aberto, por onde a fumaça escapa e a luz da lua entra direto no centro da nave. Lá dentro, o chão é terra batida misturada com cinzas. As paredes foram esfregadas com elas durante décadas — a pedra tem um brilho gorduroso, cinza-escuro, que reflete a luz estranho.
+
+No centro, uma **pira de ferro** de 1,5m de diâmetro. Base de tijolos refratários, corrente no topo para prender o condenado em pé. As correntes novas brilham; as antigas são pretas de fuligem.
+
+Nas paredes, frases foram arranhadas com pregos. A maioria é reza. Algumas são nomes. Uma ou duas são xingamentos tão profundos que dá pra sentir a raiva.
+
+O som do local é o que mais pesa: silêncio absoluto de dia, mas com vento no buraco do telhado produzindo um fio de som que parece choro. Quem tem percepção aguçada (SAB CD 12) percebe que não é o vento — é a pedra. A capela guarda ecos de tudo que aconteceu aqui.
+
+### Chegando
+
+Uma trilha de terra parte do Mosteiro e serpenteia até a clareira. O chão é marcado por pegadas recentes de botas e cascos — esse caminho é usado com frequência. Conforme se aproxima, o cheiro de cinza fria e óleo bento queimado substitui o odor da floresta.
+
+A uns 50m da capela, uma fogueira apagada com 3 toras queimadas marca o ponto onde os guardas esperam durante as execuções. Não há estrutura — eles ficam em pé mesmo.
+
+### Pontos de Interesse
+
+- **Pira de ferro:** A corrente range ao menor toque. O ferreiro que a fez sabia o que estava fazendo — não arrebenta com FOR normal (CD 16). Manusear a corrente sem luva: a fuligem gruda na pele, não sai com água, só com óleo bento.
+- **Parede norte (os nomes):** Onde os condenados arranham antes do fim. Passar a mão e ler os nomes em voz alta: o eco distorce a voz, como se outra pessoa respondesse de dentro da parede.
+- **Sacristia (atrás do altar improvisado):** Um cômodo pequeno onde o clérigo se prepara. Dentro: uma bacia de água benta, um turíbulo de incenso, 1d4 frascos de óleo bento, e um **diário do carrasco** — anotações sobre cada execução: nome, "crime" e se "houve contrição". O último nome está em branco, com a data de amanhã.
+- **Cisterna externa (lateral direita):** Água parada com gosto de cinza. Beber: CON CD 10 ou 1d4 dano de vômito. Não serve pra nada, mas dá pra lavar mãos e ferramentas.
+
+### Perigos
+
+- A capela em si não tem perigo bestial. O perigo é **social**: noviço e guardas da Chama estão ali pra garantir que a execução ocorra. Se o grupo hesitar ou tentar libertar a condenada, os guardas viram inimigos.
+- Se a pira for acesa e depois apagada antes do fim (chuva, intervenção), as cinzas no ar ativam os ecos: toda criatura na capela ouve os gritos dos executados anteriores — CON CD 12 ou atordoada por 1 rodada.
+
+### Clima Especial (Missão — Escoltar Bruxa)
+
+A execução está marcada para o **pôr do sol**. Até lá, o grupo precisa manter a mulher viva e presente:
+
+**Eventos na Capela (role conforme a tabela da missão):**
+- Seguidores da Nieda (incomuns da região, investigando a energia) podem aparecer.
+- Ferreiro e filho podem chegar furiosos de noite (não pra salvar — pra matar o grupo que trouxe a esposa/mãe).
+- Guarda fanático (na verdade um Devoto do Verde infiltrado) pode tentar matar a condenada antes da pira para "evitar o sofrimento" ou por seus próprios motivos.
+
+### Conexões
+
+**Mosteiro** (30 min a pé) — trilha direta, sem obstáculos
+**Antiga Estalagem** (2h pela trilha + floresta)
+**Mata dos Sonhos** (4h)
+
+---
+
+## 14. Selva-pomar dos Itens Perdidos
+
+**Região:** Zona Tocada (fronteira com a Tênue)
+**Perigo:** Arriscado
+
+**Descrição:** Uma depressão natural na floresta onde as árvores crescem em círculos concêntricos em volta de uma clareira central. O chão é fofo, coberto de folhas secas e frutos caídos em vários estágios de podridão. O ar tem cheiro adocicado de fermentação — fruta passada, seiva doce, algo que apodreceu mas não cheira a morte.
+
+O nome vem dos **pés de fruto** que pontuam a selva: algumas árvores dão frutos comuns (maçãs azedas, figos duros, bagas azuis), outras dão **itens** — pequenos objetos embrulhados em casca, pendurados nos galhos como se fossem frutos. Uma bolsa de couro amadurecendo num galho. Uma chave de bronze crescendo envolta em cipó. Ninguém sabe explicar como funciona. Os Devotos do Verde têm teorias. Os Seguidores da Nieda não comentam.
+
+No centro, dominando a clareira, a **Kaktuia** — uma árvore gigante de tronco grosso e cinzento como pele de elefante, com folhas largas e roxas que farfalham mesmo sem vento. À noite, histórias aparecem escritas na casca do tronco — contos que ninguém escreveu, sobre lugares que ninguém visitou. De manhã, sumiram.
+
+O solo da Selva-pomar é sorrateiro: raízes baixas, buracos cobertos de folhas, formigueiros do tamanho de um punho.
+
+### Chegando
+
+A trilha some conforme a selva se adensa. O guia precisa de SAB CD 12 para não se perder na última hora de caminho. Quem acerta percebe o cheiro doce antes de ver as árvores. Quem erra gasta 1d4 horas a mais e chega com a direção trocada (entra pelo lado oposto da clareira).
+
+A primeira fileira de árvores tem marcas de faca nos troncos — caçadores anteriores demarcaram território. Algumas marcas são velhas; outras, recentes (dias).
+
+### Pontos de Interesse
+
+- **Kaktuia:** A árvore central. Tocar a casca: sensação de calor, como se a árvore estivesse viva. Ler o conto noturno exige luz — tocha ou musgo luminescente. Os contos são sempre sobre algo que **se perdeu** na região. Podem conter pistas (role 1d6: 1-3 = conto verdadeiro com pista, 4-5 = conto fantasioso, 6 = conto sobre um item perdido que ainda está na selva).
+- **Pés de fruto com itens:** 1d4 árvores na selva carregam um item no lugar de frutos. Para colher: FOR CD 10 (o cabinho é duro) ou INT CD 12 (saber qual fruto está maduro — item cai sozinho se for a hora certa). Itens possíveis: chave enferrujada, bolsa com 1d6 PE, vara de pescar desmontada, um dente grande (presunto de javali?), mapa parcial de outra região, cantil de metal amassado.
+- **Poco de caça abandonado:** Um buraco de 2m coberto por galhos e folhas — armadilha de caçador anterior. Quem pisa cai (DES CD 10 pra evitar, 1d4 dano de queda). Dentro: 1 esqueleto de javali e 2d6 PO que o caçador perdeu.
+- **Clareira dos estertores:** Uma área onde o chão estala e chia quando pisado — insetos sob as folhas. Barulhenta, impossível ser furtivo aqui. Ótimo lugar para montar armadilhas (os esquilos-cadáver vêm ver o barulho).
+
+### Perigos
+
+- **Terreno irregular:** Raízes e buracos cobertos. DES CD 10 ao correr ou cair (1d4).
+- **Armadilha de caçador:** O poco abandonado (ver acima).
+- **Cheiro doce atrai coisas:** Role 1 encontro aleatório a cada 2 turnos na área (Tocada).
+
+### Conexões
+
+**Mosteiro** (1 dia) — trajeto sem obstáculos conhecidos
+**Trilha do Leão** (4h desviando pela floresta) — sem trilha direta, precisa de guia
+**Antiga Estalagem** (3h) — caminho mais seguro
