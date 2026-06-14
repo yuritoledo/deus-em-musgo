@@ -25,6 +25,7 @@ Cada sessão é uma **incursão**: sai do mosteiro, explora uma área, enfrenta 
 ### Explorar
 
 - [Mapa da Região](locais-e-regioes/mapa-da-regiao.md)
+- [Panteão](panteao.md)
 - [Facções](faccoes/faccoes.md)
 - [Classe Druida](classes/druida.md)
 - [Locais Detalhados](locais-e-regioes/locais-detalhados.md)

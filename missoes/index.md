@@ -12,3 +12,9 @@ Missões prontas pra usar na sua campanha. Cada uma inclui situação inicial, g
 | [Caça na Selva Pomar](/missoes/caca-na-selva-pomar) | Caçar uma fera que está atacando as caravanas na Selva Pomar |
 | [Escolta da Bruxa](/missoes/escolta-da-bruxa) | Escoltar uma bruxa da Cabana até o coração do Pântano da Névoa |
 | [Reconhecimento de Terreno](/missoes/reconhecimento-de-terreno) | Missão aberta de exploração e mapeamento com progresso por dados |
+| [Altar de Muten](/missoes/altar-de-muten) | Clareira onde o musgo para. Uma pedra quente. Uma decisão entre facções |
+| [Placa do Intruso](/missoes/placa-do-intruso) | Fragmento de pedra com inscrições — o nome verdadeiro do intruso? Disputa de lances |
+| [Sorriso de Valia](/missoes/sorriso-de-valia) | Aventureiro com sorte absurda. Devotos querem estudar, Chama quer purificar |
+| [Chama Azul](/missoes/chama-azul) | Tochas queimando azul. Investigação noturna na ala dos Devotos |
+| [Capuz Vazio](/missoes/capuz-vazio) | Capuz Vermelho catatônico repetindo uma palavra. O que ele ouviu? |
+| [Raízes Gêmeas](/missoes/raizes-gemeas) | Duas árvores crescendo uma pra outra. Seiva pensante no ponto de contato |
