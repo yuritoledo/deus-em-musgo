@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vitepress dev . --port 3000",
-    "build": "vitepress build .",
+    "build": "vitepress build . && rm -rf node_modules",
     "preview": "vitepress preview . --port 3000"
   },
   "devDependencies": {
