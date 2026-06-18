@@ -72,6 +72,20 @@ A Corrupção nunca reduz abaixo de 0.
 
 ---
 
+## Corrupção e Reputação
+
+A corrupção não passa despercebida. Quanto mais marcado pelo deus, mais as facções reagem a você.
+
+| Corrupção | Mosteiro da Chama Perpétua | Seguidores da Nieda |
+|:---------:|:--------------------------:|:-------------------:|
+| 3 | -1 | +1 |
+| 6 | -2 | +2 |
+| 9 | -3 | +3 |
+
+Os efeitos são cumulativos e **reversíveis**: se a Corrupção cair, a reputação volta ao normal proporcionalmente.
+
+---
+
 ## Registro
 
 | Personagem | Corrupção | Efeitos Ativos |
@@ -80,4 +94,4 @@ A Corrupção nunca reduz abaixo de 0.
 
 ---
 
-*Use com: [Tesouros & Relíquias](oraculo-solo/tesouros-e-reliquias), [Encontros por Região](../bestiario/encontros-por-regiao.md)*
+*Use com: [Tesouros & Relíquias](../oraculo-solo/o-oraculo.md#7-tesouros--relíquias), [Encontros por Região](../bestiario/encontros-por-regiao.md)*

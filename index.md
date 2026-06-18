@@ -24,11 +24,11 @@ Cada sessão é uma **incursão**: sai do mosteiro, explora uma área, enfrenta 
 
 ### Explorar
 
-- [Mapa da Região](locais-e-regioes/mapa-da-regiao.md)
-- [Panteão](panteao.md)
-- [Facções](faccoes/faccoes.md)
+- [Mapa da Região](locais-e-regioes/locais-detalhados.md#mapa-regiao)
+:- [Panteão](locais-e-regioes/panteao.md)
+:- [Facções](locais-e-regioes/faccoes.md)
 - [Classe Druida](classes/druida.md)
-- [Locais Detalhados](locais-e-regioes/locais-detalhados.md)
+- [Locais Detalhados](locais-e-regioes/locais-detalhados.md) (inclui Capela da Purificação e Selva-pomar dos Itens Perdidos)
 
 ### Jogar
 
@@ -37,12 +37,11 @@ Cada sessão é uma **incursão**: sai do mosteiro, explora uma área, enfrenta 
 - [Gerador de Masmorras](masmorras/gerador-de-masmorras.md)
 - [Encontros por Região](bestiario/encontros-por-regiao.md)
 - [Indice de Criaturas](bestiario/indice-de-criaturas.md)
-- [Resolução de Desafios](oraculo-solo/resolucao-de-desafios.md)
-- [Tesouros e Relíquias](oraculo-solo/tesouros-e-reliquias.md)
+:- [Tesouros e Relíquias](oraculo-solo/o-oraculo.md#7-tesouros--relíquias)
 
 ### Regras
 
-- [Regras Base](regras-base.md)
+- Regras Base
 - [Corrupção](mecanicas/corrupcao.md)
 - [Reputação e Facções](mecanicas/reputacao-e-faccoes.md)
 - [Descrevendo a Sala](masmorras/descrevendo-a-sala.md)
@@ -50,9 +49,8 @@ Cada sessão é uma **incursão**: sai do mosteiro, explora uma área, enfrenta 
 
 ### Guia
 
-- [Cheat Sheet](cheat-sheet.md)
-- [Game Loop Solo](game-loop.md)
-- [Game Loop em Grupo](game-loop-em-grupo.md)
+:- [Game Loop Solo](mecanicas/game-loop.md)
+:- [Game Loop em Grupo](mecanicas/game-loop-em-grupo.md)
 - [Templates de Criacao](_templates.md)
 
 ---

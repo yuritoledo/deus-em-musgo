@@ -200,7 +200,7 @@ Role **1d6** para um rumor ouvido no mosteiro antes de sair. Se repetir, role no
 | 5  | "O Prior da Chama sonhou com uma voz na próxima lua cheia. Disse que o deus *está chamando*. Não deu detalhes." |
 | 6  | "Um enviado anterior foi dado como morto. Voltou três dias depois coberto de brotos verdes. Não falava. Só sorria." |
 
-### Ganchos de Missão (role 1d6 para uma tarefa específica)
+### Ganchos de Missão (role 1d6 para uma tarefa específica) {#ganchos-missao}
 
 | d6 | Missão |
 |:--:|:-------|
@@ -211,7 +211,7 @@ Role **1d6** para um rumor ouvido no mosteiro antes de sair. Se repetir, role no
 | 5  | Limpar ninho de criatura que está avançando em direção ao mosteiro |
 | 6  | Levar mensagem dos Devotos até um contato dentro da floresta |
 
-### Ganchos de Facção (para usar quando os lados pedirem algo)
+### Ganchos de Facção (para usar quando os lados pedirem algo) {#ganchos-faccao}
 
 Role **1d4** + escolha a facção:
 

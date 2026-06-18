@@ -28,7 +28,7 @@ Antes de cada sessão, reserve 10-15 min pra preparar:
 
 ### 1. Ganchos (role 2-3)
 
-Role na [tabela de Ganchos](oraculo-solo/gerador-de-missao.md) e anote resumidamente:
+Role na [tabela de Ganchos](../oraculo-solo/gerador-de-missao.md) e anote resumidamente:
 
 - **Rumor** — algo que ouviram no mosteiro
 - **Missão** — pedido de facção ou NPC
@@ -38,13 +38,13 @@ Deixe anotado em 1-2 linhas cada. Leve pra mesa.
 
 ### 2. Thread de Narrativa
 
-Se faz **3 sessões** desde a última thread (ou se uma facção agiu), role a [Thread de Narrativa](oraculo-solo/o-oraculo#4-threads-de-narrativa).
+Se faz **3 sessões** desde a última thread (ou se uma facção agiu), role a [Thread de Narrativa](../oraculo-solo/o-oraculo.md#4-threads-de-narrativa).
 
 Isso move o mundo **entre sessões**. O grupo chega e descobre o que mudou.
 
 ### 3. O que NÃO preparar
 
-- **Não role a dungeon inteira.** Use o [Gerador de Masmorras](masmorras/gerador-de-masmorras.md) sala a sala na mesa.
+- **Não role a dungeon inteira.** Use o [Gerador de Masmorras](../masmorras/gerador-de-masmorras.md) sala a sala na mesa.
 - **Não defina o resultado de negociações.** Deixe os dados decidirem.
 - **Não planeje "enredo".** Só situação, facção e gancho. O grupo define o resto.
 
@@ -60,7 +60,7 @@ Isso move o mundo **entre sessões**. O grupo chega e descobre o que mudou.
 
 - Mostre 2-3 opções (rumor, missão, facção)
 - Grupo discute e escolhe **UM**
-- Se não tiverem gancho, role [Evento Inesperado](oraculo-solo/o-oraculo#2-evento-inesperado) e improvise a partir daí
+- Se não tiverem gancho, role [Evento Inesperado](../oraculo-solo/o-oraculo.md#2-evento-inesperado) e improvise a partir daí
 
 > **Opção West Marches:** os jogadores decidem o destino **entre sessões** (WhatsApp, grupo de msg). Chegam na mesa já sabendo onde vão. Isso libera tempo de jogo.
 
@@ -78,15 +78,15 @@ Role normalmente. As tabelas funcionam pra grupo igual.
 | 2 | **Tênue** — perto do mosteiro | Inseguro | Perto–Médio |
 | 3–4 | **Tocada** — 1-3 dias de viagem | Arriscado | Médio–Longe |
 | 5 | **Podre** — 3+ dias | Mortal | Longe–Distante |
-| 6 | **Masmorra** — role [tema](masmorras/gerador-de-masmorras.md) | varia | — |
+| 6 | **Masmorra** — role [tema](../masmorras/gerador-de-masmorras.md) | varia | — |
 
 ### Local específico (1d12)
 
-Role 1d12 no tema do local ou escolha do [mapa conhecido](locais-e-regioes/mapa-da-regiao).
+Role 1d12 no tema do local ou escolha do [mapa conhecido](../locais-e-regioes/locais-detalhados.md#mapa-regiao).
 
 ### Distância (1d4)
 
-| d10 | Distância              | Obstáculos |
+| d10 | Distância              | Viagens  |
 | :-: | :--------------------- | :--------: |
 | 1-4 | **Perto** — horas      |     0      |
 | 5-7 | **Médio** — meio dia   |     1      |
@@ -99,18 +99,18 @@ Ao anunciar o destino, **descreva o perigo estimado**. O grupo decide se vai ou 
 
 ## 3. Viagem — O caminho
 
-Role **1d6 pra cada obstáculo** que a distância pedir:
+Role **1d6 na tabela de Viagem** para cada ponto de distância:
 
-| d6 | Obstáculo | Quem resolve |
+| d6 | Viagem | Quem resolve |
 |:--:|:----------|:-------------|
 | 1 | **Terreno difícil** | Grupo todo. Quem tem maior FOR guia |
-| 2 | **Encontro aleatório** | Role [tabela](mecanicas/encontros-aleatorios) |
+| 2 | **Encontro aleatório** | Role tabela |
 | 3 | **Condição piora** | Zona sobe 1 nível — afeta todos |
 | 4 | **Trilha perdida** | **1 personagem** faz SAB CD 12 (guia/scout). Os outros ajudam (vantagem) |
 | 5 | **Indício** | Pista sobre o que te espera |
 | 6 | **Escolha** | Grupo decide: atalho perigoso ou caminho seguro mas longo |
 
-> **Em grupo:** pergunte "quem vai na frente?" antes de rolar obstáculo. Isso define quem faz o teste.
+> **Em grupo:** pergunte "quem vai na frente?" antes de rolar na tabela de Viagem. Isso define quem faz o teste.
 
 ---
 
@@ -148,8 +148,8 @@ Cada ação significativa = **1 turno** (aproximadamente 10 minutos):
 | Procurar passagem secreta | 1 |
 
 - **Tocha queima 1 turno** a cada 6 turnos (1 hora de luz)
-- Role [Encontro Aleatório](mecanicas/encontros-aleatorios) a cada **3 turnos** (não a cada sala)
-- Role [Evento Inesperado](oraculo-solo/o-oraculo#2-evento-inesperado) no **início de cada cena nova**
+- Role Encontro Aleatório a cada **3 turnos** (não a cada sala)
+- Role [Evento Inesperado](../oraculo-solo/o-oraculo.md#2-evento-inesperado) no **início de cada cena nova**
 
 ### O Mapa
 
@@ -195,7 +195,7 @@ Shadowdark padrão. Nada muda:
 
 ### Resolução sem combate
 
-Use a [Resolução de Desafios](oraculo-solo/resolucao-de-desafios):
+Use a Resolução de Desafios:
 
 1. **Situação** → o que está na frente do grupo
 2. **Ação** → o que **cada um** faz
@@ -214,8 +214,8 @@ Quando os inimigos estão com metade ou menos dos PV, ou perderam o líder:
 
 Mesma distância da ida, caminho conhecido.
 
-- Role **metade dos obstáculos** (arredondado pra baixo)
-- Se a missão foi concluída, role **Recompensa** ([Tesouros](oraculo-solo/tesouros-e-reliquias))
+- Role **metade dos testes de viagem** (arredondado pra baixo)
+- Se a missão foi concluída, role **Recompensa** ([Tesouros](../oraculo-solo/o-oraculo.md#7-tesouros--relíquias))
 
 **Se falharam ou abandonaram:** role consequência — a facção envolvida perde 1 passo de progresso ou o deus avança em alguma área.
 
@@ -227,9 +227,9 @@ No mosteiro ou abrigo seguro, **cada personagem**:
 
 1. **Cura total** — recupera todos os PV
 2. **Magias** — prepara nova seleção
-3. **Tesouro → XP** — 1 PO = 1 XP ([tabela](mecanicas/progressao-e-xp))
+3. **Tesouro → XP** — 1 PO = 1 XP (tabela)
 4. **Level up?** — se tiver XP suficiente
-5. **Corrupção** — cada personagem com pontos de Corrupção rola os efeitos do tier atual ([mecanica completa](mecanicas/corrupcao.md))
+5. **Corrupção** — cada personagem com pontos de Corrupção rola os efeitos do tier atual ([mecanica completa](../mecanicas/corrupcao.md))
 
 ### Reputação
 
@@ -238,7 +238,7 @@ Ajuste **por personagem** ou **por grupo** (decida na sessão zero):
 - Por personagem: conflito interno se alguém queimou ponte com facção que o resto precisa
 - Por grupo: mais simples, menos granular
 
-Use a [tabela de reputação](mecanicas/reputacao-e-faccoes):
+Use a [tabela de reputação](../mecanicas/reputacao-e-faccoes.md):
 
 | Situação | Ajuste |
 |:---------|:------:|
@@ -298,19 +298,6 @@ Antes da primeira sessão em grupo, alinhe:
 
 A cada X turnos de exploração, role 1d6. **1** = encontro ocorre.
 
-| Zona | Perigo | Teste |
-|:-----|:------:|:-----:|
-| Tênue | Inseguro | A cada 3 turnos |
-| Tocada | Arriscado | A cada 2 turnos |
-| Podre | Mortal | A cada turno |
-| Coração | Crítico | A cada turno |
-
-Role **Distância (1d6)**, **Atividade (2d6)** e **Reação (2d6 + mod CAR)** nas tabelas do Shadowdark.
-
-### Morale (opcional)
-
-Inimigos com ≤ 50% PV ou sem líder → d20 ≤ 12 = fogem ou se rendem.
-
 ---
 
-> *Veja também: [game-loop Solo](game-loop.md) (versão original) · [Oráculo Completo](oraculo-solo/o-oraculo) · [Masmorras](masmorras/gerador-de-masmorras.md) · [Progressão](mecanicas/progressao-e-xp)*
+> *Veja também: [game-loop Solo](game-loop.md) (versão original) · [Oráculo Completo](../oraculo-solo/o-oraculo.md) · [Masmorras](../masmorras/gerador-de-masmorras.md) · Progressão*

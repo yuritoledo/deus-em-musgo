@@ -2,42 +2,22 @@
 Role **2d6** na zona atual para saber o que aparece. Depois role **Distância** e **Atividade** nas tabelas ao final da página.
 
 > Consulte o [Indice de Criaturas](indice-de-criaturas.md) para busca por nivel e tipo.
-
-A zona não é uma barreira — o 2d6 define a probabilidade. No coração da curva (7) está o mais representativo da zona; nas pontas (2, 12) estão os raros, que podem vir de qualquer lugar.
-
-| 2d6 | Probabilidade |
-|:---:|:-------------|
-| 2 | 1/36 — raro, foge do padrão da zona |
-| 3 | 2/36 |
-| 4 | 3/36 |
-| 5 | 4/36 |
-| 6 | 5/36 |
-| 7 | 6/36 — o tom da zona |
-| 8 | 5/36 |
-| 9 | 4/36 |
-| 10 | 3/36 |
-| 11 | 2/36 |
-| 12 | 1/36 — raro, foge do padrão da zona |
-
----
-
 ## Zona Tênue
-
 *Mais perto do mosteiro. O comum aqui são animais levemente corrompidos, viajantes e coletores. Raramente algo grave — mas acontece.*
 
-| 2d6 | Criatura | LV | CA | HP | ATK | Habilidade |
-|:---:|:---------|:--:|:--:|:--:|:----|:-----------|
-| 2 | **Vulto da Podridão** — uma silhueta alta e fina passa entre as árvores. O musgo chia onde ela pisa. Some antes que você possa atacar. | LV ? | — | — | — | Testemunhar causa 1 de Corrupção (CD 12). Não é combatível — foge ou desaparece. |
-| 3 | **Devoto do Verde (patrulha)** — 1d4 humanos armados com bestas e tochas. Vêm do mosteiro, caçam qualquer sinal de corrupção avançada. Suspeitos de estranhos. | LV 2 | 14 (cota) | 2d6 | Besta +4 (1d8) ou espada +3 (1d6) | Patrulha: um carrega sinalizador — se acender, 1d4 reforços chegam em 1d4 rodadas. |
-| 4 | **Lobo musgoso (matilha 1d4)** — lobos de pelagem verde, placas de musgo no lombo. Caçam juntos, mas fogem se o líder cair. | LV 1 | 12 | 1d6 | Mordida +3 (1d6) | Matilha: +1 de ataque para cada lobo além do primeiro. Fogem se 2+ morrerem. |
-| 5 | **Cogumelo ambulante** — fungo do tamanho de um cão, duas pernas finas, chapéu que pulsa. Deixa rastro de esporos brilhantes. Curioso, não hostil. | LV 1 | 10 | 1d6 | Pancada +2 (1d4) | Morte explosiva: solta nuvem de esporos (CD 10 CON ou 1d4 ácido). |
-| 6 | **Mercador do Norte (ligeiro)** — um comerciante solitário com uma mula carregada. Vende suprimentos básicos, compra peles e curiosidades. Desarmado, mas esperto. | LV 1 | 10 | 1d6 | Faca +1 (1d3) | Comércio: 2d6 PO em mercadorias. Sabe rumores da região (1d4 informações). |
-| 7 | **Javali podre** — javali de olhos brancos, movido por esporos. Não sente dor, não tem medo. Avança em linha reta sem parar. | LV 1 | 11 | 1d6 | Investida +3 (1d8) | Investida: +1d4 dano se moveu 3m+ em linha reta. Ignora dano de medo/intimidação. |
-| 8 | **Raiz viajante** — raiz grossa como um braço que se arrasta pelo chão. Pulsa como veia. Pode estar seguindo algo — ou alguém. | LV 1 | 11 | 1d6 | Chicote +3 (1d6) | Agarra: FOR CD 11 pra soltar. Arrasta 1d6m por rodada. |
-| 9 | **Acampamento de devotos** — 1d4 coletores do mosteiro acampados. Fogueira acesa, amostras secando. Desconfiados, mas negociam. | LV 1 | 11 (couro) | 1d6 | Adaga +2 (1d4) | Trocam informação ou poções de esporo por escolta ou ajuda. |
-| 10 | **Cervo corrompido (bando 1d4)** — cervos de galhada luminescente. Se feridos, fogem e voltam em minutos com o bando inteiro. | LV 1 | 11 | 1d6 | Chifrada +3 (1d6) | Reforço: se ferido, foge e retorna em 1d4 rodadas com 1d4 cervos. |
-| 11 | **Carniçal verde (errante)** — um morto-vivo fúngico que vagueou da Zona Tocada. Solo inseguro, criaturas se deslocam. | LV 2 | 11 | 2d6 | Garra +3 (1d6) | Podridão: CD 12 CON ou infecção (1d4 dano por dia). |
-| 12 | **Carniceiro (ogro perdido)** — um ogro fúngico que se afastou demais da Podre. Confuso, agressivo. Carrega restos de uma caravana. | LV 4 | 14 | 4d6 | Porrete +6 (2d6) | Cogumelos venenosos: CD 12 CON ao atacar corpo a corpo ou 1d4 ácido. |
+| 2d6 | Criatura                                                                                                                                                           |  LV  |     CA     | HP  | ATK                               | Habilidade                                                                         |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--: | :--------: | :-: | :-------------------------------- | :--------------------------------------------------------------------------------- |
+|  2  | **Vulto da Podridão** — uma silhueta alta e fina passa entre as árvores. O musgo chia onde ela pisa. Some antes que você possa atacar.                             | LV ? |     —      |  —  | —                                 | Testemunhar causa 1 de Corrupção (CD 12). Não é combatível — foge ou desaparece.   |
+|  3  | **Devoto do Verde (patrulha)** — 1d4 humanos armados com bestas e tochas. Vêm do mosteiro, caçam qualquer sinal de corrupção avançada. Suspeitos de estranhos.     | LV 2 | 14 (cota)  | 2d6 | Besta +4 (1d8) ou espada +3 (1d6) | Patrulha: um carrega sinalizador — se acender, 1d4 reforços chegam em 1d4 rodadas. |
+|  4  | **Lobo musgoso (matilha 1d4)** — lobos de pelagem verde, placas de musgo no lombo. Caçam juntos, mas fogem se o líder cair.                                        | LV 1 |     12     | 1d6 | Mordida +3 (1d6)                  | Matilha: +1 de ataque para cada lobo além do primeiro. Fogem se 2+ morrerem.       |
+|  5  | **Cogumelo ambulante** — fungo do tamanho de um cão, duas pernas finas, chapéu que pulsa. Deixa rastro de esporos brilhantes. Curioso, não hostil.                 | LV 1 |     10     | 1d6 | Pancada +2 (1d4)                  | Morte explosiva: solta nuvem de esporos (CD 10 CON ou 1d4 ácido).                  |
+|  6  | **Mercador do Norte (ligeiro)** — um comerciante solitário com uma mula carregada. Vende suprimentos básicos, compra peles e curiosidades. Desarmado, mas esperto. | LV 1 |     10     | 1d6 | Faca +1 (1d3)                     | Comércio: 2d6 PO em mercadorias. Sabe rumores da região (1d4 informações).         |
+|  7  | **Javali podre** — javali de olhos brancos, movido por esporos. Não sente dor, não tem medo. Avança em linha reta sem parar.                                       | LV 1 |     11     | 1d6 | Investida +3 (1d8)                | Investida: +1d4 dano se moveu 3m+ em linha reta. Ignora dano de medo/intimidação.  |
+|  8  | **Raiz viajante** — raiz grossa como um braço que se arrasta pelo chão. Pulsa como veia. Pode estar seguindo algo — ou alguém.                                     | LV 1 |     11     | 1d6 | Chicote +3 (1d6)                  | Agarra: FOR CD 11 pra soltar. Arrasta 1d6m por rodada.                             |
+|  9  | **Acampamento de devotos** — 1d4 coletores do mosteiro acampados. Fogueira acesa, amostras secando. Desconfiados, mas negociam.                                    | LV 1 | 11 (couro) | 1d6 | Adaga +2 (1d4)                    | Trocam informação ou poções de esporo por escolta ou ajuda.                        |
+| 10  | **Cervo corrompido (bando 1d4)** — cervos de galhada luminescente. Se feridos, fogem e voltam em minutos com o bando inteiro.                                      | LV 1 |     11     | 1d6 | Chifrada +3 (1d6)                 | Reforço: se ferido, foge e retorna em 1d4 rodadas com 1d4 cervos.                  |
+| 11  | **Carniçal verde (errante)** — um morto-vivo fúngico que vagueou da Zona Tocada. Solo inseguro, criaturas se deslocam.                                             | LV 2 |     11     | 2d6 | Garra +3 (1d6)                    | Podridão: CD 12 CON ou infecção (1d4 dano por dia).                                |
+| 12  | **Carniceiro (ogro perdido)** — um ogro fúngico que se afastou demais da Podre. Confuso, agressivo. Carrega restos de uma caravana.                                | LV 4 |     14     | 4d6 | Porrete +6 (2d6)                  | Cogumelos venenosos: CD 12 CON ao atacar corpo a corpo ou 1d4 ácido.               |
 
 > 💡 Efeitos de Corrupção seguem a [mecânica completa](../mecanicas/corrupcao.md).
 

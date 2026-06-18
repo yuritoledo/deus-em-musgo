@@ -1,16 +1,21 @@
 import { defineConfig } from 'vitepress'
-
+import markdownItAttrs from 'markdown-it-attrs'
 export default defineConfig({
   title: 'Deus em Musgo',
   description: 'Campanha solo de Shadowdark no cenário Deus em Musgo',
   cleanUrls: true,
+  markdown: {
+    config: (md) => {
+      md.use(markdownItAttrs)
+    }
+  },
+
   lastUpdated: true,
 
   ignoreDeadLinks: [
     /_templates/,
     /progressao-e-xp/,
     /encontros-aleatorios/,
-    /tesouros-e-reliquias/,
   ],
 
   srcExclude: [
@@ -23,7 +28,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Início', link: '/' },
-      { text: 'Game Loop Solo', link: '/game-loop' },
+      { text: 'Game Loop Solo', link: '/mecanicas/game-loop' },
     ],
     sidebar: [
       {
@@ -36,14 +41,14 @@ export default defineConfig({
         text: 'Facções',
         collapsed: true,
         items: [
-          { text: 'Todas as Facções', link: '/faccoes/faccoes' },
+          { text: 'Todas as Facções', link: '/locais-e-regioes/faccoes' },
         ],
       },
       {
         text: 'Locais & Regiões',
         collapsed: true,
         items: [
-          { text: 'Mapa da Região', link: '/locais-e-regioes/mapa-da-regiao' },
+          { text: 'Mapa da Região', link: '/locais-e-regioes/locais-detalhados' },
         ],
       },
       {
@@ -75,7 +80,6 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'O Oráculo', link: '/oraculo-solo/o-oraculo' },
-          { text: 'Tesouros & Relíquias', link: '/oraculo-solo/tesouros-e-reliquias' },
           { text: 'Resolução de Desafios', link: '/oraculo-solo/resolucao-de-desafios' },
           { text: 'Gerador de Missão', link: '/oraculo-solo/gerador-de-missao' },
         ],
@@ -102,8 +106,8 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '⭐ Cheat Sheet', link: '/cheat-sheet' },
-          { text: 'Game Loop (Solo)', link: '/game-loop' },
-          { text: 'Game Loop (Grupo)', link: '/game-loop-em-grupo' },
+          { text: 'Game Loop (Solo)', link: '/mecanicas/game-loop' },
+          { text: 'Game Loop (Grupo)', link: '/mecanicas/game-loop-em-grupo' },
           { text: 'Regras Base (SRD)', link: '/regras-base' },
         ],
       },

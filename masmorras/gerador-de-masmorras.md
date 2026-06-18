@@ -1,6 +1,6 @@
 # 💀 Gerador de Masmorras
 
-Role tabelas em sequência para gerar uma masmorra jogável rapidamente. Cada dungeon tem uma folha no template [[Template - Masmorra]].
+Role tabelas em sequência para gerar uma masmorra jogável rapidamente. Cada dungeon tem uma folha no template Template - Masmorra.
 
 ---
 
@@ -265,7 +265,7 @@ Role 1d6 na tabela do tema da dungeon.
 
 ---
 
-## 10. Tesouro Final (1d6 + role na [[Tesouros & Relíquias]])
+## 10. Tesouro Final (1d6 + role na Tesouros & Relíquias)
 
 | d6 | Tesouro |
 |:--:|:--------|

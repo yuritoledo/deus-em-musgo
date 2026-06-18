@@ -143,6 +143,69 @@ Muten ainda não decidiu qual leitura é correta. Talvez as duas sejam.
 - O nome verdadeiro do intruso (se é que tem um) é o maior segredo do cenário
 - Rezar para Muten não é pedir — é silenciar a própria mente e esperar que ela ouça. Personagens que meditam podem ter visões
 
+---
+
+## Manifestações Divinas (Uso em Mesa)
+
+Quando uma entidade se manifesta no jogo, role **1d6** ou escolha.
+
+### Muten — A Voz Silenciosa
+
+| d6 | Manifestação |
+|:--:|:-------------|
+| 1 | **Silêncio absoluto** — todo som cessa por 1d4 rodadas. Nenhuma magia ou item produz som. |
+| 2 | **Sincronicidade** — coincidência improvável favorece o personagem (porta destrancada, item que precisava aparece). |
+| 3 | **Pensamento intrusivo** — ideia clara que não é sua. Pista direta sobre o próximo passo. |
+| 4 | **Tempo para** — tudo congela por 1 rodada, exceto o personagem. |
+| 5 | **Eco do passado** — uma cena anterior se repete como visão, revelando algo que passou despercebido. |
+| 6 | **A Voz fala** — uma palavra em pensamento. Suficiente para virar o rumo da sessão. |
+
+### Lathari — A Primeira Árvore
+
+| d6 | Manifestação |
+|:--:|:-------------|
+| 1 | **Raízes se movem** — abrem caminho ou criam passagem onde não havia. |
+| 2 | **Árvore geme** — revela entrada oculta ou objeto enterrado. |
+| 3 | **Folhas sussurram** — mensagem em Silvestre com aviso ou orientação. |
+| 4 | **Seiva escorre** — role 1d6: 1-3 = cura 1d4 PV, 4-6 = corrompe (1 de Corrupção). |
+| 5 | **Flores desabrocham** — pólen dá visão do passado recente do local. |
+| 6 | **Lathari chora** — o solo treme. Algo perigoso acorda nas proximidades. |
+
+### Ígnara — A Chama Eterna
+
+| d6 | Manifestação |
+|:--:|:-------------|
+| 1 | **Chama azul** — queima sem consumir. Ilumina uma verdade ou revela item oculto. |
+| 2 | **Cinzas quentes caem do nada** — revelam pegadas, marcas ou passagens invisíveis. |
+| 3 | **Fogo-fátuo** — flutua na direção de um perigo ou descoberta importante. |
+| 4 | **Tocha acende ou apaga sozinha** — sinal de aprovação (acende) ou aviso (apaga). |
+| 5 | **Calor súbito** — 1d6 de dano a criaturas da podridão num raio de 6m. |
+| 6 | **Purificação** — uma área de podridão é queimada e limpa. O ciclo recomeça ali. |
+
+### Valia — A Ventura
+
+| d6 | Manifestação |
+|:--:|:-------------|
+| 1 | **Vento muda** — empurra o personagem em direção ou o atrapalha. A critério do jogador. |
+| 2 | **Sorte súbita** — o personagem tem vantagem na próxima rolagem. |
+| 3 | **Caminho aparece** — atalho que não estava ali antes. |
+| 4 | **Azar alheio** — inimigo escorrega, falha, ou algo dá errado para ele. |
+| 5 | **Moeda no chão** — 1d6 PO. Se o número for ímpar, é armadilha. |
+| 6 | **Valia ri** — role um Evento Inesperado imediatamente, além do que está acontecendo. |
+
+### Germen / Viten — O Intruso
+
+| d6 | Manifestação |
+|:--:|:-------------|
+| 1 | **Pulsa** — o chão bate como coração. Todos na área: CON CD 12 ou caem. |
+| 2 | **Esporos brilham** — revelam caminho ou criatura invisível por 1 rodada. |
+| 3 | **Musgo cresce** — instantâneo. Cobre superfície, fecha passagem ou cria ponte. |
+| 4 | **Visão coletiva** — todos veem uma memória do deus. CD 12 SAB ou +1 Corrupção. |
+| 5 | **Corpo reage** — fenda se abre no chão, revelando um veio de osso divino. |
+| 6 | **O intruso fala** — gemido que forma frase. Cada ouvinte interpreta diferente. |
+
+---
+
 ## Linhagem
 
 ```

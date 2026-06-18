@@ -60,6 +60,8 @@ Quando uma dessas ações acontece durante o jogo, ajuste a reputação com a fa
 | Desonrou pacto ou promessa | A facção | -2 |
 | Foi visto ajudando inimigo conhecido | A facção | -1 |
 | Profanou local sagrado | A facção | -3 |
+| Acumulou 3+ de Corrupção | Mosteiro da Chama | -1 por patamar (3/6/9) |
+| Acumulou 3+ de Corrupção | Seguidores da Nieda | +1 por patamar (3/6/9) |
 
 ---
 

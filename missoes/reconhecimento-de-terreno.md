@@ -30,7 +30,7 @@ Um acompanhante vai com você. Cada um tem **3 PV** e um bônus específico. Se 
 
 ### Zona
 
-Use a tabela do [game-loop](../game-loop.md#2-destino---onde-fica) (Tênue, Tocada, Podre, Coração). A zona determina o **alvo de Progresso** e o **perigo**:
+Use a tabela do [game-loop](../mecanicas/game-loop.md#2-destino---onde-fica) (Tênue, Tocada, Podre, Coração). A zona determina o **alvo de Progresso** e o **perigo**:
 
 | Zona | Alvo | Perigo | Modificador |
 |:-----|:----:|:------:|:------------|
@@ -81,7 +81,7 @@ Você completa o reconhecimento. Role ou escolha o que o mapa revela:
 
 | d3 | O mapa revela... |
 |:--:|:-----------------|
-| 1 | **Rotas seguras** — viagens futuras pela zona não precisam rolar obstáculos |
+| 1 | **Rotas seguras** — viagens futuras pela zona não precisam rolar na tabela de Viagem |
 | 2 | **Pontos de interesse** — abrigos, água, recursos. Vantagem em qualquer ação na zona |
 | 3 | **Descoberta extra** — ruína, acampamento inimigo ou local de poder. A facção recompensa com XP ou recurso extra |
 
@@ -91,13 +91,13 @@ O mapa em si já vale como tesouro da missão.
 
 - Se recuar antes do alvo, role **metade do Progresso atual** como informação útil
 - Se o NPC morreu, a facção envolvida perde 1 passo de reputação
-- Se abandonou a missão, role [consequência](../game-loop.md#6-retorno---voltar-pra-casa) normal
+- Se abandonou a missão, role [consequência](../mecanicas/game-loop.md#6-retorno---voltar-pra-casa) normal
 
 ---
 
 ## Combinando com o Game Loop
 
-1. **Gancho + Destino + Viagem** — use as regras normais do [game-loop](../game-loop.md)
+1. **Gancho + Destino + Viagem** — use as regras normais do [game-loop](../mecanicas/game-loop.md)
 2. **Chegando na zona** — inicia o ciclo de Recon acima
-3. **Retorno** — metade dos obstáculos (caminho conhecido). Se completou, leva o mapa
+3. **Retorno** — metade dos testes de viagem (caminho conhecido). Se completou, leva o mapa
 4. **Descanso** — normal. NPCs feridos se recuperam em 1 descanso no Mosteiro

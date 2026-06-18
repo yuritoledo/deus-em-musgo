@@ -6,11 +6,12 @@
 
 ## Local
 
-| Distância | Obstáculos | Perigo |
-|:---------:|:----------:|:------:|
-| Perto (horas) | 1 | Arriscado (Zona Tocada) |
+| Distância | Perigo |
+|:---------:|:------:|
+| Perto (horas) | Arriscado (Zona Tocada) |
+*Viagem segue as regras do [Game Loop](../mecanicas/game-loop.md#3-viagem)*
 
-[**Torre do Cemitério**](../locais-e-regioes/locais-detalhados.md#5-torre-do-cemiteio) — torre de pedra inclinada de 15m, encravada num morro baixo. Ao redor, lápides partidas e mausoléus abertos.
+[**Torre do Cemitério**](../locais-e-regioes/locais-detalhados.md#torre-cemiterio) — torre de pedra inclinada de 15m, encravada num morro baixo. Ao redor, lápides partidas e mausoléus abertos.
 
 **Chegando:** A trilha sumiu — a última estiagem virou lama. Terreno difícil na abordagem. Quem guia faz SAB CD 12 ou o grupo leva 1h extra pra chegar.
 

@@ -6,9 +6,10 @@
 
 ## Local
 
-| Distância | Obstáculos | Perigo |
-|:---------:|:----------:|:------:|
-| Dentro do Mosteiro | 0 (mas furtividade) | Nenhum (mas se pego, perde reputação) |
+| Distância | Perigo |
+|:---------:|:------:|
+| Dentro do Mosteiro | Nenhum (mas se pego, perde reputação) |
+*Sem obstáculos de viagem. A furtividade resolve o desafio.*
 
 **Ala dos Devotos:** Corredor úmido, parede de pedra coberta de musgo cultivado em sulcos verticais. Portas de madeira para 3 salas: estufa principal, laboratório de amostras, dormitório dos pesquisadores. O ar é mais quente que no resto do Mosteiro.
 

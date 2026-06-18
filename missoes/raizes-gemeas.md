@@ -6,9 +6,10 @@
 
 ## Local
 
-| Distância | Obstáculos | Perigo |
-|:---------:|:----------:|:------:|
-| Perto (horas) | 1 | Inseguro (Zona Tênue) |
+| Distância | Perigo |
+|:---------:|:------:|
+| Perto (horas) | Inseguro (Zona Tênue) |
+*Viagem segue as regras do [Game Loop](../mecanicas/game-loop.md#3-viagem)*
 
 **As Árvores:** Dois carvalhos antigos, um de cada lado do leito seco. Suas copas estão inclinadas uma pra outra. As raízes avançam pelo leito como dedos se estendendo. Quando o grupo chegar, as raízes **já se encontraram** — formaram um entrelaçado no centro do leito seco. No meio do entrelaçado, uma cavidade do tamanho de um punho, cheia de líquido claro.
 

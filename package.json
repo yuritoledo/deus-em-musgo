@@ -9,6 +9,7 @@
     "preview": "vitepress preview . --port 3000"
   },
   "devDependencies": {
+    "markdown-it-attrs": "^5.0.0",
     "vitepress": "^1.6.3"
   }
 }

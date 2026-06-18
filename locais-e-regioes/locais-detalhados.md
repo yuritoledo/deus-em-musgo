@@ -4,7 +4,39 @@
 
 ---
 
-## 1. Trilha do Leao
+
+## Mapa da Região {#mapa-regiao}
+
+*Mapa narrativo / pointcrawl. Conexões entre locais conhecidos.*
+
+### Locais Conhecidos
+
+```
+         [Montanhas do Norte]
+                |
+     [Bosque dos Sussurros] ——— [Colina Pulsante]
+                |                      |
+[Planície dos Ossos] ——— [Mosteiro da Chama] ——— (Portão)
+                |                      |
+          (Ruínas Submersas)    [Estufa do Verde]
+```
+
+O território se divide pelo nível de exposição à podridão:
+
+| Zona | Perigo | Descrição |
+|:-----|:------:|:----------|
+| **Segura** | Nenhum | Dentro das muralhas do mosteiro |
+| **Tênue** | Inseguro | Até 1 dia do mosteiro. Musgo leve, esporos raros |
+| **Tocada** | Arriscado | 1-3 dias. Vegetação agressiva, ar pesado, criaturas mutadas |
+| **Podre** | Mortal | 3+ dias. Visibilidade reduzida, esporos constantes, solo instável |
+| **Coração** | Crítico | A cratera. O corpo do deus |
+
+### Locais para Descobrir
+
+*A explorar conforme as sessões.*
+
+---
+## 1. Trilha do Leao {#trilha-leao}
 
 **Regiao:** Zona Tenue / fronteira com Tocada
 **Perigo:** Inseguro
@@ -24,7 +56,7 @@
 
 ---
 
-## 2. Antiga Estalagem
+## 2. Antiga Estalagem {#antiga-estalagem}
 
 **Regiao:** Zona Tenue / Tocada
 **Perigo:** Inseguro
@@ -44,7 +76,7 @@
 
 ---
 
-## 3. Monolito do Sol Ascendente
+## 3. Monolito do Sol Ascendente {#monolito-sol-ascendente}
 
 **Regiao:** Zona Tocada / Podre
 **Perigo:** Arriscado
@@ -64,7 +96,7 @@
 
 ---
 
-## 4. Mata dos Sonhos
+## 4. Mata dos Sonhos {#mata-sonhos}
 
 **Regiao:** Zona Tocada / Podre
 **Perigo:** Arriscado
@@ -85,7 +117,7 @@
 
 ---
 
-## 5. Torre do Cemiterio
+## 5. Torre do Cemiterio {#torre-cemiterio}
 
 **Regiao:** Zona Tocada
 **Perigo:** Arriscado
@@ -107,7 +139,7 @@
 
 ---
 
-## 6. Poco dos Ossos
+## 6. Poco dos Ossos {#poco-ossos}
 
 **Regiao:** Zona Podre
 **Perigo:** Mortal
@@ -128,7 +160,7 @@
 
 ---
 
-## 7. Colina Pulsante
+## 7. Colina Pulsante {#colina-pulsante}
 
 **Regiao:** Zona Podre
 **Perigo:** Mortal
@@ -148,7 +180,7 @@
 
 ---
 
-## 8. Caverna do Sussurro
+## 8. Caverna do Sussurro {#caverna-sussurro}
 
 **Regiao:** Zona Podre / Coracao
 **Perigo:** Mortal
@@ -169,7 +201,7 @@
 
 ---
 
-## 9. Ruinas do Aqueduto
+## 9. Ruinas do Aqueduto {#ruinas-aqueduto}
 
 **Regiao:** Zona Tenue / Tocada
 **Perigo:** Inseguro
@@ -190,7 +222,7 @@
 
 ---
 
-## 10. Planicie dos Ossos
+## 10. Planicie dos Ossos {#planicie-ossos}
 
 **Regiao:** Zona Tocada
 **Perigo:** Arriscado
@@ -211,7 +243,7 @@
 
 ---
 
-## 11. Cripta dos Monges
+## 11. Cripta dos Monges {#cripta-monges}
 
 **Regiao:** Zona Tocada
 **Perigo:** Arriscado
@@ -232,7 +264,7 @@
 
 ---
 
-## 12. Cratera do Deus
+## 12. Cratera do Deus {#cratera-deus}
 
 **Regiao:** Zona Coracao
 **Perigo:** Critico
@@ -305,7 +337,7 @@ A cratera funciona como uma **masmorra de 3 patamares**. Cada patamar tem 1d4+2 
 
 ---
 
-## 13. Capela da Purificação
+## 13. Capela da Purificação {#capela-purificacao}
 
 **Região:** Zona Tênue / beira da Tocada
 **Perigo:** Inseguro (o perigo não são monstros — é o que vai acontecer ali)
@@ -353,7 +385,7 @@ A execução está marcada para o **pôr do sol**. Até lá, o grupo precisa man
 
 ---
 
-## 14. Selva-pomar dos Itens Perdidos
+## 14. Selva-pomar dos Itens Perdidos {#selva-pomar}
 
 **Região:** Zona Tocada (fronteira com a Tênue)
 **Perigo:** Arriscado

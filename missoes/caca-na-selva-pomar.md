@@ -15,11 +15,12 @@
 
 ## Local
 
-| Distância | Obstáculos | Perigo |
-|:---------:|:----------:|:------:|
-| Longe (1 dia) | 3 | Arriscado (Zona Tocada) |
+| Distância | Perigo |
+|:---------:|:------:|
+| Longe (1 dia) | Arriscado (Zona Tocada) |
+*Viagem segue as regras do [Game Loop](../mecanicas/game-loop.md#3-viagem)*
 
-[**Selva-pomar dos Itens Perdidos**](../locais-e-regioes/locais-detalhados.md#14-selva-pomar-dos-itens-perdidos): Depressão de árvores em círculos concêntricos. Algumas dão fruto; outras dão **itens** embrulhados em casca. No centro, a **Kaktuia** — árvore enorme de folhas roxas. À noite, contos aparecem escritos no tronco (role 1d6: 1-3 pista real, 4-5 fantasioso, 6 = item perdido ainda na área).
+[**Selva-pomar dos Itens Perdidos**](../locais-e-regioes/locais-detalhados.md#selva-pomar): Depressão de árvores em círculos concêntricos. Algumas dão fruto; outras dão **itens** embrulhados em casca. No centro, a **Kaktuia** — árvore enorme de folhas roxas. À noite, contos aparecem escritos no tronco (role 1d6: 1-3 pista real, 4-5 fantasioso, 6 = item perdido ainda na área).
 
 ---
 

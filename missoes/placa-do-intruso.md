@@ -6,9 +6,10 @@
 
 ## Local
 
-| Distância | Obstáculos | Perigo |
-|:---------:|:----------:|:------:|
-| Média (meio dia) | 2 | Arriscado (Zona Tocada) |
+| Distância | Perigo |
+|:---------:|:------:|
+| Média (meio dia) | Arriscado (Zona Tocada) |
+*Viagem segue as regras do [Game Loop](../mecanicas/game-loop.md#3-viagem)*
 
 **Acampamento dos Mercadores:** Barracas armadas perto de um riacho seco. 1d4 carroças, besteiros nos perímetros, e no centro a placa — enrolada em lona, corrente e cadeado. O capataz (Greta, se estiver ativa) não deixa ninguém chegar perto sem pagamento.
 

@@ -6,9 +6,10 @@
 
 ## Local
 
-| Distância | Obstáculos | Perigo |
-|:---------:|:----------:|:------:|
-| Perto (horas) | 1 | Inseguro (Zona Tênue) |
+| Distância | Perigo |
+|:---------:|:------:|
+| Perto (horas) | Inseguro (Zona Tênue) |
+*Viagem segue as regras do [Game Loop](../mecanicas/game-loop.md#3-viagem)*
 
 **A Clareira:** Círculo perfeito de terra nua, uns 10m de diâmetro. O musgo da floresta para na borda como se uma linha invisível cortasse o chão. No centro, uma pedra escura do tamanho de um escudo, lisa, quente ao toque. Sem musgo, sem formiga, sem som de pássaro — o silêncio aqui é diferente, mais denso.
 
